@@ -1,0 +1,2236 @@
+Genome_Name	NCBI_ID	Environment	Oxygen_Tolerance	Pathogenicity	Latitude	Longitude
+Abiotrophia_defectiva_ATCC_49176	592010	Human, Oral (Other)	NA	NA	NA	NA
+Acaryochloris_marina_MBIC11017	329726	Non-Human, Marine (Other)	Aerobe	Non-Pathogen	-7.532264	131.361112
+Acetobacter_pasteurianus_IFO_3283_01	634452	Non-Human	Aerobe	NA	35.18	136.906389
+Acetobacter_pasteurianus_IFO_3283_01_42C	634458	Non-Human	Aerobe	NA	35.18	136.906
+Acetobacter_pasteurianus_IFO_3283_03	634453	Non-Human	Aerobe	NA	35.18	136.906
+Acetobacter_pasteurianus_IFO_3283_07	634454	Non-Human	Aerobe	NA	35.18	136.906
+Acetobacter_pasteurianus_IFO_3283_12	634459	Non-Human	Aerobe	NA	35.18	136.906
+Acetobacter_pasteurianus_IFO_3283_22	634455	Non-Human	Aerobe	NA	35.18	136.906
+Acetobacter_pasteurianus_IFO_3283_26	634456	Non-Human	Aerobe	NA	35.18	136.906
+Acetobacter_pasteurianus_IFO_3283_32	634457	Non-Human	Aerobe	NA	35.18	136.906
+Acholeplasma_laidlawii_PG_8A	441768	Non-Human, Soil	Facultative	NA	NA	NA
+Achromobacter_piechaudii_ATCC_43553	742159	Human, Airways (Other)	NA	NA	NA	NA
+Acidaminococcus_fermentans_DSM_20731	591001	Non-Human, Farm	Anaerobe	NA	NA	NA
+Acidaminococcus_sp_D21_V1	563191	Human, Gut	Anaerobe	NA	NA	NA
+Acidimicrobium_ferrooxidans_DSM_10331	525909	Non-Human	Aerobe	NA	63.93	-22.1
+Acidiphilium_cryptum_JF_5	349163	Non-Human	Aerobe	Non-Pathogen	NA	NA
+Acidithiobacillus_caldus_ATCC_51756	637389	Non-Human	NA	NA	NA	NA
+Acidithiobacillus_ferrooxidans_ATCC_23270	243159	Non-Human	Obligate aerobe	NA	NA	NA
+Acidithiobacillus_ferrooxidans_ATCC_53993	380394	Non-Human	Obligate aerobe	NA	NA	NA
+Acidobacterium_capsulatum_ATCC_51196	240015	Non-Human, Soil	Aerobe	NA	34.93171	134.082527
+Acidothermus_cellulolyticus_11B	351607	Non-Human, Hydrothermal	Aerobe	Non-Pathogen	44.393704	-110.567703
+Acidovorax_avenae_citrulli_AAC00_1	397945	Non-Human	Aerobe	Pathogen	NA	NA
+Acidovorax_delafieldii_2AN	573060	Non-Human, Soil	Aerobe	NA	NA	NA
+Acidovorax_ebreus_TPSY	535289	Non-Human	Facultative	NA	NA	NA
+Acidovorax_sp_JS42	232721	Non-Human, Soil	Aerobe	Non-Pathogen	NA	NA
+Aciduliprofundum_boonei_T469	439481	Non-Human, Marine (Other)	Facultative	NA	-22.16889	-176.60028
+Acinetobacter_baumannii_AB0057	480119	Human	Aerobe	Pathogen	NA	NA
+Acinetobacter_baumannii_AB307_0294	557600	Human	Aerobe	Pathogen	42.886875	-78.877875
+Acinetobacter_baumannii_AB900	557601	Human, Gut	Aerobe	Pathogen	42.886875	-78.877875
+Acinetobacter_baumannii_ACICU	405416	Human	Aerobe	Pathogen	41.895466	12.482324
+Acinetobacter_baumannii_ATCC_17978	400667	Human	Aerobe	Pathogen	NA	NA
+Acinetobacter_baumannii_ATCC_19606	575584	Human, Urogenital (Other)	Anaerobe	Pathogen	NA	NA
+Acinetobacter_baumannii_AYE	509173	Human	Aerobe	Pathogen	NA	NA
+Acinetobacter_baumannii_SDF	509170	Human	Aerobe	Pathogen	NA	NA
+Acinetobacter_calcoaceticus_RUH2202	575585	Human, Skin	Aerobe	Pathogen	55.603	13.001
+Acinetobacter_haemolyticus_ATCC_19194	707232	Human, Airways (Other)	Aerobe	NA	NA	NA
+Acinetobacter_johnsonii_SH046	575586	Human, Skin	Anaerobe	NA	NA	NA
+Acinetobacter_junii_SH205	575587	Human, Gut, Skin	Anaerobe	NA	NA	NA
+Acinetobacter_lwoffii_SH145	575588	Human, Skin	Anaerobe	NA	NA	NA
+Acinetobacter_radioresistens_SH164	575589	Human, Skin	Anaerobe	NA	NA	NA
+Acinetobacter_radioresistens_SK82	596318	Human, Skin	Anaerobe	NA	NA	NA
+Acinetobacter_sp_6013113	592014	Human, Skin	Aerobe	NA	NA	NA
+Acinetobacter_sp_6013150	525243	Human, Skin	Aerobe	NA	NA	NA
+Acinetobacter_sp_6014059	525242	Human, Skin	Aerobe	NA	NA	NA
+Acinetobacter_sp_ADP1	62977	Human, Soil, Food	Aerobe	Pathogen	NA	NA
+Acinetobacter_sp_ATCC_27244	525244	Human, Skin	Aerobe	NA	NA	NA
+Acinetobacter_sp_RUH2624	575564	Human, Skin	Anaerobe	NA	NA	NA
+Acinetobacter_sp_SH024	575565	Human, Skin	Anaerobe	NA	NA	NA
+Actinobacillus_minor_202	591023	Non-Human, Farm	Facultative	NA	NA	NA
+Actinobacillus_minor_NM305	637911	Non-Human, Farm	Facultative	NA	NA	NA
+Actinobacillus_pleuropneumoniae_L20	416269	Non-Human	Facultative	Pathogen	NA	NA
+Actinobacillus_pleuropneumoniae_sv_1_4074	228399	Non-Human, Farm	Facultative	Pathogen	NA	NA
+Actinobacillus_pleuropneumoniae_sv_3_JL03	434271	Non-Human, Farm	Facultative	Pathogen	NA	NA
+Actinobacillus_pleuropneumoniae_sv_7_AP76	537457	Non-Human, Farm	Facultative	Pathogen	NA	NA
+Actinobacillus_succinogenes_130Z	339671	Non-Human, Farm	Facultative	NA	44.6264	-85.6091
+Actinomyces_coleocanis_DSM_15436	525245	Human, Urogenital (Vaginal)	Anaerobe	NA	NA	NA
+Actinomyces_odontolyticus_ATCC_17982	411466	Human, Oral (Other)	Facultative	Pathogen	NA	NA
+Actinomyces_odontolyticus_F0309	649742	Human, Airways (Other)	Facultative	Pathogen	NA	NA
+Actinomyces_sp_oral_taxon_848_str_F0332	649743	Human, Oral (Other)	Facultative	Pathogen	NA	NA
+Actinomyces_urogenitalis_DSM_15434	525246	Human, Urogenital (Vaginal)	Microaerophilic	NA	NA	NA
+Actinosynnema_mirum_DSM_43827	446462	Non-Human, Soil	Aerobe	NA	40.491816	-74.322087
+Aerococcus_viridans	1377	Human, Urogenital (Vaginal)	Microaerophilic	NA	NA	NA
+Aeromicrobium_marinum_DSM_15272	585531	Human, Oral (Other), Marine (Heterotroph)	Microaerophilic	NA	NA	NA
+Aeromonas_hydrophila_hydrophila_ATCC_7966	380703	Human, Food	Facultative	Pathogen	NA	NA
+Aeromonas_salmonicida_salmonicida_A449	382245	Non-Human	Facultative	Pathogen	NA	NA
+Aeropyrum_pernix_K1	272557	Non-Human, Marine (Heterotroph)	Aerobe	NA	NA	NA
+Aggregatibacter_actinomycetemcomitans_D11S_1	668336	Human, Oral (Other)	Facultative	Pathogen	NA	NA
+Aggregatibacter_actinomycetemcomitans_D7S_1	694569	Human, Oral (Gingivae)	Facultative	Pathogen	NA	NA
+Aggregatibacter_aphrophilus_NJ8700	634176	Human, Oral (Other)	Facultative	Non-Pathogen	NA	NA
+Agreia_sp_PHSC20C1	312284	Non-Human, Marine (Other)	Aerobe	NA	-64.76667	-64.06667
+Agrobacterium_radiobacter_K84	311403	Human	Aerobe	Pathogen	NA	NA
+Agrobacterium_tumefaciens_C58_Cereon	176299	Non-Human	Aerobe	Pathogen	NA	NA
+Agrobacterium_tumefaciens_C58_Dupont	176299	Non-Human	Aerobe	Pathogen	NA	NA
+Agrobacterium_vitis_S4	311402	Non-Human	Aerobe	Pathogen	NA	NA
+Akkermansia_muciniphila_ATCC_BAA_835	349741	Human, Gut	Anaerobe	NA	NA	NA
+Alcanivorax_borkumensis_SK2	393595	Non-Human, Marine (Other)	Aerobe	Non-Pathogen	53.598161	6.702723
+Alcanivorax_sp_DG881	236097	Non-Human, Marine (Heterotroph)	Aerobe	NA	-42.88667	147.78333
+Algoriphagus_sp_PR1	388413	Non-Human, Marine (Heterotroph)	Aerobe	NA	NA	NA
+Alicyclobacillus_acidocaldarius_LAA1	543302	Non-Human, Hydrothermal	Aerobe	NA	44.376262	-110.690383
+Alicyclobacillus_acidocaldarius_acidocaldarius_104_IA_DSM_446	521098	Non-Human	Aerobe	NA	44.376	-110.69
+Aliivibrio_salmonicida_LFI1238	316275	Non-Human	Facultative	Pathogen	70.662316	23.682752
+Alistipes_putredinis_DSM_17216	445970	Human, Gut, Soil	Anaerobe	NA	NA	NA
+Alkalilimnicola_ehrlichei_MLHE_1	187272	Non-Human	Anaerobe	Non-Pathogen	37.986853	-119.045711
+Alkaliphilus_metalliredigens_QYMF	293826	Non-Human	Anaerobe	Non-Pathogen	NA	NA
+Alkaliphilus_oremlandii_OhILAs	350688	Non-Human	Anaerobe	Non-Pathogen	NA	NA
+Allochromatium_vinosum_DSM_180	572477	Non-Human	Anaerobe	NA	NA	NA
+Alteromonas_macleodii_Deep_ecotype_DSM_17117	314275	Non-Human, Marine (Heterotroph)	Aerobe	NA	41.6	17.36889
+Aminobacterium_colombiense_DSM_12261	572547	Non-Human	Obligate anaerobe	NA	4.63	-74.08
+Ammonifex_degensii_KC4	429009	Non-Human, Hydrothermal	Anaerobe	NA	NA	NA
+Anabaena_azollae_0708	551115	Non-Human	Aerobe	NA	NA	NA
+Anabaena_variabilis_ATCC_29413	240292	Non-Human, Soil	Aerobe	NA	NA	NA
+Anaerobaculum_hydrogeniformans_ATCC_BAA_1850	592015	Human, Gut, Oral (Other)	Obligate anaerobe	NA	NA	NA
+Anaerococcus_hydrogenalis_DSM_7454	561177	Human, Gut	Anaerobe	NA	NA	NA
+Anaerococcus_lactolyticus_ATCC_51172	525254	Human, Urogenital (Vaginal)	Anaerobe	NA	NA	NA
+Anaerococcus_prevotii_PC_1_DSM_20548	525919	Human	Anaerobe	NA	NA	NA
+Anaerococcus_tetradius_ATCC_35098	525255	Human, Urogenital (Vaginal)	Anaerobe	NA	NA	NA
+Anaerococcus_vaginalis_ATCC_51170	655811	Human, Skin	Anaerobe	NA	NA	NA
+Anaerofustis_stercorihominis_DSM_17244	445971	Human, Gut	Anaerobe	Non-Pathogen	34.052187	-118.243425
+Anaeromyxobacter_dehalogenans_2CP_1	455488	Non-Human, Soil	Anaerobe	NA	42.733621	-84.546582
+Anaeromyxobacter_dehalogenans_2CP_C	290397	Non-Human, Soil	Anaerobe	Non-Pathogen	NA	NA
+Anaeromyxobacter_sp_Fw109_5	404589	Non-Human, Soil	Anaerobe	Non-Pathogen	NA	NA
+Anaeromyxobacter_sp_K	447217	Non-Human, Soil	Anaerobe	NA	NA	NA
+Anaerostipes_caccae_DSM_14662	411490	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Anaerotruncus_colihominis_DSM_17241	445972	Human, Gut	Anaerobe	NA	41.875156	-87.667984
+Anaplasma_centrale_str_Israel	574556	Non-Human	Aerobe	Pathogen	NA	NA
+Anaplasma_marginale_Florida	320483	Non-Human, Farm	Aerobe	Pathogen	NA	NA
+Anaplasma_marginale_St_Maries	234826	Non-Human, Farm	Aerobe	Pathogen	NA	NA
+Anaplasma_marginale_str_Mississippi	517436	Non-Human, Farm	Aerobe	Pathogen	NA	NA
+Anaplasma_marginale_str_Puerto_Rico	517437	Human	Aerobe	Pathogen	NA	NA
+Anaplasma_marginale_str_Virginia	403779	Human	Aerobe	Pathogen	NA	NA
+Anaplasma_phagocytophilum_HZ	212042	Human	Aerobe	Pathogen	40.756054	-73.986951
+Anoxybacillus_flavithermus_WK1	491915	Non-Human, Hydrothermal	Facultative	NA	-38.626686	176.103491
+Aquifex_aeolicus_VF5	224324	Non-Human, Hydrothermal, Marine (Other)	Facultative	NA	NA	NA
+Arcanobacterium_haemolyticum_DSM_20595	644284	Human, Oral (Other)	Anaerobe	NA	NA	NA
+Archaeoglobus_fulgidus_DSM_4304	224325	Non-Human, Marine (Other)	Obligate anaerobe	Pathogen	NA	NA
+Archaeoglobus_profundus_DSM_5631	572546	Non-Human, Marine (Other)	Anaerobe	NA	14.84	-17.23
+Arcobacter_butzleri_RM4018	367737	Human, Marine (Other)	Aerobe	Pathogen	NA	NA
+Arcobacter_nitrofigilis_DSM_7299	572480	Non-Human	Microaerophilic	NA	44.65	-63.6
+Aromatoleum_aromaticum_EbN1	76114	Non-Human, Soil	Facultative	NA	NA	NA
+Arthrobacter_aurescens_TC1	290340	Non-Human, Soil	Aerobe	Non-Pathogen	NA	NA
+Arthrobacter_chlorophenolicus_A6	452863	Non-Human, Soil	Aerobe	NA	40.567095	-105.077036
+Arthrobacter_sp_FB24	290399	Non-Human, Soil	Aerobe	Pathogen	NA	NA
+Arthrospira_maxima_CS_328	513049	Non-Human	Facultative	NA	13.330266	14.100133
+Arthrospira_platensis_str_Paraca	634502	Non-Human	Facultative	NA	NA	NA
+Aster_yellows_witches_broom_phytoplasma_AYWB	322098	Non-Human	Aerobe	Pathogen	41	-82.4498
+Asticcacaulis_excentricus_CB_48	573065	Non-Human	Aerobe	NA	NA	NA
+Atopobium_parvulum_DSM_20469	521095	Human, Oral (Gingivae)	Obligate anaerobe	NA	NA	NA
+Atopobium_rimae_ATCC_49626	553184	Human, Oral (Other)	Anaerobe	Pathogen	NA	NA
+Atopobium_vaginae_DSM_15829	525256	Human, Urogenital (Vaginal)	Anaerobe	NA	NA	NA
+Aurantimonas_sp_SI85_9A1	314269	Non-Human, Marine (Other)	Aerobe	Pathogen	48.9	-123.88333
+Azoarcus_sp_BH72	62928	Non-Human, Soil	Facultative	Non-Pathogen	31.5841	72.6599
+Azorhizobium_caulinodans_ORS_571	438753	Non-Human	NA	NA	NA	NA
+Azospirillum_sp_B510	137722	Non-Human, Soil	Facultative	NA	NA	NA
+Azotobacter_vinelandii_DJ_ATCC_BAA_1303	322710	Non-Human, Soil	Aerobe	NA	NA	NA
+Bacillus_amyloliquefaciens_FZB42	326423	Non-Human, Soil	Aerobe	NA	NA	NA
+Bacillus_anthracis_A0174	486622	Non-Human	Facultative	NA	NA	NA
+Bacillus_anthracis_A0193	486619	Non-Human, Farm	Facultative	Pathogen	NA	NA
+Bacillus_anthracis_A0248	592021	Human	Facultative	Pathogen	NA	NA
+Bacillus_anthracis_A0389	486623	Non-Human	Facultative	Pathogen	-6.247447	107.148452
+Bacillus_anthracis_A0442	486621	Human	Facultative	Pathogen	-23.821424	31.445618
+Bacillus_anthracis_A0465	486620	Non-Human, Farm	Facultative	Pathogen	NA	NA
+Bacillus_anthracis_A0488	486624	Non-Human, Farm	Facultative	Pathogen	NA	NA
+Bacillus_anthracis_Ames	198094	Non-Human, Soil	Aerobe	Non-Pathogen	NA	NA
+Bacillus_anthracis_Ames_Ancestor	261594	Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_anthracis_CDC_684	568206	Human, Soil	Aerobe	Pathogen	NA	NA
+Bacillus_anthracis_Sterne	260799	Non-Human, Soil	Facultative	Non-Pathogen	51.372	-0.452
+Bacillus_anthracis_Tsiankovskii_I	405536	Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_anthracis_str_A1055	280355	Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_anthracis_str_Australia_94	280477	Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_anthracis_str_CNEVA_9066	280354	Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_anthracis_str_Kruger_B	205919	Human, Soil	Aerobe	Pathogen	-23.821424	31.445618
+Bacillus_anthracis_str_Vollum	261591	Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_anthracis_str_Western_North_America_USA6153	212045	Human, Soil	Aerobe	Pathogen	NA	NA
+Bacillus_cellulosilyticus_DSM_2522	649639	Non-Human, Soil	Facultative	NA	NA	NA
+Bacillus_cereus_03BB102	572264	Human, Soil	Facultative	Pathogen	29.425037	-98.493722
+Bacillus_cereus_03BB108	451709	Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_cereus_172560W	526967	Human, Skin, Soil	Aerobe	Pathogen	NA	NA
+Bacillus_cereus_95_8201	526979	Human, Soil	Aerobe	Pathogen	NA	NA
+Bacillus_cereus_AH1134	405533	Human, Soil	Facultative	Pathogen	35.493138	-97.45914
+Bacillus_cereus_AH1271	526992	Human, Soil	Aerobe	Pathogen	NA	NA
+Bacillus_cereus_AH1272	526993	Human, Urogenital (Other), Soil	Aerobe	Pathogen	NA	NA
+Bacillus_cereus_AH1273	526994	Human, Soil	Aerobe	Pathogen	NA	NA
+Bacillus_cereus_AH187	405534	Human, Gut, Soil	Facultative	Pathogen	51.500152	-0.126236
+Bacillus_cereus_AH603	526990	Human, Soil	Aerobe	Pathogen	NA	NA
+Bacillus_cereus_AH621	526972	Human, Soil	Aerobe	Pathogen	NA	NA
+Bacillus_cereus_AH676	526991	Human, Soil	Aerobe	Pathogen	NA	NA
+Bacillus_cereus_AH820	405535	Human, Oral (Other), Soil	Facultative	Pathogen	60.00002	11.36903
+Bacillus_cereus_ATCC_10876	526980	Human, Soil	Aerobe	Pathogen	NA	NA
+Bacillus_cereus_ATCC_10987	222523	Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_cereus_ATCC_14579	226900	Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_cereus_ATCC_4342	526977	Human, Soil	Aerobe	Pathogen	NA	NA
+Bacillus_cereus_B4264	405532	Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_cereus_BDRD_Cer4	526978	Human, Soil	Aerobe	Pathogen	NA	NA
+Bacillus_cereus_BDRD_ST196	526976	Human, Soil	Aerobe	Pathogen	NA	NA
+Bacillus_cereus_BDRD_ST24	526974	Human, Soil	Aerobe	Pathogen	NA	NA
+Bacillus_cereus_BDRD_ST26	526975	Human, Soil	Aerobe	Pathogen	NA	NA
+Bacillus_cereus_BGSC_6E1	526970	Human, Soil	Aerobe	Pathogen	NA	NA
+Bacillus_cereus_E33L	288681	Human, Soil	Facultative	Pathogen	-19.018917	16.346379
+Bacillus_cereus_F65185	526989	Human, Soil	Aerobe	Pathogen	40.756054	-73.986951
+Bacillus_cereus_G9241	269801	Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_cereus_G9842	405531	Human, Gut, Soil	Facultative	Pathogen	NA	NA
+Bacillus_cereus_H3081_97	451708	Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_cereus_MM3	526971	Human, Soil	Aerobe	Pathogen	NA	NA
+Bacillus_cereus_NVH0597_99	451707	Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_cereus_Q1	361100	Non-Human, Soil	Facultative	Non-Pathogen	46.59019	125.104637
+Bacillus_cereus_R309803	526968	Human, Soil	Aerobe	Pathogen	NA	NA
+Bacillus_cereus_Rock1_15	526982	Human, Soil	Aerobe	Pathogen	39.083916	-77.156823
+Bacillus_cereus_Rock1_3	526981	Human, Soil	Aerobe	Pathogen	39.083916	-77.156823
+Bacillus_cereus_Rock3_29	526984	Human, Soil	Aerobe	Pathogen	39.083916	-77.156823
+Bacillus_cereus_Rock3_42	526985	Human, Soil	Aerobe	Pathogen	39.083916	-77.156823
+Bacillus_cereus_Rock3_44	526986	Human, Soil	Aerobe	Pathogen	39.083916	-77.156823
+Bacillus_cereus_Rock4_18	526988	Human, Soil	Aerobe	Pathogen	39.083916	-77.156823
+Bacillus_cereus_Rock4_2	526987	Human, Soil	Aerobe	Pathogen	NA	NA
+Bacillus_cereus_W	405917	Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_cereus_cytotoxis_NVH_391_98	315749	Non-Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_cereus_m1293	526973	Human, Soil	Aerobe	Pathogen	NA	NA
+Bacillus_cereus_mm1550	526969	Human, Soil	Aerobe	Pathogen	NA	NA
+Bacillus_clausii_KSM_K16	66692	Non-Human, Soil	NA	NA	NA	NA
+Bacillus_coagulans_36D1	345219	Non-Human, Soil	Facultative	NA	38.579	-122.58
+Bacillus_coahuilensis_m4_4	441769	Non-Human	NA	NA	26.986559	-102.063686
+Bacillus_halodurans_C_125	272558	Non-Human, Soil	Facultative	NA	NA	NA
+Bacillus_licheniformis_ATCC_14580_Goettingen	279010	Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_licheniformis_ATCC_14580_Novozymes	279010	Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_megaterium_DSM319	592022	Non-Human, Soil	Facultative	NA	NA	NA
+Bacillus_megaterium_QM_B1551	545693	Non-Human, Soil	Aerobe	NA	42.283783	-71.347275
+Bacillus_mycoides_DSM_2048	526997	Non-Human, Soil	Aerobe	NA	NA	NA
+Bacillus_mycoides_Rock1_4	526998	Non-Human, Soil	Aerobe	NA	NA	NA
+Bacillus_mycoides_Rock3_17	526999	Non-Human, Soil	Aerobe	NA	NA	NA
+Bacillus_pseudofirmus_OF4	398511	Non-Human, Soil	Facultative	NA	NA	NA
+Bacillus_pseudomycoides_DSM_12442	527000	Non-Human, Soil	Aerobe	NA	NA	NA
+Bacillus_pumilus_ATCC_7061	536229	Non-Human, Soil	Aerobe	Non-Pathogen	NA	NA
+Bacillus_pumilus_SAFR_032	315750	Non-Human, Soil	Aerobe	Pathogen	NA	NA
+Bacillus_selenitireducens_MLS10	439292	Non-Human	Facultative	NA	37.986853	-119.045711
+Bacillus_sp_B14905	388400	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Bacillus_sp_NRRL_B_14911	313627	Non-Human, Marine (Other)	NA	NA	26.35	-84.5
+Bacillus_sp_SG_1	161544	Non-Human, Marine (Other)	NA	NA	NA	NA
+Bacillus_subtilis_NCIB_3610	535026	Non-Human, Soil	Facultative	NA	NA	NA
+Bacillus_subtilis_subsp_spizizenii_ATCC_6633	703612	Non-Human, Soil	Facultative	NA	NA	NA
+Bacillus_subtilis_subsp_subtilis_str_168	224308	Non-Human, Soil	Facultative	NA	50.814788	8.769239
+Bacillus_subtilis_subtilis_168	224308	Non-Human, Soil	Facultative	NA	NA	NA
+Bacillus_subtilis_subtilis_JH642	535025	Non-Human, Soil	Facultative	NA	NA	NA
+Bacillus_subtilis_subtilis_SMY	535024	Non-Human, Soil	Facultative	NA	NA	NA
+Bacillus_thuringiensis_Al_Hakam	412694	Human, Skin, Soil	Facultative	Pathogen	NA	NA
+Bacillus_thuringiensis_BMB171	714359	Non-Human	Microaerophilic	NA	NA	NA
+Bacillus_thuringiensis_Bt407	527021	Non-Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_thuringiensis_IBL200	527019	Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_thuringiensis_IBL4222	527020	Non-Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_thuringiensis_sv_andalousiensis_BGSC_4AW1	527032	Non-Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_thuringiensis_sv_berliner_ATCC_10792	527031	Non-Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_thuringiensis_sv_huazhongensis_BGSC_4BD1	527030	Non-Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_thuringiensis_sv_israelensis_ATCC_35646	339854	Non-Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_thuringiensis_sv_konkukian_97_27	281309	Human, Skin, Soil	Facultative	Pathogen	NA	NA
+Bacillus_thuringiensis_sv_kurstaki_T03a001	527023	Non-Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_thuringiensis_sv_monterrey_BGSC_4AJ1	527022	Non-Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_thuringiensis_sv_pakistani_t13001	527027	Non-Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_thuringiensis_sv_pondicheriensis_BGSC_4BA1	527029	Non-Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_thuringiensis_sv_pulsiensis_BGSC_4CC1	527028	Non-Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_thuringiensis_sv_sotto_T04001	527026	Non-Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_thuringiensis_sv_thuringiensis_T01001	527025	Non-Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_thuringiensis_sv_tochigiensis_BGSC_4Y1	527024	Non-Human, Soil	Facultative	Pathogen	NA	NA
+Bacillus_tusciae_DSM_2912	562970	Non-Human	Aerobe	NA	43.326	10.498
+Bacillus_weihenstephanensis_KBAB4	315730	Non-Human, Soil	Facultative	Non-Pathogen	NA	NA
+Bacteroides_caccae_ATCC_43185	411901	Human, Gut	Anaerobe	Pathogen	NA	NA
+Bacteroides_cellulosilyticus_DSM_14838	537012	Human, Gut	Anaerobe	NA	NA	NA
+Bacteroides_coprocola_M16_DSM_17136	470145	Human, Gut	Anaerobe	NA	NA	NA
+Bacteroides_coprophilus_DSM_18228	547042	Human, Gut	Anaerobe	NA	NA	NA
+Bacteroides_dorei_DSM_17855	483217	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Bacteroides_eggerthii_DSM_20697	483216	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Bacteroides_finegoldii_DSM_17565	483215	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Bacteroides_fragilis_3_1_12	457424	Human, Gut	Anaerobe	NA	NA	NA
+Bacteroides_fragilis_NCTC_9343	272559	Human, Gut	Obligate anaerobe	Pathogen	51.5849	-0.1272
+Bacteroides_fragilis_YCH46	295405	Human, Gut	Obligate anaerobe	Pathogen	34.3039	131.4724
+Bacteroides_intestinalis_341_DSM_17393	471870	Human, Gut	Anaerobe	NA	NA	NA
+Bacteroides_ovatus_ATCC_8483	411476	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Bacteroides_ovatus_SD_CC_2a	702444	Human, Gut	NA	NA	NA	NA
+Bacteroides_ovatus_SD_CMC_3f	702443	Human, Gut	NA	NA	NA	NA
+Bacteroides_plebeius_DSM_17135	484018	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Bacteroides_sp_1_1_6	469586	Human, Gut	Anaerobe	NA	NA	NA
+Bacteroides_sp_2_1_16	469587	Human, Gut	Anaerobe	NA	NA	NA
+Bacteroides_sp_2_1_22	469588	Human, Gut	Anaerobe	NA	NA	NA
+Bacteroides_sp_2_1_33B	469589	Human, Gut	Anaerobe	NA	NA	NA
+Bacteroides_sp_2_2_4	469590	Human, Gut	Anaerobe	NA	NA	NA
+Bacteroides_sp_3_1_33FAA	457391	Human, Gut	Anaerobe	NA	NA	NA
+Bacteroides_sp_3_2_5	457392	Human, Gut	Anaerobe	NA	NA	NA
+Bacteroides_sp_4_3_47FAA	457394	Human, Gut	Anaerobe	NA	NA	NA
+Bacteroides_sp_9_1_42FAA	457395	Human, Gut	Anaerobe	NA	NA	NA
+Bacteroides_sp_D1	556258	Human, Gut	Anaerobe	NA	NA	NA
+Bacteroides_sp_D2	556259	Human, Gut	Anaerobe	NA	NA	NA
+Bacteroides_sp_D20	585543	Human, Gut	Anaerobe	NA	NA	NA
+Bacteroides_sp_D4	556260	Human, Gut	Anaerobe	NA	NA	NA
+Bacteroides_stercoris_ATCC_43183	449673	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Bacteroides_thetaiotaomicron_VPI_5482	226186	Human, Gut	Obligate anaerobe	Pathogen	NA	NA
+Bacteroides_uniformis_ATCC_8492	411479	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Bacteroides_vulgatus_ATCC_8482	435590	Human, Gut	Anaerobe	Pathogen	NA	NA
+Bacteroides_vulgatus_PC510	702446	Human, Gut	Anaerobe	Pathogen	NA	NA
+Bacteroides_xylanisolvens_SD_CC_1b	702447	Human, Gut	Anaerobe	NA	NA	NA
+Bartonella_bacilliformis_KC583	360095	Human	Aerobe	Pathogen	NA	NA
+Bartonella_grahamii_as4aup	634504	Non-Human	Aerobe	Pathogen	NA	NA
+Bartonella_henselae_Houston_1	283166	Human	Aerobe	Pathogen	29.777	-95.376
+Bartonella_quintana_Toulouse	283165	Human, Gut	Aerobe	Pathogen	NA	NA
+Bartonella_tribocorum_CIP_105476	382640	Non-Human	Aerobe	Pathogen	NA	NA
+Basfia_succiniciproducens_MBEL55E	221988	Non-Human, Farm	Anaerobe	Non-Pathogen	NA	NA
+Baumannia_cicadellinicola_Hc	374463	Non-Human	NA	Non-Pathogen	NA	NA
+Bdellovibrio_bacteriovorus_HD100	264462	Non-Human, Soil	Aerobe	NA	NA	NA
+Beggiatoa_sp_PS	422289	Non-Human, Marine (Other)	NA	NA	54.470842	9.83457
+Beijerinckia_indica_indica_ATCC_9039	395963	Non-Human, Soil	Aerobe	NA	NA	NA
+Bermanella_marisrubri	207949	Non-Human, Marine (Other)	Aerobe	NA	23.684774	37.485352
+Beutenbergia_cavernae_HKI_0122_DSM_12333	471853	Non-Human, Soil	Aerobe	NA	25.307	110.263
+Bifidobacterium_adolescentis_ATCC_15703	367928	Human, Gut	Anaerobe	Non-Pathogen	52.5534	13.4083
+Bifidobacterium_adolescentis_L2_32	411481	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Bifidobacterium_angulatum_DSM_20098	518635	Human, Gut	Anaerobe	NA	NA	NA
+Bifidobacterium_animalis_lactis_AD011	442563	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Bifidobacterium_animalis_lactis_HN019	486409	Human, Gut	Anaerobe	NA	NA	NA
+Bifidobacterium_animalis_subsp_lactis_BB_12	552531	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Bifidobacterium_animalis_subsp_lactis_Bl_04	580050	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Bifidobacterium_animalis_subsp_lactis_DSM_10140	555970	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Bifidobacterium_animalis_subsp_lactis_V9	573236	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Bifidobacterium_bifidum_NCIMB_41171	398513	Human, Gut	Anaerobe	NA	NA	NA
+Bifidobacterium_breve_DSM_20213	518634	Human, Gut	Anaerobe	NA	NA	NA
+Bifidobacterium_catenulatum_DSM_16992	566552	Human, Gut	Anaerobe	NA	NA	NA
+Bifidobacterium_dentium_ATCC_27678	473819	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Bifidobacterium_dentium_Bd1	401473	Human, Oral (Other)	Anaerobe	Non-Pathogen	NA	NA
+Bifidobacterium_gallicum_DSM_20093	561180	Human, Gut	Anaerobe	NA	NA	NA
+Bifidobacterium_longum_NCC2705	206672	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Bifidobacterium_longum_infantis_ATCC_15697	391904	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Bifidobacterium_longum_infantis_ATCC_55813	548480	Human, Gut	Anaerobe	NA	NA	NA
+Bifidobacterium_longum_infantis_CCUG_52486	537937	Human, Gut	Anaerobe	NA	NA	NA
+Bifidobacterium_longum_subsp_longum_JDM301	759350	Human, Gut	NA	NA	NA	NA
+Bifidobacterium_pseudocatenulatum_DSM_20438	547043	Human, Gut	Anaerobe	NA	NA	NA
+Blastopirellula_marina_DSM_3645	314230	Non-Human, Marine (Other)	NA	NA	54.4	10.2
+Blattabacterium_sp_Blattella_germanica_str_Bge	331104	Non-Human	Aerobe	NA	NA	NA
+Blattabacterium_sp_Periplaneta_americana_str_BPLAN	600809	Non-Human	Aerobe	NA	NA	NA
+Blautia_hansenii_VPI_C7_24_DSM_20583	537007	Human, Gut	Anaerobe	NA	NA	NA
+Blautia_hydrogenotrophicus_S5a33_DSM_10507	476272	Human, Gut	Anaerobe	NA	NA	NA
+Bordetella_avium_197N	360910	Non-Human	Aerobe	Pathogen	NA	NA
+Bordetella_bronchiseptica_RB50	257310	Non-Human	Obligate aerobe	Pathogen	NA	NA
+Bordetella_parapertussis_12822	257311	Human	Obligate aerobe	Pathogen	NA	NA
+Bordetella_pertussis_Tohama_I	257313	Human	Aerobe	Pathogen	NA	NA
+Bordetella_petrii	94624	Non-Human	Anaerobe	Pathogen	NA	NA
+Borrelia_afzelii_ACA_1	445986	Human, Skin	Aerobe	Pathogen	NA	NA
+Borrelia_afzelii_PKo	390236	Human, Skin	Aerobe	Pathogen	NA	NA
+Borrelia_burgdorferi_118a	476210	Human, Skin	Microaerophilic	Pathogen	40.756054	-73.986951
+Borrelia_burgdorferi_156a	445983	Human	Aerobe	Pathogen	NA	NA
+Borrelia_burgdorferi_29805	498738	Human	Aerobe	Pathogen	NA	NA
+Borrelia_burgdorferi_64b	498740	Human, Skin	Microaerophilic	Pathogen	NA	NA
+Borrelia_burgdorferi_72a	476211	Human, Skin	Aerobe	Pathogen	40.756054	-73.986951
+Borrelia_burgdorferi_80a	498736	Human, Skin	Aerobe	Pathogen	NA	NA
+Borrelia_burgdorferi_94a	476212	Human, Skin	Aerobe	Pathogen	40.756054	-73.986951
+Borrelia_burgdorferi_B31	224326	Human	Aerobe	Pathogen	NA	NA
+Borrelia_burgdorferi_Bol26	445984	Human, Skin	Aerobe	Pathogen	NA	NA
+Borrelia_burgdorferi_CA_11_2a	498739	Human	Aerobe	Pathogen	NA	NA
+Borrelia_burgdorferi_WI91_23	498737	Non-Human	Aerobe	Pathogen	NA	NA
+Borrelia_burgdorferi_ZS7	445985	Human	Microaerophilic	Pathogen	NA	NA
+Borrelia_duttonii_Ly	412419	Human	Aerobe	Pathogen	NA	NA
+Borrelia_garinii_Far04	519049	Human	Microaerophilic	Pathogen	NA	NA
+Borrelia_garinii_PBi	290434	Human	Aerobe	Pathogen	NA	NA
+Borrelia_garinii_PBr	498743	Human	Aerobe	Pathogen	NA	NA
+Borrelia_hermsii_DAH	314723	Human	Aerobe	Pathogen	NA	NA
+Borrelia_recurrentis_A1	412418	Human	Aerobe	Pathogen	NA	NA
+Borrelia_sp_SV1	498741	Non-Human	Microaerophilic	Pathogen	NA	NA
+Borrelia_spielmanii_A14S	498742	Human	Microaerophilic	Pathogen	NA	NA
+Borrelia_turicatae_91E135	314724	Non-Human	Aerobe	Pathogen	NA	NA
+Borrelia_valaisiana_VS116	445987	Human	Microaerophilic	Pathogen	NA	NA
+Brachybacterium_faecium_DSM_4810	446465	Non-Human, Soil	Aerobe	NA	NA	NA
+Brachyspira_hyodysenteriae_WA1_ATCC_49526	565034	Non-Human, Farm	Anaerobe	Pathogen	NA	NA
+Brachyspira_murdochii_DSM_12563	526224	Non-Human, Farm	Anaerobe	NA	52.939	-73.549
+Bradyrhizobium_japonicum_USDA_110	224911	Non-Human	Aerobe	NA	NA	NA
+Bradyrhizobium_sp_BTAi1	288000	Non-Human, Soil	Aerobe	NA	NA	NA
+Bradyrhizobium_sp_ORS278	114615	Non-Human, Soil	Aerobe	Non-Pathogen	NA	NA
+Brevibacillus_brevis_NBRC_100599	358681	Non-Human, Soil	Aerobe	NA	NA	NA
+Brevibacterium_linens_BL2	321955	Non-Human, Soil, Food	Aerobe	NA	NA	NA
+Brevibacterium_mcbrellneri_ATCC_49030	585530	Human, Urogenital (Other)	Aerobe	NA	NA	NA
+Brevundimonas_sp_BAL3	391600	Non-Human, Marine (Other)	Aerobe	NA	63.51611	19.81583
+Brevundimonas_subvibrioides_ATCC_15264	633149	Non-Human	Aerobe	NA	NA	NA
+Brucella_abortus_NCTC_8038	575591	Human	Aerobe	Pathogen	NA	NA
+Brucella_abortus_S19	430066	Human	Aerobe	Pathogen	NA	NA
+Brucella_abortus_bv_1_9_941	262698	Human	Facultative	Pathogen	NA	NA
+Brucella_abortus_bv_2_str_86_8_59	520450	Human	Aerobe	Pathogen	NA	NA
+Brucella_abortus_bv_3_str_Tulya	520451	Human	Aerobe	Pathogen	NA	NA
+Brucella_abortus_bv_4_str_292	520452	Human	Aerobe	Pathogen	NA	NA
+Brucella_abortus_bv_5_str_B3196	520453	Human	Aerobe	Pathogen	NA	NA
+Brucella_abortus_bv_6_str_870	520454	Human	Aerobe	Pathogen	NA	NA
+Brucella_abortus_bv_9_str_C68	520455	Human	Aerobe	Pathogen	NA	NA
+Brucella_abortus_str_2308_A	641140	Human	Aerobe	Pathogen	NA	NA
+Brucella_canis_ATCC_23365	483179	Non-Human	Aerobe	Pathogen	NA	NA
+Brucella_ceti_B1_94	520457	Human	Aerobe	Pathogen	NA	NA
+Brucella_ceti_Cudo	595497	Non-Human	Aerobe	Pathogen	NA	NA
+Brucella_ceti_M13_05_1	520460	Human	Aerobe	Pathogen	NA	NA
+Brucella_ceti_M490_95_1	520458	Human	Aerobe	Pathogen	NA	NA
+Brucella_ceti_M644_93_1	520459	Human	Aerobe	Pathogen	NA	NA
+Brucella_melitensis_16M	224914	Non-Human, Farm	Aerobe	Pathogen	NA	NA
+Brucella_melitensis_ATCC_23457	546272	Human	Aerobe	Pathogen	NA	NA
+Brucella_melitensis_bv_1_str_16M	224914	Human	Aerobe	Pathogen	NA	NA
+Brucella_melitensis_bv_1_str_Rev_1	520464	Human	Aerobe	Pathogen	NA	NA
+Brucella_melitensis_bv_2_str_63_9	520465	Human	Aerobe	Pathogen	NA	NA
+Brucella_melitensis_bv_3_str_Ether	520466	Human	Aerobe	Pathogen	NA	NA
+Brucella_melitensis_bv_Abortus_2308	359391	Human	Aerobe	Pathogen	NA	NA
+Brucella_microti_CCM_4915	568815	Human, Soil	Aerobe	Pathogen	48.991572	16.767425
+Brucella_neotomae_5K33	520456	Human	Aerobe	Pathogen	NA	NA
+Brucella_ovis_ATCC_25840	444178	Non-Human, Farm	Facultative	Pathogen	NA	NA
+Brucella_pinnipedialis_B2_94	520461	Human	Aerobe	Pathogen	NA	NA
+Brucella_pinnipedialis_M163_99_10	520463	Human	Aerobe	Pathogen	NA	NA
+Brucella_pinnipedialis_M292_94_1	520462	Human	Aerobe	Pathogen	NA	NA
+Brucella_sp_83_13	520449	Human	Aerobe	Pathogen	NA	NA
+Brucella_sp_F5_99	437701	Human	Aerobe	Pathogen	NA	NA
+Brucella_sp_NVSL_07_0026	520448	Human	Aerobe	Pathogen	NA	NA
+Brucella_suis_1330	204722	Non-Human, Farm	Aerobe	Pathogen	NA	NA
+Brucella_suis_ATCC_23445	470137	Human	Aerobe	Pathogen	NA	NA
+Brucella_suis_bv_3_str_686	520487	Human	Aerobe	Pathogen	NA	NA
+Brucella_suis_bv_4_str_40	520488	Human	Aerobe	Pathogen	NA	NA
+Brucella_suis_bv_5_str_513	520489	Human	Aerobe	Pathogen	NA	NA
+Bryantella_formatexigens_I_52_DSM_14469	478749	Human, Gut	Anaerobe	NA	NA	NA
+Buchnera_aphidicola_5A_Acyrthosiphon_pisum	563178	Non-Human	NA	NA	43.084	-89.401
+Buchnera_aphidicola_APS	107806	Non-Human	NA	NA	NA	NA
+Buchnera_aphidicola_Bp	224915	Non-Human	NA	NA	NA	NA
+Buchnera_aphidicola_Cc_Cinara_cedri	261318	Non-Human	NA	Non-Pathogen	NA	NA
+Buchnera_aphidicola_Sg	198804	Non-Human	NA	NA	NA	NA
+Buchnera_aphidicola_Tuc7_Acyrthosiphon_pisum	561501	Non-Human	NA	NA	32.248	-110.926
+Buchnera_aphidicola_str_LSR1_Acyrthosiphon_pisum	593275	Non-Human	NA	NA	NA	NA
+Bulleidia_extructa_W1219	679192	Human, Oral (Other)	Obligate anaerobe	NA	NA	NA
+Burkholderia_ambifaria_IOP40_10	396596	Non-Human	Facultative	NA	NA	NA
+Burkholderia_ambifaria_MC40_6	398577	Human	Facultative	Pathogen	NA	NA
+Burkholderia_ambifaria_MEX_5	396597	Non-Human	Facultative	NA	NA	NA
+Burkholderia_cenocepacia_AU_1054	331271	Human	Facultative	Pathogen	NA	NA
+Burkholderia_cenocepacia_HI2424	331272	Human, Soil	Facultative	Pathogen	NA	NA
+Burkholderia_cenocepacia_J2315	216591	Human	Aerobe	Pathogen	55.950176	-3.187536
+Burkholderia_cenocepacia_MC0_3	406425	Human	Facultative	Pathogen	NA	NA
+Burkholderia_cepacia_AMMD	339670	Non-Human	Facultative	NA	NA	NA
+Burkholderia_glumae_BGR1	626418	Non-Human	Aerobe	Pathogen	NA	NA
+Burkholderia_mallei_10399	320387	Human	Aerobe	Pathogen	NA	NA
+Burkholderia_mallei_2002721280	370895	Human	NA	Pathogen	NA	NA
+Burkholderia_mallei_ATCC_23344	243160	Human, Soil	Aerobe	Pathogen	NA	NA
+Burkholderia_mallei_FMH	334802	Human	NA	Pathogen	NA	NA
+Burkholderia_mallei_GB8_horse_4	320390	Human	Aerobe	Pathogen	NA	NA
+Burkholderia_mallei_JHU	334803	Human	NA	Pathogen	NA	NA
+Burkholderia_mallei_NCTC_10229	412022	Human	Aerobe	Pathogen	NA	NA
+Burkholderia_mallei_NCTC_10247	320389	Human	Aerobe	Pathogen	39.940594	32.854385
+Burkholderia_mallei_PRL_20	436115	Human	Aerobe	Pathogen	NA	NA
+Burkholderia_mallei_SAVP1	320388	Human	Aerobe	Pathogen	NA	NA
+Burkholderia_multivorans_ATCC_17616	395019	Human	Facultative	NA	NA	NA
+Burkholderia_multivorans_CGD1	513051	Human	Aerobe	Pathogen	38.989977	-77.121382
+Burkholderia_multivorans_CGD2	513052	Human, Oral (Other)	Aerobe	Pathogen	NA	NA
+Burkholderia_multivorans_CGD2M	513053	Human	Aerobe	Pathogen	NA	NA
+Burkholderia_oklahomensis_C6786	441162	Human, Skin	Aerobe	Pathogen	NA	NA
+Burkholderia_oklahomensis_EO147	441163	Human, Gut	Aerobe	Pathogen	NA	NA
+Burkholderia_phymatum_STM815	391038	Non-Human, Soil	Facultative	NA	NA	NA
+Burkholderia_phytofirmans_PsJN	398527	Non-Human, Soil	Facultative	NA	47.9615	16.5171
+Burkholderia_pseudomallei_1106a	357348	Human, Soil	Aerobe	Pathogen	NA	NA
+Burkholderia_pseudomallei_1106b	357347	Human, Soil	Aerobe	Pathogen	NA	NA
+Burkholderia_pseudomallei_112	441154	Human	Aerobe	Pathogen	NA	NA
+Burkholderia_pseudomallei_14	441160	Human	Aerobe	Pathogen	NA	NA
+Burkholderia_pseudomallei_1655	331109	Human, Soil	Aerobe	Pathogen	NA	NA
+Burkholderia_pseudomallei_1710a	320371	Non-Human, Soil	Aerobe	Pathogen	NA	NA
+Burkholderia_pseudomallei_1710b	320372	Human, Soil	Aerobe	Pathogen	NA	NA
+Burkholderia_pseudomallei_305	425067	Human, Soil	Aerobe	Pathogen	-12.354729	130.88165
+Burkholderia_pseudomallei_406e	360118	Human, Soil	Aerobe	Pathogen	NA	NA
+Burkholderia_pseudomallei_576	557724	Human, Soil	Aerobe	Pathogen	13.723419	100.476232
+Burkholderia_pseudomallei_668	320373	Human, Soil	Aerobe	Pathogen	NA	NA
+Burkholderia_pseudomallei_7894	441156	Human	Aerobe	Pathogen	NA	NA
+Burkholderia_pseudomallei_9	441158	Human	Aerobe	Pathogen	NA	NA
+Burkholderia_pseudomallei_91	441159	Human	Aerobe	Pathogen	NA	NA
+Burkholderia_pseudomallei_B7210	441155	Human	Aerobe	Pathogen	NA	NA
+Burkholderia_pseudomallei_BCC215	441152	Human	Aerobe	Pathogen	NA	NA
+Burkholderia_pseudomallei_DM98	441161	Human	Aerobe	Pathogen	NA	NA
+Burkholderia_pseudomallei_K96243	272560	Human, Soil	Aerobe	Pathogen	NA	NA
+Burkholderia_pseudomallei_MSHR346	536230	Human, Airways (Other), Soil	Aerobe	Pathogen	-12.353811	130.882602
+Burkholderia_pseudomallei_NCTC_13177	441153	Human	Aerobe	Pathogen	NA	NA
+Burkholderia_pseudomallei_Pakistan_9	595498	Human, Soil	Aerobe	Pathogen	NA	NA
+Burkholderia_pseudomallei_Pasteur	331978	Human, Soil	Aerobe	Pathogen	NA	NA
+Burkholderia_pseudomallei_S13	320374	Human, Soil	Aerobe	Non-Pathogen	NA	NA
+Burkholderia_sp_383	269483	Human	Facultative	Pathogen	NA	NA
+Burkholderia_sp_CCGE1001	640510	Non-Human	Facultative	NA	NA	NA
+Burkholderia_sp_CCGE1002	640511	Non-Human	Facultative	NA	NA	NA
+Burkholderia_sp_CCGE1003	640512	Non-Human	Facultative	NA	NA	NA
+Burkholderia_sp_Ch1_1	243261	Non-Human, Soil	Facultative	NA	NA	NA
+Burkholderia_sp_H160	516466	Non-Human	Facultative	NA	NA	NA
+Burkholderia_thailandensis_Bt4	441164	Non-Human, Soil	Aerobe	NA	NA	NA
+Burkholderia_thailandensis_E264	271848	Non-Human, Soil	Aerobe	Non-Pathogen	NA	NA
+Burkholderia_thailandensis_MSMB43	441157	Human	Aerobe	Pathogen	NA	NA
+Burkholderia_thailandensis_TXDOH	441165	Human, Soil	Aerobe	NA	NA	NA
+Burkholderia_ubonensis_Bu	441166	Non-Human, Soil	Aerobe	NA	NA	NA
+Burkholderia_vietnamiensis_G4	269482	Non-Human	Facultative	Pathogen	30.473413	-87.212261
+Burkholderia_xenovorans_LB400	266265	Human, Soil	Aerobe	Pathogen	43.24	-73.6678
+Butyrivibrio_crossotus_DSM_2876	511680	Human, Gut	Anaerobe	NA	NA	NA
+Caldicellulosiruptor_bescii_Z_1320_DSM_6725	521460	Non-Human, Hydrothermal	Obligate anaerobe	NA	NA	NA
+Caldicellulosiruptor_saccharolyticus_DSM_8903	351627	Non-Human, Hydrothermal	Anaerobe	Non-Pathogen	NA	NA
+Caminibacter_mediatlanticus_TB_2	391592	Non-Human, Marine (Other)	NA	NA	36.23333	-33.90167
+Campylobacter_coli_RM2228	306254	Non-Human	Microaerophilic	Pathogen	NA	NA
+Campylobacter_concisus_13826	360104	Human, Gut	Microaerophilic	Pathogen	NA	NA
+Campylobacter_curvus_525_92	360105	Human, Gut	Microaerophilic	Pathogen	NA	NA
+Campylobacter_fetus_fetus_82_40	360106	Human	Microaerophilic	Pathogen	NA	NA
+Campylobacter_fetus_subsp_venerealis_str_Azul_94	593452	Non-Human, Farm	Microaerophilic	Pathogen	-37.31781	-59.150391
+Campylobacter_gracilis_RM3268	553220	Human, Oral (Gingivae)	Obligate anaerobe	NA	NA	NA
+Campylobacter_hominis_ATCC_BAA_381	360107	Human, Gut	Microaerophilic	Non-Pathogen	NA	NA
+Campylobacter_jejuni_RM1221	195099	Non-Human	Microaerophilic	Pathogen	NA	NA
+Campylobacter_jejuni_doylei_269_97	360109	Human	Microaerophilic	Pathogen	NA	NA
+Campylobacter_jejuni_ejuni_260_94	360108	Human	Microaerophilic	Pathogen	-33.922461	18.416619
+Campylobacter_jejuni_jejuni_81116	407148	Human	Microaerophilic	Pathogen	NA	NA
+Campylobacter_jejuni_jejuni_81_176	354242	Human	Microaerophilic	Pathogen	NA	NA
+Campylobacter_jejuni_jejuni_84_25	360110	Human	Microaerophilic	Pathogen	NA	NA
+Campylobacter_jejuni_jejuni_CF93_6	360111	Human	Microaerophilic	Pathogen	NA	NA
+Campylobacter_jejuni_jejuni_HB93_13	360112	Human, Gut	Microaerophilic	Pathogen	NA	NA
+Campylobacter_jejuni_jejuni_NCTC_11168	192222	Human, Gut	Microaerophilic	Pathogen	NA	NA
+Campylobacter_jejuni_subsp_jejuni_1336	683082	Non-Human	Microaerophilic	Pathogen	NA	NA
+Campylobacter_jejuni_subsp_jejuni_414	683083	Non-Human	Microaerophilic	Pathogen	NA	NA
+Campylobacter_jejuni_subsp_jejuni_IA3902	567106	Non-Human, Farm	Microaerophilic	Pathogen	NA	NA
+Campylobacter_lari_RM2100	306263	Human, Soil	Microaerophilic	Pathogen	NA	NA
+Campylobacter_rectus_RM3267_CCUG_20446	553218	Human, Oral (Gingivae)	Microaerophilic	Pathogen	NA	NA
+Campylobacter_showae_RM3277	553219	Human, Oral (Gingivae)	Microaerophilic	Pathogen	35.689488	139.691706
+Campylobacter_upsaliensis_RM3195	306264	Human, Gut	Microaerophilic	Pathogen	NA	NA
+Campylobacterales_bacterium_GD_1	439483	Non-Human, Marine (Other)	Anaerobe	NA	NA	NA
+Candidatus_Accumulibacter_phosphatis_clade_IIA_str_UW_1	522306	Non-Human	Aerobe	NA	43.078418	-89.386482
+Candidatus_Amoebophilus_asiaticus_5a2	452471	Non-Human	NA	NA	NA	NA
+Candidatus_Azobacteroides_pseudotrichonymphae_genomovar_CFP2	511995	Non-Human	NA	NA	NA	NA
+Candidatus_Blochmannia_floridanus	203907	Non-Human	NA	NA	NA	NA
+Candidatus_Blochmannia_pennsylvanicus_BPEN	291272	Non-Human	NA	Pathogen	41.5632	-70.6167
+Candidatus_Carsonella_ruddii_PV	387662	Non-Human	NA	Non-Pathogen	NA	NA
+Candidatus_Cloacamonas_acidaminovorans	456827	Non-Human	NA	NA	NA	NA
+Candidatus_Desulforudis_audaxviator_MP104C	477974	Non-Human	Anaerobe	NA	NA	NA
+Candidatus_Endomicrobium_sp_Rs_D17	471821	Non-Human	NA	NA	NA	NA
+Candidatus_Hamiltonella_defensa_5AT_Acyrthosiphon_pisum	572265	Non-Human	NA	NA	NA	NA
+Candidatus_Hodgkinia_cicadicola_Dsem	573234	Non-Human	NA	NA	32.227832	-110.943784
+Candidatus_Korarchaeum_cryptofilum_OPF8	374847	Non-Human	NA	NA	44.6111	-110.4412
+Candidatus_Kuenenia_stuttgartiensis	174633	Non-Human	NA	NA	NA	NA
+Candidatus_Liberibacter_asiaticus_str_psy62	537021	Non-Human	NA	Pathogen	NA	NA
+Candidatus_Methanoregula_boonei_6A8	456442	Non-Human	Anaerobe	NA	NA	NA
+Candidatus_Pelagibacter_sp_HTCC7211	439493	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Candidatus_Pelagibacter_ubique_HTCC1002	314261	Non-Human, Marine (Other)	Aerobe	NA	44.651523	-124.053042
+Candidatus_Pelagibacter_ubique_HTCC1062	335992	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Candidatus_Phytoplasma_australiense	59748	Non-Human	Aerobe	Pathogen	NA	NA
+Candidatus_Phytoplasma_mali	37692	Non-Human	Aerobe	Pathogen	49.401929	8.680239
+Candidatus_Protochlamydia_amoebophila_UWE25	264201	Human	NA	Pathogen	NA	NA
+Candidatus_Puniceispirillum_marinum_IMCC1322	488538	Non-Human, Marine (Other)	NA	NA	NA	NA
+Candidatus_Riesia_pediculicola_USDA	515618	Non-Human	NA	NA	NA	NA
+Candidatus_Ruthia_magnifica_Cm	413404	Non-Human, Marine (Other)	NA	Non-Pathogen	NA	NA
+Candidatus_Sulcia_muelleri_DMIN	641892	Non-Human	NA	NA	NA	NA
+Candidatus_Sulcia_muelleri_GWSS	444179	Non-Human	NA	NA	NA	NA
+Candidatus_Sulcia_muelleri_Hc	374675	Non-Human	NA	NA	NA	NA
+Candidatus_Sulcia_muelleri_SMDSEM	595499	Non-Human	NA	NA	32.222	-110.924
+Candidatus_Vesicomyosocius_okutanii_HA	412965	Non-Human	Anaerobe	Non-Pathogen	35.2	139.5
+Capnocytophaga_gingivalis_JCVIHMP016	553178	Human, Oral (Other)	Facultative	Pathogen	NA	NA
+Capnocytophaga_ochracea_DSM_7271	521097	Human, Oral (Other)	Facultative	Pathogen	NA	NA
+Capnocytophaga_sputigena_Capno	553177	Human, Oral (Gingivae)	Facultative	Pathogen	NA	NA
+Carboxydothermus_hydrogenoformans_Z_2901	246194	Non-Human	Anaerobe	NA	47.116667	145.850278
+Cardiobacterium_hominis_ATCC_15826	638300	Human	Aerobe	NA	NA	NA
+Carnobacterium_sp_AT7	333990	Non-Human, Marine (Other)	NA	NA	52.885	-163
+Catenibacterium_mitsuokai_DSM_15897	451640	Human, Gut	Anaerobe	NA	NA	NA
+Catenulispora_acidiphila_DSM_44928	479433	Non-Human, Soil	Aerobe	NA	45.640618	9.002209
+Catonella_morbi_ATCC_51271	592026	Human, Oral (Gingivae)	NA	NA	NA	NA
+Caulobacter_crescentus_CB15	190650	Non-Human, Marine (Other), Soil	Obligate aerobe	NA	NA	NA
+Caulobacter_crescentus_NA1000	565050	Non-Human, Marine (Other), Soil	Obligate aerobe	NA	NA	NA
+Caulobacter_segnis_ATCC_21756	509190	Non-Human	Aerobe	NA	NA	NA
+Caulobacter_sp_K31	366602	Non-Human	Aerobe	NA	NA	NA
+Cellulomonas_flavigena_DSM_20109	446466	Non-Human, Soil	Facultative	NA	NA	NA
+Cellvibrio_japonicus_Ueda107	498211	Non-Human, Soil	Aerobe	NA	NA	NA
+Cenarchaeum_symbiosum_A	414004	Non-Human, Marine (Other)	Aerobe	NA	34.423403	-119.704416
+Chelativorans_sp_BNC1	266779	Non-Human	Aerobe	Non-Pathogen	NA	NA
+Chitinophaga_pinensis_DSM_2588	485918	Non-Human	Aerobe	NA	-27.424	153
+Chlamydia_trachomatis_434_Bu	471472	Human	NA	Pathogen	NA	NA
+Chlamydia_trachomatis_6276	564416	Human	NA	Pathogen	NA	NA
+Chlamydia_trachomatis_6276s	564417	Human	NA	Pathogen	NA	NA
+Chlamydia_trachomatis_70	564418	Human	NA	Pathogen	NA	NA
+Chlamydia_trachomatis_70s	564419	Human	NA	Pathogen	NA	NA
+Chlamydia_trachomatis_A_HAR_13	315277	Human	NA	Pathogen	NA	NA
+Chlamydia_trachomatis_B_Jali20_OT	580049	Human	NA	Pathogen	NA	NA
+Chlamydia_trachomatis_B_TZ1A828_OT	580049	Human	NA	Pathogen	NA	NA
+Chlamydia_trachomatis_D_EC	759363	Human	NA	Pathogen	NA	NA
+Chlamydia_trachomatis_D_LC	759364	Human	NA	Pathogen	NA	NA
+Chlamydia_trachomatis_D_UW_3_CX	272561	Human	NA	Pathogen	NA	NA
+Chlamydia_trachomatis_D_s_2923	573237	Human	NA	Pathogen	NA	NA
+Chlamydia_trachomatis_E_11023	707183	Human	NA	Pathogen	NA	NA
+Chlamydia_trachomatis_E_150	707184	Human	NA	Pathogen	NA	NA
+Chlamydia_trachomatis_G_11074	707187	Human	NA	Pathogen	NA	NA
+Chlamydia_trachomatis_G_11222	707186	Human, Urogenital (Other)	NA	Pathogen	NA	NA
+Chlamydia_trachomatis_G_9301	718219	Human	NA	Pathogen	NA	NA
+Chlamydia_trachomatis_G_9768	707185	Human	NA	Pathogen	NA	NA
+Chlamydia_trachomatis_L2b_UCH_1_proctitis	471473	Human, Urogenital (Other)	NA	Pathogen	NA	NA
+Chlamydophila_abortus_S26_3	218497	Non-Human, Farm	NA	Pathogen	NA	NA
+Chlamydophila_caviae_GPIC	227941	Non-Human	NA	Pathogen	NA	NA
+Chlamydophila_felis_Fe_C_56	264202	Non-Human	NA	Pathogen	NA	NA
+Chlamydophila_pneumoniae_AR39	115711	Human, Airways (Other)	NA	Pathogen	NA	NA
+Chlamydophila_pneumoniae_CWL029	115713	Human	NA	Pathogen	NA	NA
+Chlamydophila_pneumoniae_J138	138677	Human, Airways (Other)	NA	Pathogen	NA	NA
+Chlamydophila_pneumoniae_LPCoLN	406984	Human	NA	Pathogen	NA	NA
+Chlamydophila_pneumoniae_TW_183	182082	Human	NA	Pathogen	NA	NA
+Chlorobaculum_parvum_NCIB_8327	517417	Non-Human	Facultative	NA	NA	NA
+Chlorobaculum_tepidum_TLS	194439	Non-Human, Hydrothermal	Obligate anaerobe	NA	NA	NA
+Chlorobium_chlorochromatii_CaD3	340177	Non-Human	Anaerobe	NA	NA	NA
+Chlorobium_ferrooxidans_DSM_13031	377431	Non-Human	Anaerobe	NA	NA	NA
+Chlorobium_limicola_DSM_245	290315	Non-Human, Hydrothermal	Anaerobe	NA	NA	NA
+Chlorobium_luteolum_DSM_273	319225	Non-Human, Hydrothermal	Anaerobe	NA	61.75	6.816667
+Chlorobium_phaeobacteroides_BS1	331678	Non-Human, Marine (Other)	Facultative	NA	NA	NA
+Chlorobium_phaeobacteroides_DSM_266	290317	Non-Human	Facultative	Non-Pathogen	60.025392	10.666437
+Chlorobium_phaeovibrioides_DSM_265	290318	Non-Human	Facultative	NA	NA	NA
+Chloroflexus_aggregans_DSM_9485	326427	Non-Human, Hydrothermal	Facultative	NA	NA	NA
+Chloroflexus_aurantiacus_J_10_fl	324602	Non-Human, Hydrothermal	Anaerobe	NA	35.23968	139.04623
+Chloroflexus_sp_Y_400_fl	480224	Non-Human	NA	NA	45.424979	-88.771304
+Chloroherpeton_thalassium_ATCC_35110	517418	Non-Human	Facultative	NA	NA	NA
+Chromobacterium_violaceum_ATCC_12472	243365	Human, Soil	Facultative	Pathogen	NA	NA
+Chromohalobacter_salexigens_DSM_3043	290398	Non-Human	Facultative	Non-Pathogen	NA	NA
+Chryseobacterium_gleum_F93_ATCC_35910	525257	Human, Urogenital (Vaginal)	Aerobe	NA	NA	NA
+Chthoniobacter_flavus_Ellin428	497964	Non-Human, Soil	Aerobe	NA	NA	NA
+Citreicella_sp_SE45	501479	Non-Human, Marine (Other)	NA	NA	NA	NA
+Citrobacter_koseri_ATCC_BAA_895	290338	Human, Gut, Soil, Food	Facultative	Pathogen	NA	NA
+Citrobacter_rodentium_ICC168	637910	Non-Human	Facultative	Pathogen	NA	NA
+Citrobacter_sp_30_2	469595	Human, Gut	Facultative	NA	NA	NA
+Citrobacter_youngae_ATCC_29220	500640	Human, Gut	Facultative	NA	NA	NA
+Citromicrobium_bathyomarinum_JL354	685035	Non-Human	NA	NA	NA	NA
+Clavibacter_michiganensis_michiganensis_NCPPB_382	443906	Non-Human	Aerobe	Pathogen	NA	NA
+Clavibacter_michiganensis_sepedonicus_ATCC_33113	31964	Non-Human	Aerobe	Pathogen	NA	NA
+Clostridiales_genomosp_BVAB3_str_UPII9_5	699246	Human, Urogenital (Vaginal)	NA	NA	NA	NA
+Clostridiales_sp_1_7_47_FAA	457421	Human, Gut	NA	NA	NA	NA
+Clostridium_acetobutylicum_ATCC_824	272562	Non-Human, Soil	Obligate anaerobe	NA	41.603221	-73.087749
+Clostridium_asparagiforme_DSM_15981	518636	Human, Gut	Obligate anaerobe	NA	NA	NA
+Clostridium_bartlettii_DSM_16795	445973	Human, Gut	Anaerobe	NA	NA	NA
+Clostridium_beijerinckii_NCIMB_8052	290402	Non-Human, Soil	Anaerobe	Non-Pathogen	NA	NA
+Clostridium_bolteae_ATCC_BAA_613	411902	Human, Gut	Anaerobe	NA	NA	NA
+Clostridium_botulinum_A2_Kyoto_F	536232	Human, Marine (Other), Food	Anaerobe	Pathogen	35.011636	135.768029
+Clostridium_botulinum_A3_Loch_Maree	498214	Human, Soil	Anaerobe	Pathogen	NA	NA
+Clostridium_botulinum_A_ATCC_19397	441770	Human, Soil	Obligate anaerobe	Pathogen	NA	NA
+Clostridium_botulinum_A_ATCC_3502	413999	Human, Soil	Obligate anaerobe	Pathogen	NA	NA
+Clostridium_botulinum_A_Hall	441771	Human, Soil	Obligate anaerobe	Pathogen	42.374554	-71.116818
+Clostridium_botulinum_B1_Okra	498213	Human	Anaerobe	Pathogen	NA	NA
+Clostridium_botulinum_B_Eklund_17B	508765	Non-Human, Marine (Other), Food	Anaerobe	Non-Pathogen	NA	NA
+Clostridium_botulinum_Ba4_657	515621	Human, Soil	Obligate aerobe	Pathogen	NA	NA
+Clostridium_botulinum_Bf	445336	Human, Food	Obligate anaerobe	Pathogen	NA	NA
+Clostridium_botulinum_C_Eklund	445337	Non-Human	Obligate anaerobe	Non-Pathogen	NA	NA
+Clostridium_botulinum_D_str_1873	592027	Human, Marine (Other), Food	Anaerobe	Pathogen	NA	NA
+Clostridium_botulinum_E1_str_BoNT_E_Beluga	536233	Human, Marine (Other), Food	Anaerobe	Pathogen	NA	NA
+Clostridium_botulinum_E3_Alaska_E43	508767	Human, Food	Anaerobe	Pathogen	NA	NA
+Clostridium_botulinum_F_Langeland	441772	Human	Obligate anaerobe	Pathogen	54.943172	10.775886
+Clostridium_botulinum_F_str_230613	758678	Human	Obligate anaerobe	Pathogen	NA	NA
+Clostridium_botulinum_NCTC_2916	445335	Human, Food	Obligate anaerobe	Pathogen	NA	NA
+Clostridium_butyricum_5521	447214	Human, Food	Anaerobe	Pathogen	NA	NA
+Clostridium_butyricum_E4_str_BoNT_E_BL5262	632245	Human, Food	Anaerobe	Pathogen	NA	NA
+Clostridium_carboxidivorans_P7	536227	Non-Human	Anaerobe	NA	36.123175	-97.069644
+Clostridium_cellulolyticum_H10	394503	Non-Human, Soil	Anaerobe	NA	48.6911	6.1823
+Clostridium_cellulovorans_743B	573061	Non-Human, Soil	Anaerobe	NA	NA	NA
+Clostridium_difficile_630	272563	Human	Obligate anaerobe	Pathogen	47.3775	8.5396
+Clostridium_difficile_ATCC_43255	499175	Human	Anaerobe	Pathogen	NA	NA
+Clostridium_difficile_CD196	645462	Non-Human	NA	NA	NA	NA
+Clostridium_difficile_CIP_107932	499176	Human, Urogenital (Other)	Anaerobe	Pathogen	49.128754	4.147545
+Clostridium_difficile_NAP07	525258	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Clostridium_difficile_NAP08	525259	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Clostridium_difficile_QCD_23m63	499174	Human	Anaerobe	Pathogen	NA	NA
+Clostridium_difficile_QCD_37x79	479834	Human	Obligate anaerobe	Pathogen	42.982515	-81.253973
+Clostridium_difficile_QCD_63q42	479831	Human	Obligate anaerobe	Pathogen	NA	NA
+Clostridium_difficile_QCD_66c26	455631	Human	Obligate anaerobe	Pathogen	NA	NA
+Clostridium_difficile_QCD_76w55	479832	Human	Obligate anaerobe	Pathogen	44.977482	-93.264351
+Clostridium_difficile_QCD_97b34	479833	Human	Obligate anaerobe	Pathogen	47.576727	-52.701129
+Clostridium_difficile_R20291	645463	Human, Gut	Obligate anaerobe	Pathogen	51.800473	-0.803289
+Clostridium_difficile_VPI_10463_ATCC_43255	499175	Human	Anaerobe	Pathogen	NA	NA
+Clostridium_hiranonis_DSM_13275	500633	Human, Gut	Anaerobe	NA	NA	NA
+Clostridium_hylemonae_DSM_15053	553973	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Clostridium_kluyveri_DSM_555	431943	Non-Human	Anaerobe	Non-Pathogen	52.011899	4.360257
+Clostridium_kluyveri_NBRC_12016	583346	Non-Human	Anaerobe	NA	NA	NA
+Clostridium_lentocellum_DSM_5427	642492	Non-Human	Anaerobe	NA	57.243	-2.686
+Clostridium_leptum_DSM_753	428125	Human, Gut	Anaerobe	NA	NA	NA
+Clostridium_methylpentosum_R2_DSM_5476	537013	Human, Gut	Obligate anaerobe	NA	NA	NA
+Clostridium_novyi_NT	386415	Non-Human, Soil	Anaerobe	Non-Pathogen	NA	NA
+Clostridium_papyrosolvens_DSM_2782	588581	Non-Human	Anaerobe	NA	57.162143	-2.719417
+Clostridium_perfringens_13	195102	Human, Soil	Anaerobe	Pathogen	NA	NA
+Clostridium_perfringens_ATCC_13124	195103	Human, Soil	Obligate anaerobe	Pathogen	NA	NA
+Clostridium_perfringens_B_ATCC_3626	451754	Non-Human, Soil, Farm	Anaerobe	Pathogen	NA	NA
+Clostridium_perfringens_CPE_F4969	451756	Human, Soil	Anaerobe	Pathogen	NA	NA
+Clostridium_perfringens_C_JGS1495	445334	Human, Soil	Anaerobe	Pathogen	NA	NA
+Clostridium_perfringens_D_JGS1721	488537	Human, Soil	Anaerobe	Pathogen	NA	NA
+Clostridium_perfringens_E_JGS1987	451755	Human, Soil	Anaerobe	Pathogen	NA	NA
+Clostridium_perfringens_NCTC_8239	451757	Human, Soil	Anaerobe	Pathogen	NA	NA
+Clostridium_perfringens_SM101	289380	Human	Anaerobe	Pathogen	NA	NA
+Clostridium_phytofermentans_ISDg	357809	Non-Human, Soil	Anaerobe	NA	42.404699	-72.308526
+Clostridium_scindens_ATCC_35704	411468	Human, Gut	Anaerobe	NA	40.756054	-73.986951
+Clostridium_sp_7_2_43FAA	457396	Human, Gut	Anaerobe	NA	NA	NA
+Clostridium_sp_L2_50	411489	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Clostridium_sp_M62_1	411486	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Clostridium_sp_SS2_1	411484	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Clostridium_spiroforme_DSM_1552	428126	Human, Gut	Anaerobe	NA	NA	NA
+Clostridium_sporogenes_ATCC_15579	471871	Human, Gut	Anaerobe	NA	NA	NA
+Clostridium_tetani_E88	212717	Human	Anaerobe	Pathogen	NA	NA
+Clostridium_thermocellum_ATCC_27405	203119	Non-Human, Soil	Anaerobe	Non-Pathogen	NA	NA
+Clostridium_thermocellum_DSM_2360	572545	Non-Human	Anaerobe	NA	NA	NA
+Collinsella_aerofaciens_ATCC_25986	411903	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Collinsella_intestinalis_DSM_13280	521003	Human, Gut	Anaerobe	NA	NA	NA
+Collinsella_stercoris_DSM_13279	445975	Human, Gut	Anaerobe	NA	NA	NA
+Colwellia_psychrerythraea_34H	167879	Non-Human	Facultative	NA	NA	NA
+Comamonas_testosteroni_CNB_2	688245	Non-Human	NA	NA	NA	NA
+Comamonas_testosteroni_KF_1	399795	Non-Human	Aerobe	NA	NA	NA
+Conexibacter_woesei_DSM_14684	469383	Non-Human, Soil	Obligate aerobe	NA	45.64	9.002
+Congregibacter_litoralis_KT71	314285	Non-Human, Marine (Heterotroph)	Microaerophilic	NA	54.25	7.933333
+Coprococcus_comes	470146	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Coprococcus_eutactus_ATCC_27759	411474	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Coprothermobacter_proteolyticus_DSM_5265	309798	Non-Human	Anaerobe	NA	NA	NA
+Coraliomargarita_akajimensis_DSM_45221	583355	Non-Human, Marine (Other)	Obligate aerobe	NA	39.537	141.121
+Corynebacterium_accolens_ATCC_49725	525260	Human, Airways (Other)	Anaerobe	NA	NA	NA
+Corynebacterium_ammoniagenes_DSM_20306	649754	Human, Gut	Anaerobe	NA	NA	NA
+Corynebacterium_amycolatum_SK46	553204	Human, Skin	Aerobe	NA	NA	NA
+Corynebacterium_aurimucosum_ATCC_700975	548476	Human, Urogenital (Vaginal)	Facultative	NA	NA	NA
+Corynebacterium_diphtheriae_NCTC_13129	257309	Human, Airways (Other)	Facultative	Pathogen	NA	NA
+Corynebacterium_efficiens_YS_314	196164	Human, Skin	Facultative	NA	35.5	139.5
+Corynebacterium_genitalium_ATCC_33030	585529	Human, Urogenital (Other)	Facultative	NA	NA	NA
+Corynebacterium_glucuronalyticum_ATCC_51867	548477	Human, Urogenital (Other)	Facultative	NA	NA	NA
+Corynebacterium_glucuronolyticum_ATCC_51866	548478	Human, Urogenital (Other)	Facultative	NA	48.582	7.743
+Corynebacterium_glutamicum_ATCC_13032_Bielefeld	196627	Non-Human, Soil	Facultative	NA	NA	NA
+Corynebacterium_glutamicum_R	340322	Non-Human, Soil	Facultative	NA	NA	NA
+Corynebacterium_jeikeium_ATCC_43734	525262	Human, Urogenital (Other)	Facultative	NA	NA	NA
+Corynebacterium_jeikeium_K411	306537	Human	Facultative	Pathogen	NA	NA
+Corynebacterium_kroppenstedtii_DSM_44385	645127	Human, Airways (Other)	Anaerobe	NA	NA	NA
+Corynebacterium_lipophiloflavum_DSM_44291	525263	Human, Urogenital (Vaginal)	NA	NA	NA	NA
+Corynebacterium_matruchotii_ATCC_14266	553207	Human, Oral (Other)	Aerobe	NA	NA	NA
+Corynebacterium_matruchotii_ATCC_33806	566549	Human, Oral (Gingivae)	Aerobe	NA	NA	NA
+Corynebacterium_pseudogenitalium_ATCC_33035	525264	Human, Urogenital (Other)	NA	NA	NA	NA
+Corynebacterium_striatum_ATCC_6940	525268	Human, Urogenital (Other)	Anaerobe	NA	NA	NA
+Corynebacterium_tuberculostearicum_SK141	553206	Human, Skin	Anaerobe	NA	NA	NA
+Corynebacterium_urealyticum_DSM_7109	504474	Human	Anaerobe	Pathogen	NA	NA
+Coxiella_burnetii_CbuG_Q212	434923	Human	Facultative	Pathogen	NA	NA
+Coxiella_burnetii_CbuK_Q154	434924	Human	Facultative	Pathogen	NA	NA
+Coxiella_burnetii_Dugway_7E9_12	382253	Non-Human	Facultative	Pathogen	NA	NA
+Coxiella_burnetii_RSA_331	360115	Human	Facultative	Pathogen	NA	NA
+Coxiella_burnetii_RSA_493	227377	Human, Soil	Facultative	Pathogen	NA	NA
+Croceibacter_atlanticus_HTCC2559	216432	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Crocosphaera_watsonii_WH_8501	165597	Non-Human	NA	NA	NA	NA
+Cronobacter_sakazakii_ATCC_BAA_894	290339	Human	Facultative	Pathogen	NA	NA
+Cronobacter_turicensis	413502	Human	Facultative	NA	47.369	8.538
+Cryptobacterium_curtum_DSM_15641	469378	Human, Oral (Other)	Obligate anaerobe	NA	NA	NA
+Cupriavidus_metallidurans_CH34	266264	Non-Human, Soil	Aerobe	Pathogen	NA	NA
+Cupriavidus_taiwanensis	164546	Non-Human	Facultative	NA	22.549506	120.61999
+Cyanobium_sp_PCC_7001	180281	Non-Human, Marine (Other)	Facultative	NA	40.74179	-72.915
+Cyanothece_sp_ATCC_51142	43989	Non-Human	Facultative	NA	27.816743	-97.074951
+Cyanothece_sp_CCY_0110	391612	Non-Human, Marine (Other)	Aerobe	NA	-6.1425	39.45778
+Cyanothece_sp_PCC_7424	65393	Non-Human	Anaerobe	NA	NA	NA
+Cyanothece_sp_PCC_7425	395961	Non-Human	Anaerobe	NA	NA	NA
+Cyanothece_sp_PCC_7822	497965	Non-Human	Aerobe	NA	20.237556	84.270018
+Cyanothece_sp_PCC_8801	41431	Non-Human	Aerobe	NA	NA	NA
+Cyanothece_sp_PCC_8802	395962	Non-Human	Aerobe	NA	22.760875	120.637579
+Cylindrospermopsis_raciborskii_CS_505	533240	Non-Human	NA	NA	NA	NA
+Cytophaga_hutchinsonii_ATCC_33406	269798	Non-Human, Soil	Aerobe	Non-Pathogen	37.7539	126.4882
+Dechloromonas_aromatica_RCB	159087	Non-Human	Facultative	NA	NA	NA
+Deferribacter_desulfuricans_SSM1	639282	Non-Human	Anaerobe	NA	NA	NA
+Dehalococcoides_ethenogenes_195	243164	Non-Human	Anaerobe	NA	NA	NA
+Dehalococcoides_sp_BAV1	216389	Non-Human	Anaerobe	NA	44.4267	-83.3323
+Dehalococcoides_sp_CBDB1	255470	Non-Human	Anaerobe	NA	NA	NA
+Dehalococcoides_sp_GT	633145	Non-Human	Anaerobe	NA	NA	NA
+Dehalococcoides_sp_VS	311424	Non-Human	Anaerobe	NA	NA	NA
+Dehalogenimonas_lykanthroporepellens_BL_DC_9	552811	Non-Human	Anaerobe	NA	NA	NA
+Deinococcus_deserti_VCD115	546414	Non-Human, Soil	Aerobe	Pathogen	NA	NA
+Deinococcus_geothermalis_DSM_11300	319795	Non-Human, Hydrothermal	Aerobe	Pathogen	40.833568	14.162399
+Deinococcus_radiodurans_R1	243230	Non-Human, Soil	Aerobe	Pathogen	NA	NA
+Delftia_acidovorans_SPH_1	398578	Non-Human, Soil	Aerobe	NA	NA	NA
+Denitrovibrio_acetiphilus_DSM_12809	522772	Non-Human, Marine (Other)	Obligate anaerobe	NA	NA	NA
+Desulfatibacillum_alkenivorans_AK_01	439235	Non-Human	Anaerobe	NA	40.437746	-74.20347
+Desulfitobacterium_hafniense_DCB_2	272564	Non-Human	Anaerobe	NA	NA	NA
+Desulfitobacterium_hafniense_Y51	138119	Non-Human, Soil	Anaerobe	NA	NA	NA
+Desulfobacterium_autotrophicum_HRM2_DSM_3382	177437	Non-Human	Anaerobe	NA	NA	NA
+Desulfococcus_oleovorans_Hxd3	96561	Non-Human	Anaerobe	NA	NA	NA
+Desulfohalobium_retbaense_DSM_5692	485915	Non-Human	Obligate anaerobe	NA	14.83	-17.23
+Desulfomicrobium_baculatum_DSM_4028	525897	Non-Human	Obligate anaerobe	NA	NA	NA
+Desulfonatronospira_thiodismutans_ASO3_1	555779	Non-Human	Anaerobe	NA	52.504582	82.999935
+Desulfotalea_psychrophila_LSv54	177439	Non-Human, Marine (Other)	Anaerobe	NA	NA	NA
+Desulfotomaculum_acetoxidans_DSM_771	485916	Non-Human, Soil	Obligate anaerobe	NA	51.533	9.933
+Desulfotomaculum_reducens_MI_1	349161	Non-Human	Anaerobe	Non-Pathogen	38.067222	-122.25
+Desulfovibrio_aespoeensis_Aspo_2	643562	Non-Human, Soil	Obligate anaerobe	NA	56.115502	15.537785
+Desulfovibrio_desulfuricans_G20	207559	Non-Human	Anaerobe	NA	NA	NA
+Desulfovibrio_desulfuricans_desulfuricans_ATCC_27774	525146	Non-Human, Farm	Anaerobe	NA	NA	NA
+Desulfovibrio_magneticus_RS_1	573370	Non-Human	Anaerobe	NA	34.230511	135.170808
+Desulfovibrio_piger_ATCC_29098	411464	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Desulfovibrio_salexigens_DSM_2638	526222	Non-Human	Anaerobe	NA	NA	NA
+Desulfovibrio_sp_FW1012B	644968	Non-Human, Soil	Obligate anaerobe	NA	NA	NA
+Desulfovibrio_vulgaris_Miyazaki_F	883	Non-Human, Soil	Anaerobe	NA	NA	NA
+Desulfovibrio_vulgaris_RCH1	573059	Non-Human, Soil	Obligate anaerobe	NA	NA	NA
+Desulfovibrio_vulgaris_vulgaris_DP4	391774	Non-Human	Anaerobe	Non-Pathogen	NA	NA
+Desulfovibrio_vulgaris_vulgaris_Hildenborough	882	Non-Human, Soil	Anaerobe	NA	51.213219	0.249551
+Desulfurivibrio_alkaliphilus_AHT2	589865	Non-Human	Anaerobe	NA	30.418502	30.333323
+Desulfurococcus_kamchatkensis_1221n	490899	Non-Human, Hydrothermal	Obligate anaerobe	NA	54.593	160.273
+Desulfuromonas_acetoxidans_DSM_684	281689	Non-Human	Anaerobe	NA	NA	NA
+Dethiobacter_alkaliphilus_AHT1	555088	Non-Human	Anaerobe	NA	NA	NA
+Dethiosulfovibrio_peptidovorans_SEBR_4207_DSM_11002	469381	Non-Human	Obligate anaerobe	NA	-5.05	11.783
+Dialister_invisus_DSM_15470	592028	Human, Oral (Other)	Anaerobe	NA	NA	NA
+Dichelobacter_nodosus_VCS1703A	246195	Non-Human	Anaerobe	Pathogen	NA	NA
+Dickeya_dadantii_Ech586	590409	Non-Human	Facultative	Pathogen	NA	NA
+Dickeya_dadantii_Ech703	579405	Non-Human	Facultative	NA	NA	NA
+Dickeya_zeae_Ech1591	561229	Non-Human	Facultative	NA	NA	NA
+Dictyoglomus_thermophilum_H_6_12	309799	Non-Human, Hydrothermal	Anaerobe	NA	32.789827	130.741667
+Dictyoglomus_turgidum_DSM_6724	515635	Non-Human, Hydrothermal	Anaerobe	NA	54.517335	159.973068
+Dinoroseobacter_shibae_DFL_12	398580	Non-Human	Aerobe	NA	35.648504	139.763947
+Dokdonia_donghaensis_MED134	313590	Non-Human, Marine (Other)	NA	NA	41.66667	2.8
+Dorea_formicigenerans_ATCC_27755	411461	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Dorea_longicatena_DSM_13814	411462	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Dyadobacter_fermentans_NS_114_DSM_18053	471854	Non-Human, Soil	Aerobe	NA	43.1	-89.4
+Edwardsiella_ictaluri_93_146	634503	Non-Human	Facultative	Pathogen	NA	NA
+Edwardsiella_tarda_ATCC_23685	500638	Human, Gut	Facultative	Pathogen	NA	NA
+Edwardsiella_tarda_EIB202	498217	Human	Facultative	Pathogen	37.463	121.447
+Eggerthella_lenta_DSM_2243	479437	Human	Anaerobe	Pathogen	NA	NA
+Ehrlichia_canis_Jake	269484	Non-Human	Aerobe	Pathogen	NA	NA
+Ehrlichia_chaffeensis_Arkansas	205920	Human	NA	Pathogen	NA	NA
+Ehrlichia_chaffeensis_Sapulpa	332415	Human	NA	Pathogen	NA	NA
+Ehrlichia_ruminantium_Gardel	302409	Non-Human, Farm	NA	Pathogen	NA	NA
+Ehrlichia_ruminantium_Welgevonden_CIRAD	254945	Non-Human	NA	Pathogen	NA	NA
+Eikenella_corrodens_ATCC_23834	546274	Human, Oral (Other)	Anaerobe	Pathogen	34.021575	-81.037104
+Elusimicrobium_minutum_Pei191	445932	Non-Human	Anaerobe	NA	NA	NA
+Endoriftia_persephone_Hot96_1_Hot96_2	394104	Non-Human	NA	NA	NA	NA
+Enhydrobacter_aerosaccus_SK60	553217	Human, Skin	Facultative	NA	NA	NA
+Enterobacter_cancerogenus_ATCC_35316	500639	Human, Gut	Facultative	NA	NA	NA
+Enterobacter_cloacae_subsp_cloacae_ATCC_13047	716541	Human	Aerobe	Pathogen	NA	NA
+Enterobacter_sp_638	399742	Non-Human	Facultative	NA	NA	NA
+Enterococcus_casseliflavus_EC10	565654	Human	Facultative	Pathogen	NA	NA
+Enterococcus_casseliflavus_EC20	565655	Human	Facultative	Pathogen	NA	NA
+Enterococcus_casseliflavus_EC30	565652	Human	Facultative	Pathogen	NA	NA
+Enterococcus_faecalis_ARO1_DG	565651	Non-Human	Facultative	NA	NA	NA
+Enterococcus_faecalis_ATCC_29200	525271	Human, Urogenital (Other)	Aerobe	NA	NA	NA
+Enterococcus_faecalis_ATCC_4200	565642	Human	Facultative	NA	NA	NA
+Enterococcus_faecalis_CH188	565644	Human	Facultative	NA	42.35892	-71.05781
+Enterococcus_faecalis_D6	565650	Non-Human, Farm	Facultative	NA	NA	NA
+Enterococcus_faecalis_DS5	565643	Human	Facultative	NA	NA	NA
+Enterococcus_faecalis_E1Sol	565647	Human	Facultative	NA	NA	NA
+Enterococcus_faecalis_Fly1	565649	Non-Human	Facultative	NA	NA	NA
+Enterococcus_faecalis_HH22	491075	Human, Urogenital (Other)	Facultative	Pathogen	NA	NA
+Enterococcus_faecalis_HIP11704	565646	Human	Facultative	NA	NA	NA
+Enterococcus_faecalis_JH1	565648	Human	Facultative	NA	NA	NA
+Enterococcus_faecalis_Merz96	565645	Human	Facultative	NA	NA	NA
+Enterococcus_faecalis_OG1RF	474186	Human, Gut	Facultative	Pathogen	NA	NA
+Enterococcus_faecalis_PC4_1	791161	Human, Gut	Facultative	NA	NA	NA
+Enterococcus_faecalis_R712	699186	Human	Facultative	NA	NA	NA
+Enterococcus_faecalis_S613	699185	Human	Facultative	NA	NA	NA
+Enterococcus_faecalis_T1	565636	Human	Facultative	NA	NA	NA
+Enterococcus_faecalis_T11	565640	Human, Urogenital (Other)	Facultative	NA	26.212401	127.680932
+Enterococcus_faecalis_T2	565637	Human, Urogenital (Other)	Facultative	NA	43.062096	141.354376
+Enterococcus_faecalis_T3	565638	Human, Urogenital (Other)	Facultative	NA	43.062096	141.354376
+Enterococcus_faecalis_T8	565639	Human	Facultative	NA	NA	NA
+Enterococcus_faecalis_TUSoD_Ef11	553209	Human, Oral (Other)	Facultative	NA	NA	NA
+Enterococcus_faecalis_TX0104	491074	Human, Gut	Aerobe	Pathogen	NA	NA
+Enterococcus_faecalis_TX1332	525278	Human, Gut	Aerobe	NA	NA	NA
+Enterococcus_faecalis_V583	226185	Human, Gut	Facultative	Pathogen	38.634788	-90.263207
+Enterococcus_faecalis_X98	565641	Human, Gut	Facultative	NA	NA	NA
+Enterococcus_faecium_1_141_733	565659	Human, Gut, Soil	Facultative	Pathogen	NA	NA
+Enterococcus_faecium_1_230_933	565656	Human	Facultative	Pathogen	NA	NA
+Enterococcus_faecium_1_231_408	565661	Human	Facultative	Pathogen	NA	NA
+Enterococcus_faecium_1_231_410	565660	Human	Facultative	Pathogen	NA	NA
+Enterococcus_faecium_1_231_501	565658	Human, Gut, Soil	Facultative	Pathogen	NA	NA
+Enterococcus_faecium_1_231_502	565657	Human	Facultative	Pathogen	NA	NA
+Enterococcus_faecium_C68	565664	Human	Facultative	Pathogen	NA	NA
+Enterococcus_faecium_Com12	565662	Human, Gut, Soil	Facultative	Pathogen	NA	NA
+Enterococcus_faecium_Com15	565663	Human, Gut	Facultative	Pathogen	NA	NA
+Enterococcus_faecium_D344SRF	565665	Human	Facultative	Pathogen	NA	NA
+Enterococcus_faecium_DO	333849	Human, Gut	Aerobe	NA	29.710489	-95.39907
+Enterococcus_faecium_E1039	645663	Human	Facultative	Pathogen	NA	NA
+Enterococcus_faecium_E1071	535205	Human, Gut	Facultative	Pathogen	NA	NA
+Enterococcus_faecium_E1162	535206	Human	Facultative	Pathogen	NA	NA
+Enterococcus_faecium_E1636	544875	Human	Facultative	Pathogen	NA	NA
+Enterococcus_faecium_E1679	546340	Human	Facultative	Pathogen	NA	NA
+Enterococcus_faecium_E980	529885	Human	Facultative	Pathogen	NA	NA
+Enterococcus_faecium_TC_6	565666	Human	Facultative	Pathogen	NA	NA
+Enterococcus_faecium_TX1330	525279	Human, Gut	Facultative	NA	NA	NA
+Enterococcus_faecium_U0317	547468	Human, Urogenital (Other)	Facultative	Pathogen	52.091262	5.122748
+Enterococcus_gallinarum_EG2	565653	Human, Soil	Facultative	Pathogen	NA	NA
+Epulopiscium_sp_N_t_morphotype_B	420336	Non-Human	Anaerobe	NA	NA	NA
+Erwinia_amylovora_ATCC_49946	716540	Non-Human	Facultative	Pathogen	40.714	-74.005
+Erwinia_amylovora_CFBP1430	665029	Non-Human	Facultative	Pathogen	NA	NA
+Erwinia_pyrifoliae_DSM_12163	644651	Non-Human	Facultative	NA	NA	NA
+Erwinia_pyrifoliae_Ep1_96	634499	Non-Human	Facultative	Pathogen	NA	NA
+Erwinia_tasmaniensis_Et1_99	465817	Non-Human	Facultative	Non-Pathogen	NA	NA
+Erysipelothrix_rhusiopathiae_ATCC_19414	525280	Human, Skin	Aerobe	NA	NA	NA
+Erysipelotrichaceae_bacterium_5_2_54FAA	552396	Human, Gut	NA	NA	NA	NA
+Erythrobacter_litoralis_HTCC2594	314225	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Erythrobacter_sp_NAP1	237727	Non-Human, Marine (Other)	Aerobe	NA	39.6	-72.45
+Escherichia_coli_042	216592	Human, Gut	Facultative	Pathogen	-12.093	-77.046
+Escherichia_coli_101_1	358709	Human	Facultative	Pathogen	NA	NA
+Escherichia_coli_53638	344610	Human	Facultative	NA	NA	NA
+Escherichia_coli_55989	585055	Human	Facultative	Pathogen	NA	NA
+Escherichia_coli_83972	525281	Human, Urogenital (Other)	Facultative	NA	NA	NA
+Escherichia_coli_APEC_O1	405955	Non-Human	Facultative	Pathogen	NA	NA
+Escherichia_coli_ATCC_8739	481805	Human, Gut	Facultative	Non-Pathogen	NA	NA
+Escherichia_coli_B088	550672	Human	Facultative	NA	NA	NA
+Escherichia_coli_B185	550676	Human	Facultative	NA	NA	NA
+Escherichia_coli_B354	550677	Human	Facultative	NA	NA	NA
+Escherichia_coli_BL21_DE3	469008	Non-Human	Facultative	Non-Pathogen	NA	NA
+Escherichia_coli_BL21_DE3_Austrian_seq_center	469008	Non-Human	Facultative	Non-Pathogen	NA	NA
+Escherichia_coli_BL21_DE3_Korean_seq_center	469008	Non-Human	Facultative	Non-Pathogen	NA	NA
+Escherichia_coli_BW2952	595496	Non-Human	Facultative	Non-Pathogen	NA	NA
+Escherichia_coli_B_str_REL606	413997	Non-Human	Facultative	Non-Pathogen	NA	NA
+Escherichia_coli_CFT073	199310	Human	Facultative	Pathogen	39.294255	-76.614275
+Escherichia_coli_DH1	536056	Non-Human	Facultative	NA	NA	NA
+Escherichia_coli_E110019	340186	Human, Gut	Facultative	NA	NA	NA
+Escherichia_coli_E22	340185	Human	Facultative	NA	NA	NA
+Escherichia_coli_E24377A	331111	Human, Gut	Facultative	Pathogen	NA	NA
+Escherichia_coli_ED1a	585397	Human, Gut	Facultative	Non-Pathogen	NA	NA
+Escherichia_coli_FVEC1412	656380	Non-Human	NA	Pathogen	NA	NA
+Escherichia_coli_HS	331112	Human, Gut	Facultative	Non-Pathogen	NA	NA
+Escherichia_coli_IAI1	585034	Human	Facultative	Pathogen	NA	NA
+Escherichia_coli_IAI39	585057	Human	Facultative	Pathogen	NA	NA
+Escherichia_coli_IHE3034	714962	Human, Gut	Facultative	Non-Pathogen	NA	NA
+Escherichia_coli_K12_DH10B	316385	Human, Gut	Facultative	Non-Pathogen	NA	NA
+Escherichia_coli_O103_H2_str_12009	585395	Human	Facultative	Pathogen	NA	NA
+Escherichia_coli_O111_H_str_11128	585396	Human	Facultative	Pathogen	NA	NA
+Escherichia_coli_O127_H6_E2348_69	574521	Human	Facultative	Pathogen	NA	NA
+Escherichia_coli_O157_H7_EC4024	444454	Human	Facultative	NA	NA	NA
+Escherichia_coli_O157_H7_EC4042	444449	Human	Facultative	NA	NA	NA
+Escherichia_coli_O157_H7_EC4045	444448	Human	Facultative	NA	NA	NA
+Escherichia_coli_O157_H7_EC4076	444453	Human	Facultative	NA	NA	NA
+Escherichia_coli_O157_H7_EC4113	444452	Human	Facultative	NA	NA	NA
+Escherichia_coli_O157_H7_EC4115	444450	Human	Facultative	NA	NA	NA
+Escherichia_coli_O157_H7_EC4196	444451	Human	Facultative	NA	NA	NA
+Escherichia_coli_O157_H7_EC4206	444447	Human	Facultative	NA	NA	NA
+Escherichia_coli_O157_H7_EC4401	478004	Human	Facultative	NA	NA	NA
+Escherichia_coli_O157_H7_EC4486	478005	Human	Facultative	NA	NA	NA
+Escherichia_coli_O157_H7_EC4501	478006	Human	Facultative	NA	NA	NA
+Escherichia_coli_O157_H7_EC508	478007	Human, Gut	Facultative	NA	NA	NA
+Escherichia_coli_O157_H7_EC869	478008	Human	Facultative	NA	NA	NA
+Escherichia_coli_O157_H7_EDL933	155864	Human, Gut	Facultative	Pathogen	NA	NA
+Escherichia_coli_O157_H7_Sakai	386585	Human, Gut	Facultative	Pathogen	36.459511	138.175003
+Escherichia_coli_O157_H7_TW14588	502346	Human	Facultative	Pathogen	NA	NA
+Escherichia_coli_O157_H7_str_FRIK2000	637388	Non-Human, Farm	Facultative	NA	NA	NA
+Escherichia_coli_O157_H7_str_FRIK966	570506	Non-Human, Farm	Facultative	NA	NA	NA
+Escherichia_coli_O157_H7_str_TW14359	544404	Human	Facultative	Pathogen	NA	NA
+Escherichia_coli_O26_H11_str_11368	573235	Human, Gut	Facultative	NA	NA	NA
+Escherichia_coli_O55_H7_str_CB9615	701177	Human, Gut	Facultative	Pathogen	NA	NA
+Escherichia_coli_S88	585035	Human	Facultative	Pathogen	NA	NA
+Escherichia_coli_SE11	409438	Human, Gut	Facultative	Non-Pathogen	NA	NA
+Escherichia_coli_SE15	431946	Human, Gut	NA	NA	NA	NA
+Escherichia_coli_SMS_3_5	439855	Human	Facultative	Pathogen	32.838433	-79.941044
+Escherichia_coli_UMN026	585056	Human	Facultative	Pathogen	NA	NA
+Escherichia_coli_UTI89	364106	Human, Gut	Facultative	Pathogen	NA	NA
+Escherichia_coli_W3110	316407	Non-Human	Facultative	Non-Pathogen	NA	NA
+Escherichia_coli_str_K_12_substr_MG1655	511145	Human, Gut	Facultative	Non-Pathogen	NA	NA
+Escherichia_fergusonii_UMN026_ATCC_35469	585054	Human	Facultative	Non-Pathogen	NA	NA
+Escherichia_sp_1_1_43	457400	Human, Gut	Facultative	NA	NA	NA
+Escherichia_sp_3_2_53FAA	469598	Human, Gut	Facultative	NA	NA	NA
+Escherichia_sp_4_1_40B	457401	Human, Gut	Facultative	NA	NA	NA
+Ethanoligenens_harbinense_YUAN_3	663278	Non-Human	Obligate anaerobe	NA	NA	NA
+Eubacterium_biforme_DSM_3989	518637	Human, Gut	Anaerobe	NA	NA	NA
+Eubacterium_dolichum_DSM_3991	428127	Human, Gut	Anaerobe	NA	NA	NA
+Eubacterium_eligens_ATCC_27750	515620	Human, Gut, Soil	Anaerobe	NA	NA	NA
+Eubacterium_hallii_DSM_3353	411469	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Eubacterium_rectale_ATCC_33656	515619	Human, Gut	Anaerobe	NA	NA	NA
+Eubacterium_saphenum_ATCC_49989	592031	Human, Oral (Other)	Anaerobe	NA	NA	NA
+Eubacterium_siraeum_DSM_15702	428128	Human, Gut	Anaerobe	NA	NA	NA
+Eubacterium_ventriosum_ATCC_27560	411463	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Exiguobacterium_sibiricum_255_15	262543	Non-Human	Facultative	NA	70	158
+Exiguobacterium_sp_AT1b	360911	Non-Human	Facultative	NA	44.376262	-110.690383
+Faecalibacterium_prausnitzii_A2_165	411483	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Faecalibacterium_prausnitzii_M21_2	411485	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Ferroglobus_placidus_DSM_10642	589924	Non-Human	Anaerobe	NA	NA	NA
+Ferroplasma_acidarmanus_Fer1	333146	Non-Human	Facultative	NA	40.668	-122.527
+Fervidobacterium_nodosum_Rt17_B1	381764	Non-Human, Hydrothermal	Anaerobe	NA	NA	NA
+Fibrobacter_succinogenes_subsp_succinogenes_S85	59374	Non-Human	Anaerobe	NA	NA	NA
+Filifactor_alocis_ATCC_35896	546269	Human, Oral (Gingivae)	Anaerobe	NA	NA	NA
+Finegoldia_magna_ATCC_29328	334413	Human, Gut	Anaerobe	Pathogen	NA	NA
+Finegoldia_magna_ATCC_53516	525282	Human, Urogenital (Vaginal)	Anaerobe	NA	NA	NA
+Flavobacteria_MS024_2A	487796	Non-Human	Aerobe	NA	43.849784	-69.6266
+Flavobacteria_MS024_3C	487797	Non-Human	Aerobe	NA	43.849784	-69.6266
+Flavobacteria_bacterium_BAL38	391598	Non-Human	Aerobe	NA	63.51611	19.81583
+Flavobacteriaceae_bacterium_3519_10	531844	Non-Human	NA	NA	NA	NA
+Flavobacteriales_bacterium_ALC_1	391603	Non-Human, Marine (Heterotroph)	Aerobe	NA	32.85	-117.25
+Flavobacteriales_bacterium_HTCC2170	313603	Non-Human, Marine (Heterotroph)	Aerobe	NA	44.655	-124.064
+Flavobacterium_johnsoniae_UW101	376686	Non-Human, Soil	Aerobe	NA	NA	NA
+Flavobacterium_psychrophilum_JIP02_86	402612	Non-Human	Aerobe	Pathogen	NA	NA
+Francisella_novicida_FTE	545422	Human	Aerobe	Pathogen	NA	NA
+Francisella_novicida_FTG	563990	Human	Aerobe	Pathogen	NA	NA
+Francisella_philomiragia_philomiragia_ATCC_25017	484022	Human	Aerobe	Pathogen	41.585	-112.0843
+Francisella_philomiragia_subsp_philomiragia_ATCC_25015	539329	Human	Aerobe	Pathogen	NA	NA
+Francisella_tularensis_holarctica	119857	Human	Aerobe	Pathogen	NA	NA
+Francisella_tularensis_holarctica_FSC200	351581	Human	Aerobe	Pathogen	NA	NA
+Francisella_tularensis_holarctica_FTA	458234	Human	Aerobe	Pathogen	NA	NA
+Francisella_tularensis_holarctica_OSU18	393011	Human	Aerobe	Pathogen	36.4595	-97.179
+Francisella_tularensis_mediasiatica_FSC147	441952	Human	Aerobe	Pathogen	NA	NA
+Francisella_tularensis_novicida_U112	401614	Human	Aerobe	Non-Pathogen	NA	NA
+Francisella_tularensis_subsp_holarctica_URFT1	445226	Human	Aerobe	Pathogen	NA	NA
+Francisella_tularensis_subsp_tularensis_NE061598	510831	Human	Aerobe	Pathogen	NA	NA
+Francisella_tularensis_tularensis_FSC_198	393115	Human	Aerobe	Pathogen	NA	NA
+Francisella_tularensis_tularensis_SCHU_S4	177416	Human	Aerobe	Pathogen	NA	NA
+Francisella_tularensis_tularensis_WY96_3418	418136	Human, Skin	Aerobe	Pathogen	NA	NA
+Frankia_alni_ACN14a	326424	Non-Human, Soil	Aerobe	Non-Pathogen	48.148312	-69.717963
+Frankia_sp_CcI3	106370	Non-Human, Soil	Aerobe	Non-Pathogen	NA	NA
+Frankia_sp_EAN1pec	298653	Non-Human, Soil	Aerobe	Non-Pathogen	39.689	-84.168
+Frankia_sp_EUN1f	102897	Non-Human, Soil	Aerobe	Non-Pathogen	NA	NA
+Frankia_sp_EuI1c	298654	Non-Human, Soil	Aerobe	Non-Pathogen	NA	NA
+Frankia_symbiont_of_Datisca_glomerata	656024	Non-Human, Soil	Aerobe	Non-Pathogen	NA	NA
+Fulvimarina_pelagi_HTCC2506	314231	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Fusobacterium_gonidiaformans_ATCC_25563	469615	Human, Gut	Anaerobe	NA	NA	NA
+Fusobacterium_mortiferum_ATCC_9817	469616	Human, Gut	Anaerobe	NA	NA	NA
+Fusobacterium_nucleatum_nucleatum_ATCC_25586	190304	Human	Anaerobe	Pathogen	NA	NA
+Fusobacterium_nucleatum_polymorphum_ATCC_10953	393480	Human, Oral (Other)	Anaerobe	Pathogen	NA	NA
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_23726	525283	Human, Urogenital (Vaginal)	Anaerobe	Pathogen	NA	NA
+Fusobacterium_nucleatum_vincentii_ATCC_49256	209882	Human, Oral (Other)	Anaerobe	Pathogen	NA	NA
+Fusobacterium_periodonticum_ATCC_33693	546275	Human, Oral (Other)	Anaerobe	Pathogen	NA	NA
+Fusobacterium_sp_1_1_41FAA	469621	Human, Gut	Anaerobe	NA	NA	NA
+Fusobacterium_sp_2_1_31	469599	Human, Gut	Anaerobe	NA	NA	NA
+Fusobacterium_sp_3_1_27	469602	Human, Gut	Anaerobe	NA	NA	NA
+Fusobacterium_sp_3_1_33	469603	Human, Gut	Anaerobe	NA	NA	NA
+Fusobacterium_sp_3_1_36A2	469604	Human, Gut	Anaerobe	NA	NA	NA
+Fusobacterium_sp_3_1_5R	469605	Human, Gut	Anaerobe	NA	NA	NA
+Fusobacterium_sp_4_1_13	469606	Human, Gut	Anaerobe	NA	NA	NA
+Fusobacterium_sp_7_1	457405	Human, Gut	Anaerobe	NA	NA	NA
+Fusobacterium_sp_D11	556264	Human, Gut	Anaerobe	NA	NA	NA
+Fusobacterium_sp_D12	556263	Human, Gut	Anaerobe	NA	NA	NA
+Fusobacterium_ulcerans_ATCC_49185	469617	Human, Gut	Anaerobe	NA	NA	NA
+Fusobacterium_varium_ATCC_27725	469618	Human, Gut	Anaerobe	NA	NA	NA
+Gallionella_ferruginea_ES_2	395494	Non-Human	Aerobe	NA	NA	NA
+Gardnerella_vaginalis_409_05	553190	Human, Urogenital (Vaginal)	Obligate anaerobe	NA	NA	NA
+Gardnerella_vaginalis_AMD	682147	Human, Urogenital (Vaginal)	Obligate anaerobe	NA	NA	NA
+Gardnerella_vaginalis_ATCC_14019	525284	Human, Urogenital (Vaginal)	Anaerobe	NA	NA	NA
+Gemella_haemolysans_ATCC_10379	546270	Human, Oral (Other)	Facultative	NA	NA	NA
+Gemmata_obscuriglobus_UQM_2246	214688	Non-Human	Aerobe	NA	NA	NA
+Gemmatimonas_aurantiaca_T_27T	379066	Non-Human	Aerobe	NA	NA	NA
+Geobacillus_kaustophilus_HTA426	235909	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Geobacillus_sp_C56_T3	691437	Non-Human	Facultative	NA	NA	NA
+Geobacillus_sp_G11MC16	495036	Non-Human	Facultative	NA	NA	NA
+Geobacillus_sp_WCH70	471223	Non-Human	Facultative	NA	NA	NA
+Geobacillus_sp_Y412MC10	481743	Non-Human	Facultative	NA	NA	NA
+Geobacillus_sp_Y412MC52	550542	Non-Human, Hydrothermal	Facultative	NA	44.376262	-110.690383
+Geobacillus_sp_Y412MC61	544556	Non-Human	Facultative	NA	44.376262	-110.690383
+Geobacillus_sp_Y4_1MC1	581103	Non-Human	Facultative	NA	44.376262	-110.690383
+Geobacillus_thermodenitrificans_NG80_2	420246	Non-Human	Facultative	NA	NA	NA
+Geobacillus_thermoglucosidasius_C56_YS93	634956	Non-Human	Facultative	NA	NA	NA
+Geobacter_bemidjiensis_Bem	404380	Non-Human, Soil	Anaerobe	NA	47.482959	-94.879704
+Geobacter_lovleyi_SZ	398767	Non-Human, Soil	Anaerobe	NA	37.566535	126.977969
+Geobacter_metallireducens_GS_15	269799	Non-Human	Anaerobe	NA	38.9863	-77.0535
+Geobacter_sp_FRC_32	316067	Non-Human, Soil	Anaerobe	NA	NA	NA
+Geobacter_sp_M18	443143	Non-Human	Anaerobe	NA	NA	NA
+Geobacter_sp_M21	443144	Non-Human, Soil	Anaerobe	NA	39.538845	-107.783363
+Geobacter_sulfurreducens_PCA	243231	Non-Human, Soil	Anaerobe	NA	35.191213	-97.441347
+Geobacter_uraniumreducens_Rf4	351605	Non-Human, Soil	Anaerobe	NA	39.538845	-107.783363
+Geodermatophilus_obscurus_DSM_43160	526225	Non-Human, Soil	Aerobe	NA	36.48	-116.5
+Gloeobacter_violaceus_PCC_7421	251221	Non-Human, Soil	NA	NA	NA	NA
+Gluconacetobacter_diazotrophicus_PAl_5	272568	Non-Human	Aerobe	NA	NA	NA
+Gluconacetobacter_hansenii_ATCC_23769	714995	Non-Human	Aerobe	NA	NA	NA
+Gluconobacter_oxydans_621H	290633	Non-Human	Aerobe	NA	NA	NA
+Gordonia_bronchialis_DSM_43247	526226	Human, Airways (Other)	Obligate aerobe	Pathogen	NA	NA
+Gramella_forsetii_KT0803	411154	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Granulibacter_bethesdensis_CGDNIH1	391165	Human	NA	Pathogen	38.9867	-77.1007
+Granulicatella_adiacens_ATCC_49175	638301	Human, Oral (Other)	NA	NA	NA	NA
+Granulicatella_elegans_ATCC_700633	626369	Human, Oral (Other)	Anaerobe	NA	NA	NA
+Grimontia_hollisae_CIP_101886	675812	Human, Gut, Marine (Heterotroph)	Facultative	NA	38.978181	-76.49404
+Haemophilus_ducreyi_35000HP	233412	Human, Skin	Anaerobe	Pathogen	NA	NA
+Haemophilus_influenzae_22_1_21	374927	Human, Airways (Nasopharynx)	Facultative	Pathogen	NA	NA
+Haemophilus_influenzae_22_4_21	375063	Human, Airways (Nasopharynx)	Facultative	Pathogen	NA	NA
+Haemophilus_influenzae_3655	375177	Human	Facultative	Pathogen	NA	NA
+Haemophilus_influenzae_6P18H1	521004	Human, Airways (Other)	Facultative	Pathogen	NA	NA
+Haemophilus_influenzae_7P49H1	521005	Human, Airways (Other)	Facultative	Pathogen	NA	NA
+Haemophilus_influenzae_86_028NP	281310	Human	Facultative	Pathogen	39.953032	-82.978495
+Haemophilus_influenzae_NT127	656913	Human	Facultative	Pathogen	NA	NA
+Haemophilus_influenzae_PittEE	374930	Human	Facultative	Pathogen	40.438423	-80.001933
+Haemophilus_influenzae_PittGG	374931	Human	Facultative	Pathogen	40.438423	80.001933
+Haemophilus_influenzae_PittHH	374932	Human	Facultative	Pathogen	NA	NA
+Haemophilus_influenzae_PittII	374933	Human	Facultative	Pathogen	40.438423	-80.001933
+Haemophilus_influenzae_R2846	262727	Human	Facultative	Pathogen	NA	NA
+Haemophilus_influenzae_R2866	262728	Human	Facultative	Pathogen	NA	NA
+Haemophilus_influenzae_R3021	375432	Human, Airways (Nasopharynx)	Facultative	Pathogen	NA	NA
+Haemophilus_influenzae_RdAW	656912	Human	Facultative	Pathogen	NA	NA
+Haemophilus_influenzae_Rd_KW20	71421	Human, Airways (Other)	Facultative	Pathogen	NA	NA
+Haemophilus_parasuis_29755	456298	Non-Human	Facultative	Pathogen	NA	NA
+Haemophilus_parasuis_SH0165	557723	Non-Human, Farm	Facultative	Pathogen	NA	NA
+Hahella_chejuensis_KCTC_2396	349521	Non-Human	Aerobe	NA	33.378561	126.566191
+Haliangium_ochraceum_DSM_14365	502025	Non-Human, Marine (Other)	Obligate aerobe	NA	35.259	139.629
+Haloarcula_marismortui_ATCC_43049	272569	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Halobacterium_salinarum_R1	478009	Non-Human	Obligate aerobe	NA	NA	NA
+Halobacterium_sp_NRC_1	64091	Non-Human	Aerobe	NA	NA	NA
+Haloferax_volcanii_DS2	309800	Non-Human	Aerobe	NA	31.5	35.49
+Halogeometricum_borinquense_PR3_DSM_11551	469382	Non-Human	Aerobe	NA	18.088189	-67.147095
+Halomicrobium_mukohataei_DSM_12286	485914	Non-Human, Soil	Facultative	NA	-22.663	-66.236
+Haloquadratum_walsbyi_DSM_16790	362976	Non-Human	NA	Non-Pathogen	38.345	-0.481
+Halorhabdus_utahensis_DSM_12940	519442	Non-Human, Soil	Aerobe	NA	41.177342	-112.50211
+Halorhodospira_halophila_SL1	349124	Non-Human	Anaerobe	NA	NA	NA
+Halorubrum_lacusprofundi_ATCC_49239	416348	Non-Human	Aerobe	NA	-68.3481	78.0432
+Haloterrigena_turkmenica_DSM_5511	543526	Non-Human, Soil	NA	NA	37.95	58.38
+Halothermothrix_orenii_H_168	373903	Non-Human	Anaerobe	NA	NA	NA
+Halothiobacillus_neapolitanus_c2	555778	Non-Human	Aerobe	NA	NA	NA
+Helicobacter_acinonychis_Sheeba	382638	Non-Human	Aerobe	Pathogen	NA	NA
+Helicobacter_bilis_ATCC_43879	613026	Human, Gut	Aerobe	NA	43.062071	-89.400846
+Helicobacter_canadensis_MIT_98_5491	537970	Human, Gut	Microaerophilic	Pathogen	NA	NA
+Helicobacter_canadensis_MIT_98_5491_ATCC_700968	537970	Human, Gut	Microaerophilic	NA	NA	NA
+Helicobacter_cinaedi_CCUG_18818	537971	Human, Gut	Microaerophilic	NA	NA	NA
+Helicobacter_hepaticus_ATCC_51449	235279	Non-Human	Aerobe	Pathogen	NA	NA
+Helicobacter_mustelae_12198	679897	Non-Human	Aerobe	Pathogen	NA	NA
+Helicobacter_pullorum_MIT_98_5489	537972	Human, Gut	Microaerophilic	NA	NA	NA
+Helicobacter_pylori	210	Human	Aerobe	Pathogen	NA	NA
+Helicobacter_pylori_26695	85962	Human, Gut	Aerobe	Pathogen	NA	NA
+Helicobacter_pylori_51	290847	Human	Aerobe	Pathogen	NA	NA
+Helicobacter_pylori_98_10	544405	Human, Gut	Aerobe	Pathogen	NA	NA
+Helicobacter_pylori_B128	544406	Human, Gut	Aerobe	Pathogen	NA	NA
+Helicobacter_pylori_B38	592205	Human	Aerobe	Pathogen	NA	NA
+Helicobacter_pylori_G27	563041	Human, Gut	Aerobe	Pathogen	NA	NA
+Helicobacter_pylori_HPAG1	357544	Human, Gut	Aerobe	Pathogen	NA	NA
+Helicobacter_pylori_HPKX_438_AG0C1	499171	Human, Gut	Aerobe	Pathogen	NA	NA
+Helicobacter_pylori_HPKX_438_CA4C1	499172	Human, Gut	Aerobe	Pathogen	NA	NA
+Helicobacter_pylori_J99	85963	Human, Gut	Aerobe	Pathogen	NA	NA
+Helicobacter_pylori_P12	570508	Human, Gut	Aerobe	Pathogen	NA	NA
+Helicobacter_pylori_Shi470	512562	Human, Gut	Aerobe	Pathogen	-12.211258	-76.908227
+Helicobacter_pylori_v225d	637913	Human, Gut	Microaerophilic	NA	NA	NA
+Helicobacter_winghamensis_ATCC_BAA_430	556267	Human, Gut	Aerobe	NA	NA	NA
+Heliobacterium_modesticaldum_Ice1	498761	Non-Human, Hydrothermal, Soil	Anaerobe	NA	NA	NA
+Herminiimonas_arsenicoxydans	204773	Non-Human	Anaerobe	Non-Pathogen	NA	NA
+Herpetosiphon_aurantiacus_ATCC_23779	316274	Non-Human	Aerobe	NA	45.040746	-94.41882
+Hirschia_baltica_ATCC_49814	582402	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Histophilus_somni_129PT	205914	Human	Facultative	Pathogen	NA	NA
+Histophilus_somni_2336	228400	Human	Facultative	Pathogen	NA	NA
+Hoeflea_phototrophica_DFL_43	411684	Non-Human, Marine (Other)	Aerobe	NA	54.13333	7.86667
+Holdemania_filiformis_VPI_J1_31B_1_DSM_12042	545696	Human, Gut	Anaerobe	NA	NA	NA
+Hydrogenivirga_sp_128_5_R1_1	392423	Non-Human	Anaerobe	NA	-20.752222	176.184722
+Hydrogenobacter_thermophilus_TK_6	608538	Non-Human	Aerobe	NA	34.856	138.938
+Hydrogenobaculum_sp_SN	547146	Non-Human	Aerobe	NA	NA	NA
+Hydrogenobaculum_sp_Y04AAS1	380749	Non-Human	Aerobe	NA	44.376262	-110.690383
+Hyperthermus_butylicus_DSM_5456	415426	Non-Human, Marine (Other)	Anaerobe	NA	37.835276	-25.463562
+Hyphomicrobium_denitrificans_ATCC_51888	582899	Non-Human	Aerobe	NA	NA	NA
+Hyphomonas_neptunium_ATCC_15444	228405	Non-Human, Marine (Other)	Aerobe	Non-Pathogen	NA	NA
+Idiomarina_loihiensis_L2TR	283942	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Ignicoccus_hospitalis_KIN4_I	453591	Non-Human, Marine (Other)	Anaerobe	NA	66.67	-18.5
+Janibacter_sp_HTCC2649	313589	Non-Human, Marine (Other)	NA	NA	NA	NA
+Jannaschia_sp_CCS1	290400	Non-Human, Marine (Heterotroph)	Obligate aerobe	NA	38.3121	-123.0661
+Janthinobacterium_sp_Marseille	375286	Non-Human	NA	NA	NA	NA
+Jonesia_denitrificans_DSM_20603	471856	Non-Human, Farm	Facultative	NA	NA	NA
+Jonquetella_anthropi_E3_33_E1	645512	Human, Oral (Other)	Obligate anaerobe	NA	NA	NA
+Kangiella_koreensis_DSM_16069	523791	Non-Human, Marine (Other)	Facultative	NA	33.245043	126.409526
+Kineococcus_radiotolerans_SRS30216	266940	Non-Human	Aerobe	Pathogen	33.283615	-81.726394
+Kingella_oralis_UB_38_ATCC_51147	629741	Human, Oral (Other)	NA	NA	NA	NA
+Klebsiella_pneumoniae_342	507522	Non-Human	Facultative	NA	NA	NA
+Klebsiella_pneumoniae_NTUH_K2044	484021	Human, Soil	Facultative	Pathogen	NA	NA
+Klebsiella_pneumoniae_pneumoniae_MGH_78578	272620	Human, Soil	Facultative	Pathogen	NA	NA
+Klebsiella_pneumoniae_subsp_rhinoscleromatis_ATCC_13884	667127	Human, Airways (Other)	NA	NA	NA	NA
+Klebsiella_sp_1_1_55	469608	Human, Gut	Facultative	NA	NA	NA
+Klebsiella_variicola_At_22	640131	Non-Human	NA	NA	NA	NA
+Kocuria_rhizophila_DC2201	378753	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Kordia_algicida_OT_1	391587	Non-Human, Marine (Other)	Aerobe	NA	35.16667	128.58333
+Koribacter_versatilis_Ellin345	204669	Non-Human, Soil	Aerobe	Non-Pathogen	NA	NA
+Kosmotoga_olearia_TBF_19_5_1	521045	Non-Human	NA	NA	NA	NA
+Kribbella_flavida_DSM_17836	479435	Non-Human, Soil	Obligate aerobe	NA	39.9	116.4
+Kytococcus_sedentarius_DSM_20547	478801	Non-Human, Marine (Other)	Obligate aerobe	Pathogen	32.718834	-117.163841
+Labrenzia_aggregata_IAM_12614	384765	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Labrenzia_alexandrii_DFL_11	244592	Non-Human, Marine (Other)	Aerobe	NA	54.13333	7.86667
+Lactobacillus_acidophilus_ATCC_4796	525306	Human, Gut	Microaerophilic	NA	NA	NA
+Lactobacillus_acidophilus_NCFM	272621	Human, Gut	Facultative	NA	NA	NA
+Lactobacillus_amylolyticus_DSM_11664	585524	Human, Gut	Microaerophilic	NA	NA	NA
+Lactobacillus_antri_DSM_16041	525309	Human, Gut	Microaerophilic	NA	65.852983	23.155277
+Lactobacillus_brevis_ATCC_367	387344	Non-Human, Soil	Aerobe	NA	NA	NA
+Lactobacillus_brevis_gravesensis_ATCC_27305	525310	Human, Gut	Microaerophilic	NA	NA	NA
+Lactobacillus_buchneri_ATCC_11577	525318	Human, Gut	Microaerophilic	NA	NA	NA
+Lactobacillus_casei_ATCC_334	321967	Human, Gut	Facultative	NA	NA	NA
+Lactobacillus_casei_casei_BL23	543734	Human, Gut	Facultative	NA	NA	NA
+Lactobacillus_coleohominis_101_4_CHN	575594	Human, Urogenital (Vaginal)	Facultative	NA	NA	NA
+Lactobacillus_crispatus_125_2_CHN	575595	Human, Gut, Urogenital (Vaginal)	Microaerophilic	NA	NA	NA
+Lactobacillus_crispatus_214_1	679188	Human, Urogenital (Vaginal)	Microaerophilic	NA	NA	NA
+Lactobacillus_crispatus_JV_V01	491076	Human, Urogenital (Vaginal)	Microaerophilic	NA	NA	NA
+Lactobacillus_crispatus_MV_1A_US	575596	Human, Urogenital (Vaginal)	Facultative	NA	NA	NA
+Lactobacillus_crispatus_MV_3A_US	575597	Human, Urogenital (Vaginal)	Facultative	NA	NA	NA
+Lactobacillus_crispatus_ST1	748671	Human, Urogenital (Vaginal)	Facultative	NA	NA	NA
+Lactobacillus_delbrueckii_bulgaricus_ATCC_11842	390333	Human, Gut	Facultative	NA	NA	NA
+Lactobacillus_delbrueckii_bulgaricus_ATCC_BAA_365	321956	Non-Human	Facultative	NA	NA	NA
+Lactobacillus_fermentum_28_3_CHN	575599	Human, Urogenital (Vaginal)	Facultative	NA	NA	NA
+Lactobacillus_fermentum_ATCC_14931	525325	Human, Gut	Microaerophilic	NA	NA	NA
+Lactobacillus_fermentum_IFO_3956	334390	Human, Gut	Facultative	NA	NA	NA
+Lactobacillus_gasseri_202_4	630527	Human, Urogenital (Vaginal)	Microaerophilic	NA	NA	NA
+Lactobacillus_gasseri_224_1	679196	Human, Urogenital (Vaginal)	Microaerophilic	NA	NA	NA
+Lactobacillus_gasseri_ATCC_33323	324831	Human, Gut	Facultative	NA	NA	NA
+Lactobacillus_gasseri_JV_V03	525326	Human, Urogenital (Vaginal)	Microaerophilic	NA	NA	NA
+Lactobacillus_helveticus_DPC_4571	405566	Non-Human	Facultative	NA	NA	NA
+Lactobacillus_helveticus_DSM_20075	585520	Human, Gut	Microaerophilic	NA	NA	NA
+Lactobacillus_hilgardii_ATCC_8290	525327	Human, Gut	Microaerophilic	NA	NA	NA
+Lactobacillus_iners_DSM_13335	525328	Human, Urogenital (Other)	Facultative	NA	NA	NA
+Lactobacillus_jensenii_115_3_CHN	575605	Human, Urogenital (Vaginal)	Facultative	NA	NA	NA
+Lactobacillus_jensenii_208_1	596326	Human, Urogenital (Vaginal)	NA	NA	NA	NA
+Lactobacillus_jensenii_269_3	596325	Human, Urogenital (Vaginal)	Microaerophilic	NA	NA	NA
+Lactobacillus_jensenii_27_2_CHN	575606	Human, Urogenital (Vaginal)	Microaerophilic	NA	NA	NA
+Lactobacillus_jensenii_JV_V16	525329	Human, Urogenital (Vaginal)	Microaerophilic	NA	NA	NA
+Lactobacillus_jensenii_SJ_7A_US	575607	Human, Urogenital (Vaginal)	Microaerophilic	NA	NA	NA
+Lactobacillus_johnsonii_ATCC_33200	525330	Human, Urogenital (Other)	Microaerophilic	NA	NA	NA
+Lactobacillus_johnsonii_FI9785	633699	Human, Urogenital (Vaginal)	Microaerophilic	NA	NA	NA
+Lactobacillus_johnsonii_NCC_533	257314	Human, Gut	Facultative	NA	NA	NA
+Lactobacillus_paracasei_8700_02_00	537973	Human, Gut	Microaerophilic	NA	NA	NA
+Lactobacillus_paracasei_ATCC_25302	525337	Human, Gut	Microaerophilic	NA	NA	NA
+Lactobacillus_plantarum_ATCC_14917	525338	Human, Gut	Microaerophilic	NA	NA	NA
+Lactobacillus_plantarum_JDM1	644042	Human, Gut	Microaerophilic	NA	NA	NA
+Lactobacillus_plantarum_WCFS1	220668	Human, Oral (Other)	Facultative	NA	NA	NA
+Lactobacillus_reuteri_100_23	349123	Human, Gut	Facultative	Non-Pathogen	NA	NA
+Lactobacillus_reuteri_CF48_3A	525341	Human, Gut	Microaerophilic	NA	NA	NA
+Lactobacillus_reuteri_F275	299033	Human, Gut	Facultative	Non-Pathogen	NA	NA
+Lactobacillus_reuteri_F275_JCM1112	557433	Human, Gut	Facultative	Non-Pathogen	NA	NA
+Lactobacillus_reuteri_MM2_3	585517	Human, Gut	Microaerophilic	Non-Pathogen	NA	NA
+Lactobacillus_reuteri_MM4_1	548485	Human, Gut	Microaerophilic	Non-Pathogen	NA	NA
+Lactobacillus_reuteri_SD2112_ATCC_55730	491077	Human, Gut	Microaerophilic	Non-Pathogen	NA	NA
+Lactobacillus_rhamnosus_GG	568703	Human, Gut	Microaerophilic	Non-Pathogen	NA	NA
+Lactobacillus_rhamnosus_HN001	486408	Human, Gut	Facultative	Non-Pathogen	NA	NA
+Lactobacillus_rhamnosus_LMS2_1	525361	Human, Gut	Facultative	NA	NA	NA
+Lactobacillus_rhamnosus_Lc_705	568704	Human, Gut	Microaerophilic	Non-Pathogen	NA	NA
+Lactobacillus_ruminis_E_194e_ATCC_25644	525362	Human, Gut	Microaerophilic	Non-Pathogen	NA	NA
+Lactobacillus_sakei_carnosus_DSM_15831	525363	Human, Gut	Microaerophilic	NA	NA	NA
+Lactobacillus_sakei_sakei_23K	314315	Non-Human	Facultative	Non-Pathogen	NA	NA
+Lactobacillus_salivarius_HO66_ATCC_11741	525364	Human, Gut, Oral (Other)	Microaerophilic	NA	NA	NA
+Lactobacillus_salivarius_salivarius_UCC118	362948	Human, Gut	Facultative	Non-Pathogen	NA	NA
+Lactobacillus_ultunensis_DSM_16047	525365	Human, Gut	Microaerophilic	NA	NA	NA
+Lactobacillus_vaginalis_ATCC_49540	525366	Human, Urogenital (Vaginal)	Microaerophilic	NA	NA	NA
+Lactococcus_lactis_cremoris_MG1363	416870	Non-Human	Facultative	Non-Pathogen	NA	NA
+Lactococcus_lactis_cremoris_SK11	272622	Non-Human	Facultative	Non-Pathogen	NA	NA
+Lactococcus_lactis_lactis_Il1403	272623	Non-Human	Facultative	NA	NA	NA
+Lactococcus_lactis_subsp_lactis_KF147	684738	Non-Human	Facultative	NA	NA	NA
+Laribacter_hongkongensis_HLHK9	557598	Human, Gut	Anaerobe	Pathogen	22.396428	114.109497
+Lawsonia_intracellularis_PHE_MN1_00	363253	Non-Human, Farm	Facultative	Pathogen	NA	NA
+Leeuwenhoekiella_blandensis_MED217	398720	Non-Human, Marine (Other)	Aerobe	NA	41.66667	2.8
+Legionella_drancourtii_LLAP12	658187	Non-Human, Soil	Aerobe	Pathogen	NA	NA
+Legionella_longbeachae_D_4968	638315	Human, Soil	Aerobe	Pathogen	NA	NA
+Legionella_longbeachae_NSW150	661367	Human, Soil	Aerobe	Pathogen	NA	NA
+Legionella_pneumophila_2300_99_Alcoy	423212	Human, Soil	Aerobe	Pathogen	38.7054	-0.478
+Legionella_pneumophila_Corby	400673	Human, Soil	Aerobe	Pathogen	NA	NA
+Legionella_pneumophila_Lens	297245	Human, Soil	Aerobe	Pathogen	NA	NA
+Legionella_pneumophila_Paris	297246	Human, Soil	Aerobe	Pathogen	NA	NA
+Legionella_pneumophila_pneumophila_Philadelphia_1	272624	Human, Soil	Aerobe	Pathogen	39.951639	-75.163808
+Leifsonia_xyli_xyli_CTCB07	281090	Non-Human	Aerobe	Pathogen	NA	NA
+Lentisphaera_araneosa_HTCC2155	313628	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Leptospira_biflexa_Patoc_1_Ames	355278	Non-Human, Soil	Aerobe	Pathogen	42.022864	-93.626792
+Leptospira_biflexa_Patoc_1_Paris	456481	Non-Human, Soil	Aerobe	Non-Pathogen	NA	NA
+Leptospira_borgpetersenii_sv_Hardjo_bovis_JB197	355277	Non-Human, Soil	Aerobe	Pathogen	NA	NA
+Leptospira_borgpetersenii_sv_Hardjo_bovis_L550	355276	Human, Soil	Aerobe	Pathogen	NA	NA
+Leptospira_interrogans_sv_Copenhageni_Fiocruz_L1_130	267671	Human, Soil	Aerobe	Pathogen	NA	NA
+Leptospira_interrogans_sv_Lai_56601	189518	Non-Human, Soil	Aerobe	Pathogen	NA	NA
+Leptothrix_cholodnii_SP_6	395495	Non-Human, Soil	Aerobe	NA	42.444589	-76.499268
+Leptotrichia_buccalis_DSM_1135	523794	Human, Oral (Gingivae)	Anaerobe	Pathogen	NA	NA
+Leptotrichia_goodfellowii_F0264	596323	Human, Oral (Other)	Anaerobe	NA	NA	NA
+Leptotrichia_hofstadii_F0254	634994	Human, Oral (Other)	Anaerobe	NA	NA	NA
+Leuconostoc_citreum_KM20	349519	Non-Human	Facultative	NA	NA	NA
+Leuconostoc_kimchii_IMSNU11154	762051	Non-Human	Facultative	NA	NA	NA
+Leuconostoc_mesenteroides_cremoris_ATCC_19254	586220	Human, Gut	Aerobe	NA	NA	NA
+Leuconostoc_mesenteroides_mesenteroides_ATCC_8293	203120	Non-Human	Facultative	Pathogen	NA	NA
+Limnobacter_sp_MED105	391597	Non-Human, Marine (Other)	NA	NA	32.81	34.69
+Listeria_grayi_DSM_20601	525367	Human, Gut	Aerobe	NA	NA	NA
+Listeria_innocua_Clip11262	272626	Non-Human, Soil	Facultative	Non-Pathogen	NA	NA
+Listeria_monocytogenes_08_5578	653938	Human, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_08_5923	637381	Human, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_10403S	393133	Non-Human, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_1_2a_F6854	267409	Non-Human, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_4b_CLIP_80459	634178	Human, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_4b_F2365	265669	Human, Gut, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_4b_H7858	267410	Human, Gut, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_EGD_e	169963	Non-Human, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_F6900	393128	Human, Gut, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_FSL_F2_515	393116	Human, Gut, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_FSL_J1_175	393118	Human, Gut, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_FSL_J1_194	393117	Human, Gut, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_FSL_J1_208	393119	Human, Gut, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_FSL_J2_003	393120	Human, Gut, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_FSL_J2_064	393122	Human, Gut, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_FSL_J2_071	393121	Human, Gut, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_FSL_N1_017	393123	Human, Gut, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_FSL_N3_165	393124	Human, Gut, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_FSL_R2_503	393125	Human, Gut, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_FSL_R2_561	393126	Human, Gut, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_Finland_1988	393127	Human, Gut, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_HCC23	552536	Non-Human, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_HPB2262	401650	Human, Gut, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_J0161	393130	Human, Gut, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_J2818	393131	Human, Gut, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_monocytogenes_LO28	393132	Human, Gut, Soil, Food	Facultative	Pathogen	NA	NA
+Listeria_seeligeri_serovar_1_2b_str_SLCC3954	683837	Non-Human	Facultative	Non-Pathogen	NA	NA
+Listeria_welshimeri_sv_6b_SLCC5334	386043	Non-Human, Soil, Food	Facultative	Non-Pathogen	NA	NA
+Loktanella_vestfoldensis_SKA53	314232	Non-Human, Marine (Other)	Aerobe	NA	58.94083	11.07944
+Lutiella_nitroferrum_2002	279714	Non-Human	NA	NA	NA	NA
+Lyngbya_sp_PCC_8106	313612	Non-Human, Marine (Other)	NA	NA	53.71278	8.13611
+Lysinibacillus_sphaericus_C3_41	444177	Non-Human, Soil	Aerobe	NA	NA	NA
+Macrococcus_caseolyticus_JCSC5402	458233	Non-Human	Facultative	NA	NA	NA
+Magnetococcus_sp_MC_1	156889	Non-Human, Marine (Other)	Facultative	Non-Pathogen	41.476883	-71.426451
+Magnetospirillum_magneticum_AMB_1	342108	Non-Human	Aerobe	NA	35.689488	139.691706
+Magnetospirillum_magnetotacticum_MS_1	272627	Non-Human, Marine (Heterotroph)	Aerobe	NA	NA	NA
+Mannheimia_haemolytica_PHL213	272629	Non-Human	Facultative	Pathogen	NA	NA
+Mannheimia_haemolytica_serotype_A2_str_BOVINE	669262	Non-Human	Facultative	Pathogen	NA	NA
+Mannheimia_haemolytica_serotype_A2_str_OVINE	669261	Non-Human	Facultative	Pathogen	NA	NA
+Maricaulis_maris_MCS10	394221	Non-Human	Facultative	Non-Pathogen	47.609106	-122.569354
+Marinobacter_algicola_DG893	443152	Non-Human, Marine (Heterotroph)	Aerobe	NA	36	123
+Marinobacter_aquaeolei_VT8	351348	Non-Human, Marine (Heterotroph)	Facultative	Non-Pathogen	10.345	107.084
+Marinobacter_sp_ELB17	270374	Non-Human, Marine (Heterotroph)	Facultative	NA	-77	-168
+Marinomonas_sp_MED121	314277	Non-Human, Marine (Other)	Aerobe	NA	41.66667	2.8
+Marinomonas_sp_MWYL1	400668	Non-Human, Marine (Other)	Aerobe	NA	52.9509	0.9329
+Mariprofundus_ferrooxydans_PV_1	314345	Non-Human, Marine (Other)	Aerobe	NA	18.95	-155.25
+Megasphaera_genomosp_type_1_str_28L	699218	Human, Urogenital (Vaginal)	NA	NA	NA	NA
+Meiothermus_ruber_DSM_1279	504728	Non-Human	Obligate aerobe	NA	NA	NA
+Meiothermus_silvanus_DSM_9946	526227	Non-Human, Hydrothermal	Aerobe	NA	41.38	-8.32
+Mesoplasma_florum_L1	265311	Non-Human	Facultative	Non-Pathogen	NA	NA
+Mesorhizobium_loti_MAFF303099	266835	Non-Human	Aerobe	NA	36.565	139.883
+Mesorhizobium_opportunistum_WSM2075	536019	Non-Human	Aerobe	NA	-31.530408	116.947875
+Metallosphaera_sedula_DSM_5348	399549	Non-Human	Aerobe	Non-Pathogen	40.833	14.15
+Methanobrevibacter_ruminantium_M1	634498	Non-Human, Farm	Anaerobe	NA	NA	NA
+Methanobrevibacter_smithii_ATCC_35061	420247	Non-Human, Soil	Anaerobe	NA	29.651	-82.325
+Methanobrevibacter_smithii_DSM_2375	483214	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Methanocaldococcus_fervens_AG86	573064	Non-Human, Marine (Other)	Anaerobe	NA	28.083612	-111.408692
+Methanocaldococcus_infernus_ME	573063	Non-Human, Marine (Other)	Anaerobe	NA	NA	NA
+Methanocaldococcus_jannaschii_DSM_2661	243232	Non-Human, Marine (Other)	Obligate anaerobe	NA	NA	NA
+Methanocaldococcus_sp_FS406_22	644281	Non-Human, Marine (Other)	NA	NA	23.366667	-44.933333
+Methanocaldococcus_vulcanius_M7	579137	Non-Human, Marine (Other)	Anaerobe	NA	NA	NA
+Methanocella_paludicola_SANAE	304371	Non-Human	Anaerobe	NA	35.63	139.55
+Methanocella_sp_RC_I	351160	Non-Human, Soil	NA	Non-Pathogen	NA	NA
+Methanococcoides_burtonii_DSM_6242	259564	Non-Human	Anaerobe	NA	-68.479167	-78.183611
+Methanococcus_aeolicus_Nankai_3	419665	Non-Human, Marine (Other)	Anaerobe	NA	33.216667	136.71667
+Methanococcus_maripaludis_C5	402880	Non-Human	Obligate anaerobe	Non-Pathogen	NA	NA
+Methanococcus_maripaludis_C6	444158	Non-Human	Obligate anaerobe	Non-Pathogen	NA	NA
+Methanococcus_maripaludis_C7	426368	Non-Human, Marine (Other)	Obligate anaerobe	NA	NA	NA
+Methanococcus_maripaludis_S2	267377	Non-Human	Obligate anaerobe	NA	32.801835	-79.87545
+Methanococcus_vannielii_SB	406327	Non-Human, Marine (Other)	Anaerobe	Non-Pathogen	37.690968	-122.310752
+Methanococcus_voltae_A3	456320	Non-Human	Anaerobe	NA	NA	NA
+Methanocorpusculum_labreanum_Z	410358	Non-Human	Anaerobe	Non-Pathogen	34.107811	-118.599658
+Methanoculleus_marisnigri_JR1	368407	Non-Human, Marine (Other)	Anaerobe	Non-Pathogen	NA	NA
+Methanohalophilus_mahii_DSM_5219	547558	Non-Human	Anaerobe	NA	41.177	-112.502
+Methanopyrus_kandleri_AV19	190192	Non-Human, Marine (Other)	Anaerobe	NA	NA	NA
+Methanosaeta_thermophila_PT	349307	Non-Human	Anaerobe	NA	NA	NA
+Methanosarcina_acetivorans_C2A	188937	Non-Human, Marine (Other)	Anaerobe	NA	NA	NA
+Methanosarcina_barkeri_fusaro	269797	Non-Human	Anaerobe	NA	40.844	14.251
+Methanosarcina_mazei_Go1	192952	Human, Soil	Anaerobe	NA	NA	NA
+Methanosphaera_stadtmanae_DSM_3091	339860	Human, Gut	Anaerobe	NA	NA	NA
+Methanosphaerula_palustris_E1_9c	521011	Non-Human, Soil	Anaerobe	NA	NA	NA
+Methanospirillum_hungatei_JF_1	323259	Non-Human	Anaerobe	NA	NA	NA
+Methanothermobacter_thermautotrophicus_Delta_H	187420	Non-Human	Obligate anaerobe	NA	40.106649	-88.195627
+Methylacidiphilum_infernorum_V4	481448	Non-Human, Hydrothermal	Aerobe	NA	NA	NA
+Methylibium_petroleiphilum_PM1	420662	Non-Human	Facultative	NA	34.052187	-118.243425
+Methylobacillus_flagellatus_KT	265072	Non-Human	Aerobe	NA	55.755786	37.617633
+Methylobacterium_chloromethanicum_CM4	440085	Non-Human, Soil	Aerobe	NA	47.800499	13.04441
+Methylobacterium_extorquens_AM1	272630	Non-Human	Aerobe	NA	NA	NA
+Methylobacterium_extorquens_DM4	661410	Non-Human	Aerobe	NA	NA	NA
+Methylobacterium_extorquens_PA1	419610	Non-Human	Facultative	NA	NA	NA
+Methylobacterium_nodulans_ORS_2060	460265	Non-Human	Aerobe	NA	14.7031	-17.4221
+Methylobacterium_populi_BJ001	441620	Non-Human	Aerobe	NA	NA	NA
+Methylobacterium_radiotolerans_JCM_2831	426355	Non-Human	Aerobe	NA	NA	NA
+Methylobacterium_sp_4_46	426117	Non-Human	Aerobe	NA	NA	NA
+Methylocella_silvestris_BL2	395965	Non-Human	Aerobe	NA	50.814788	8.769239
+Methylococcus_capsulatus_Bath	243233	Non-Human	Aerobe	NA	NA	NA
+Methylophaga_thiooxidans_DMS010	637616	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Methylophilales_bacterium_HTCC2181	383631	Non-Human, Marine (Other)	NA	NA	44.650749	-124.064441
+Methylosinus_trichosporium_OB3b	595536	Non-Human, Soil	NA	NA	NA	NA
+Methylotenera_mobilis_JLW8	583345	Non-Human	Aerobe	NA	NA	NA
+Methylotenera_sp_301	666681	Non-Human	NA	NA	NA	NA
+Methylovorus_sp_SIP3_4	582744	Non-Human	Aerobe	NA	NA	NA
+Micrococcus_luteus_SK58	596312	Human, Skin	Aerobe	NA	NA	NA
+Microcoleus_chthonoplastes_PCC_7420	118168	Non-Human, Marine (Other)	NA	NA	41.51667	-70.68333
+Microcystis_aeruginosa_NIES_843	449447	Human	Aerobe	Pathogen	36.040278	140.394167
+Micromonospora_aurantiaca_ATCC_27029	644283	Non-Human, Soil	Aerobe	NA	NA	NA
+Micromonospora_sp_L5	648999	Non-Human, Soil	Aerobe	NA	20.673	-101.354
+Microscilla_marina_ATCC_23134	313606	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Mitsuokella_multacida_DSM_20544	500635	Human, Gut	Anaerobe	NA	NA	NA
+Mobiluncus_curtisii_ATCC_43063	548479	Human, Urogenital (Vaginal)	Anaerobe	NA	NA	NA
+Mobiluncus_mulieris_28_1	596328	Human, Urogenital (Vaginal)	Anaerobe	NA	NA	NA
+Mobiluncus_mulieris_ATCC_35243	585199	Human, Urogenital (Vaginal)	Anaerobe	NA	NA	NA
+Moorella_thermoacetica_ATCC_39073	264732	Non-Human	Anaerobe	NA	NA	NA
+Moraxella_catarrhalis_RH4	749219	Human, Airways (Other)	Aerobe	Pathogen	NA	NA
+Moritella_sp_PE36	58051	Non-Human, Marine (Heterotroph)	NA	NA	33	-122
+Mycobacterium_abscessus	36809	Human, Skin	Aerobe	Pathogen	NA	NA
+Mycobacterium_avium_104	243243	Human, Soil	Aerobe	Pathogen	NA	NA
+Mycobacterium_avium_paratuberculosis_K_10	262316	Non-Human, Farm	Aerobe	Pathogen	NA	NA
+Mycobacterium_avium_subsp_avium_ATCC_25291	553481	Non-Human	Aerobe	Pathogen	NA	NA
+Mycobacterium_bovis_AF2122_97	233413	Non-Human, Farm	Aerobe	Pathogen	NA	NA
+Mycobacterium_bovis_BCG_Pasteur_1173P2	410289	Human	Aerobe	Pathogen	NA	NA
+Mycobacterium_bovis_BCG_Tokyo_172	561275	Human	Aerobe	Pathogen	NA	NA
+Mycobacterium_gilvum_PYR_GCK	350054	Non-Human, Soil	Aerobe	NA	NA	NA
+Mycobacterium_intracellulare_ATCC_13950	487521	Human	Aerobe	Pathogen	NA	NA
+Mycobacterium_kansasii_ATCC_12478	557599	Human	Aerobe	Pathogen	NA	NA
+Mycobacterium_leprae_Br4923	561304	Human, Skin	Aerobe	Pathogen	NA	NA
+Mycobacterium_leprae_TN	272631	Human	Aerobe	Pathogen	11.127123	78.656894
+Mycobacterium_marinum_M	216594	Human	Aerobe	Pathogen	37.763385	-122.458081
+Mycobacterium_parascrofulaceum_ATCC_BAA_614	525368	Human, Urogenital (Vaginal)	Aerobe	NA	NA	NA
+Mycobacterium_smegmatis_MC2_155	246196	Human	Aerobe	Pathogen	NA	NA
+Mycobacterium_sp_JLS	164757	Non-Human, Soil	Aerobe	Non-Pathogen	48.38828	115.55581
+Mycobacterium_sp_KMS	189918	Non-Human, Soil	Aerobe	Non-Pathogen	48.38828	115.55581
+Mycobacterium_sp_MCS	164756	Non-Human, Soil	Aerobe	Non-Pathogen	48.38828	-115.55581
+Mycobacterium_tuberculosis_210	164513	Human	Aerobe	Pathogen	NA	NA
+Mycobacterium_tuberculosis_CDC1551	83331	Human	Aerobe	Pathogen	NA	NA
+Mycobacterium_tuberculosis_EAS054	520140	Human	Aerobe	Pathogen	NA	NA
+Mycobacterium_tuberculosis_F11	336982	Human	Aerobe	Pathogen	NA	NA
+Mycobacterium_tuberculosis_H37Ra	419947	Human, Airways (Other)	Aerobe	Pathogen	NA	NA
+Mycobacterium_tuberculosis_H37Rv	83332	Human, Airways (Other)	Aerobe	Pathogen	NA	NA
+Mycobacterium_tuberculosis_KZN_1435	478434	Human	Aerobe	Pathogen	-28.530554	30.895824
+Mycobacterium_tuberculosis_KZN_V2475	663887	Human	Aerobe	Pathogen	-24.798703	31.435543
+Mycobacterium_ulcerans_Agy99	362242	Human, Skin	Aerobe	Pathogen	NA	NA
+Mycobacterium_vanbaalenii_PYR_1	350058	Non-Human	Aerobe	NA	28.304381	-97.03125
+Mycoplasma_agalactiae	2110	Non-Human	Facultative	Pathogen	NA	NA
+Mycoplasma_agalactiae_PG2	347257	Non-Human	Facultative	Pathogen	NA	NA
+Mycoplasma_alligatoris_A21JP2	747682	Non-Human	Facultative	Pathogen	NA	NA
+Mycoplasma_arthritidis_158L3_1	243272	Human	Facultative	Pathogen	NA	NA
+Mycoplasma_capricolum_capricolum_ATCC_27343	340047	Non-Human, Farm	Facultative	Pathogen	NA	NA
+Mycoplasma_conjunctivae	45361	Non-Human, Farm	Facultative	Pathogen	NA	NA
+Mycoplasma_crocodyli_MP145	512564	Non-Human	Facultative	Pathogen	-17.829	31.053
+Mycoplasma_gallisepticum_R	233150	Non-Human	Facultative	Pathogen	NA	NA
+Mycoplasma_gallisepticum_str_F	708616	Non-Human	Facultative	Pathogen	NA	NA
+Mycoplasma_gallisepticum_str_R_high	710128	Non-Human	Facultative	Pathogen	NA	NA
+Mycoplasma_genitalium_G37	243273	Human, Urogenital (Other)	Facultative	Pathogen	NA	NA
+Mycoplasma_genitalium_G37_454	243273	Human, Urogenital (Other)	Facultative	Pathogen	NA	NA
+Mycoplasma_hominis	2098	Human, Gut	Facultative	Pathogen	NA	NA
+Mycoplasma_hyopneumoniae_232	295358	Non-Human	Facultative	Pathogen	NA	NA
+Mycoplasma_hyopneumoniae_7448	262722	Non-Human, Farm	Facultative	Pathogen	-27.051537	-52.082512
+Mycoplasma_hyopneumoniae_J	262719	Non-Human	Facultative	Non-Pathogen	NA	NA
+Mycoplasma_mycoides_mycoides_SC_PG1	272632	Non-Human	Facultative	Pathogen	NA	NA
+Mycoplasma_mycoides_subsp_capri_str_GM12_clone_deltatypeIIIres	436113	Non-Human	Anaerobe	Pathogen	NA	NA
+Mycoplasma_mycoides_subsp_capri_str_GM12_transgenic_clone_tetM_lacZ	436113	Non-Human	Anaerobe	Pathogen	NA	NA
+Mycoplasma_penetrans_HF_2	272633	Human	Facultative	Pathogen	NA	NA
+Mycoplasma_pneumoniae_M129	272634	Human, Airways (Other)	Facultative	Pathogen	NA	NA
+Mycoplasma_pulmonis_UAB_CTIP	272635	Non-Human	Facultative	Pathogen	NA	NA
+Mycoplasma_synoviae_53	262723	Non-Human	Facultative	Pathogen	-12.616181	-47.883649
+Myxococcus_xanthus_DK_1622	246197	Non-Human, Soil	Obligate aerobe	Non-Pathogen	NA	NA
+Nakamurella_multipartita_DSM_44233	479431	Non-Human	Aerobe	NA	NA	NA
+Natranaerobius_thermophilus_JW_NM_WN_LF	457570	Non-Human	Anaerobe	NA	30.325278	30.407222
+Natrialba_magadii_ATCC_43099	547559	Non-Human	Aerobe	NA	-1.935	36.253
+Natronomonas_pharaonis_DSM_2160	348780	Non-Human	Aerobe	NA	NA	NA
+Nautilia_profundicola_Am_H	598659	Non-Human	Obligate anaerobe	NA	12.801944	-103.934444
+Neisseria_cinerea_ATCC_14685	546262	Human, Airways (Nasopharynx)	Aerobe	NA	NA	NA
+Neisseria_elongata_subsp_glycolytica_ATCC_29315	546263	Human, Airways (Nasopharynx)	Aerobe	NA	NA	NA
+Neisseria_flavescens_NRL30031_H210	546264	Human, Airways (Other)	Aerobe	NA	NA	NA
+Neisseria_flavescens_SK114	596320	Human, Skin	Aerobe	NA	NA	NA
+Neisseria_gonorrhoeae_1291	528345	Human	Aerobe	NA	NA	NA
+Neisseria_gonorrhoeae_35_02	528346	Human	Aerobe	NA	NA	NA
+Neisseria_gonorrhoeae_DGI18	528347	Human	Aerobe	NA	NA	NA
+Neisseria_gonorrhoeae_DGI2	528348	Human	Aerobe	NA	NA	NA
+Neisseria_gonorrhoeae_F62	528351	Human	Aerobe	NA	NA	NA
+Neisseria_gonorrhoeae_FA19	528352	Human	Aerobe	NA	NA	NA
+Neisseria_gonorrhoeae_FA6140	528353	Human	Aerobe	NA	NA	NA
+Neisseria_gonorrhoeae_FA_1090	242231	Human	Aerobe	Pathogen	NA	NA
+Neisseria_gonorrhoeae_MS11	528354	Human	Aerobe	NA	NA	NA
+Neisseria_gonorrhoeae_NCCP11945	521006	Human, Urogenital (Vaginal)	Aerobe	Pathogen	NA	NA
+Neisseria_gonorrhoeae_PID1	528355	Human, Urogenital (Other)	Aerobe	NA	NA	NA
+Neisseria_gonorrhoeae_PID18	528356	Human, Urogenital (Other)	Aerobe	NA	NA	NA
+Neisseria_gonorrhoeae_PID24_1	528357	Human, Urogenital (Other)	Aerobe	NA	NA	NA
+Neisseria_gonorrhoeae_PID332	528358	Human, Urogenital (Other)	Aerobe	NA	NA	NA
+Neisseria_gonorrhoeae_SK_92_679	528359	Human	Aerobe	NA	NA	NA
+Neisseria_gonorrhoeae_SK_93_1035	528360	Human	Aerobe	NA	NA	NA
+Neisseria_lactamica_ATCC_23970	546265	Human, Airways (Nasopharynx)	Aerobe	NA	NA	NA
+Neisseria_meningitidis_053442	374833	Human	Aerobe	Pathogen	NA	NA
+Neisseria_meningitidis_8013	604162	Human	Aerobe	Pathogen	NA	NA
+Neisseria_meningitidis_FAM18	272831	Human	Aerobe	Pathogen	NA	NA
+Neisseria_meningitidis_MC58	122586	Human	Aerobe	Pathogen	NA	NA
+Neisseria_meningitidis_Z2491	122587	Human	Aerobe	Pathogen	NA	NA
+Neisseria_meningitidis_alpha14	662598	Human	Aerobe	Pathogen	NA	NA
+Neisseria_mucosa_M26_ATCC_25996	546266	Human, Airways (Nasopharynx)	Aerobe	NA	NA	NA
+Neisseria_polysaccharea_ATCC_43768	546267	Human, Airways (Other)	Aerobe	NA	NA	NA
+Neisseria_sicca_ATCC_29256	547045	Human, Airways (Nasopharynx)	Aerobe	NA	NA	NA
+Neisseria_subflava_NJ9703	546268	Human, Oral (Other)	Aerobe	NA	NA	NA
+Neorickettsia_risticii_str_Illinois	434131	Non-Human, Farm	Aerobe	Pathogen	NA	NA
+Neorickettsia_sennetsu_Miyayama	222891	Human	Aerobe	Pathogen	NA	NA
+Nisaea_sp_BAL199	331869	Non-Human, Marine (Other)	NA	NA	58.58778	18.24667
+Nitratiruptor_sp_SB155_2	387092	Non-Human, Marine (Other)	Anaerobe	NA	27.783333	126.883333
+Nitrobacter_hamburgensis_X14	323097	Non-Human, Soil	Aerobe	NA	NA	NA
+Nitrobacter_sp_Nb_311A	314253	Non-Human, Marine (Other), Soil	Facultative	NA	-8.8158	13.211231
+Nitrobacter_winogradskyi_Nb_255	323098	Non-Human, Soil	Facultative	NA	NA	NA
+Nitrococcus_mobilis_Nb_231	314278	Non-Human, Marine (Other)	Aerobe	NA	-0.3	-91.65
+Nitrosococcus_halophilus_Nc4	472759	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Nitrosococcus_oceani_AFC27	473788	Non-Human, Marine (Other)	Aerobe	NA	43	-155
+Nitrosococcus_oceani_ATCC_19707	323261	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Nitrosomonas_europaea_ATCC_19718	228410	Non-Human, Soil	Aerobe	NA	NA	NA
+Nitrosomonas_eutropha_C71	335283	Non-Human	Aerobe	NA	41.8647	-87.6477
+Nitrosomonas_sp_AL212	153948	Non-Human, Soil	Aerobe	NA	NA	NA
+Nitrosopumilus_maritimus_SCM1	436308	Non-Human	Aerobe	NA	NA	NA
+Nitrosospira_multiformis_ATCC_25196	323848	Non-Human, Soil	Aerobe	NA	5.8992	-55.168
+Nocardia_farcinica_IFM_10152	247156	Human, Airways (Other), Soil	Aerobe	Pathogen	NA	NA
+Nocardioides_sp_JS614	196162	Non-Human, Soil	Aerobe	Non-Pathogen	33.831609	-118.263731
+Nocardiopsis_dassonvillei_subsp_dassonvillei_DSM_43111	446468	Human	Aerobe	Pathogen	48.85	2.35
+Nodularia_spumigena_CCY9414	313624	Non-Human, Marine (Other)	Aerobe	NA	55.525	16.61917
+Nostoc_punctiforme_PCC_73102	63737	Non-Human, Soil	Aerobe	NA	NA	NA
+Nostoc_sp_PCC_7120	103690	Non-Human, Soil	Aerobe	NA	NA	NA
+Novosphingobium_aromaticivorans_DSM_12444	279238	Human, Soil	Obligate aerobe	NA	33.2842	-81.7263
+Oceanibulbus_indolifex_HEL_45	391624	Non-Human, Marine (Other)	Aerobe	NA	54.13333	7.86667
+Oceanicaulis_alexandrii_HTCC2633	314254	Non-Human, Marine (Other)	Aerobe	NA	31.666667	-64.166667
+Oceanicola_batsensis_HTCC2597	252305	Non-Human, Marine (Other)	Aerobe	NA	31.666667	-64.166667
+Oceanicola_granulosus_HTCC2516	314256	Non-Human, Marine (Other)	Aerobe	NA	31.666667	-64.166667
+Oceanobacillus_iheyensis_HTE831	221109	Non-Human, Soil	Aerobe	NA	NA	NA
+Ochrobactrum_anthropi_ATCC_49188	439375	Human, Soil	Aerobe	Pathogen	NA	NA
+Ochrobactrum_intermedium_LMG_3301	641118	Human, Soil	Aerobe	Pathogen	NA	NA
+Octadecabacter_antarcticus_238	391616	Non-Human, Marine (Other)	NA	NA	73.016667	-148.516667
+Octadecabacter_antarcticus_307	391626	Non-Human	NA	NA	-77.534	166.354
+Oenococcus_oeni_ATCC_BAA_1163	379360	Non-Human	Facultative	NA	NA	NA
+Oenococcus_oeni_AWRIB429	655225	Non-Human	Facultative	NA	NA	NA
+Oenococcus_oeni_PSU_1	203123	Non-Human	Facultative	Non-Pathogen	NA	NA
+Oligotropha_carboxidovorans_OM5	504832	Non-Human	NA	NA	NA	NA
+Onion_yellows_phytoplasma_OY_M	262768	Non-Human	Aerobe	Pathogen	NA	NA
+Opitutaceae_bacterium_TAV2	278957	Non-Human	Facultative	NA	NA	NA
+Opitutus_terrae_PB90_1	452637	Non-Human, Soil	Anaerobe	NA	NA	NA
+Oribacterium_sinus_F0268	585501	Human, Oral (Other)	NA	NA	NA	NA
+Oribacterium_sp_oral_taxon_078_str_F0262	608534	Human, Oral (Other)	NA	NA	NA	NA
+Orientia_tsutsugamushi_Boryong	357244	Human	Aerobe	Pathogen	37.538777	127.665269
+Orientia_tsutsugamushi_Ikeda	334380	Human	Aerobe	Pathogen	37.953511	139.031525
+Oxalobacter_formigenes_HOxBLS	556268	Human, Gut	Anaerobe	NA	NA	NA
+Oxalobacter_formigenes_OXCC13	556269	Human, Gut	Anaerobe	NA	NA	NA
+Paenibacillus_sp_JDR_2	324057	Non-Human	Aerobe	NA	NA	NA
+Paenibacillus_sp_oral_taxon_786_str_D14	621372	Human, Oral (Other)	Aerobe	NA	NA	NA
+Pantoea_ananatis_LMG_20103	706191	Non-Human	Facultative	Pathogen	-27	30.8
+Parabacteroides_distasonis_ATCC_8503	435591	Human, Gut	Anaerobe	Pathogen	NA	NA
+Parabacteroides_johnsonii_DSM_18315	537006	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Parabacteroides_merdae_ATCC_43184	411477	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Parabacteroides_sp_D13	563193	Non-Human	NA	NA	NA	NA
+Parachlamydia_acanthamoebae_str_Hall	159254	Non-Human	NA	NA	NA	NA
+Paracoccus_denitrificans_PD1222	318586	Non-Human, Soil	Aerobe	NA	NA	NA
+Parascardovia_denticolens_F0305	641144	Human, Oral (Other)	Anaerobe	NA	NA	NA
+Parvibaculum_lavamentivorans_DS_1	402881	Non-Human	Aerobe	NA	49.4855	8.4408
+Parvimonas_micra_ATCC_33270	411465	Human, Gut	Anaerobe	Pathogen	NA	NA
+Parvularcula_bermudensis_HTCC2503	314260	Non-Human, Marine (Other)	Aerobe	NA	31.666667	-64.166667
+Pasteurella_dagmatis_ATCC_43325	667128	Human, Airways (Other)	NA	NA	NA	NA
+Pasteurella_multocida_multocida_Pm70	272843	Non-Human	Facultative	Pathogen	NA	NA
+Pectobacterium_atrosepticum_SCRI1043	218491	Non-Human	Facultative	Pathogen	NA	NA
+Pectobacterium_carotovorum_carotovorum_WPP14	558270	Non-Human	Facultative	Pathogen	NA	NA
+Pectobacterium_carotovorum_subsp_carotovorum_PC1	561230	Non-Human	Facultative	Pathogen	NA	NA
+Pectobacterium_wasabiae_WPP163	561231	Non-Human	Facultative	Pathogen	NA	NA
+Pediococcus_acidilactici_7_4	563194	Human, Gut	Aerobe	NA	NA	NA
+Pediococcus_pentosaceus_ATCC_25745	278197	Non-Human	Facultative	Non-Pathogen	NA	NA
+Pedobacter_heparinus_DSM_2366	485917	Non-Human, Soil	Aerobe	NA	NA	NA
+Pedobacter_sp_BAL39	391596	Non-Human, Marine (Other)	NA	NA	63.51611	19.81583
+Pelobacter_carbinolicus_DSM_2380	338963	Non-Human, Marine (Other)	Anaerobe	NA	45.4556	12.3374
+Pelobacter_propionicus_DSM_2379	338966	Non-Human, Marine (Other)	Anaerobe	Non-Pathogen	NA	NA
+Pelodictyon_phaeoclathratiforme_BU_1	324925	Non-Human, Marine (Other)	Anaerobe	NA	NA	NA
+Pelotomaculum_thermopropionicum_SI	370438	Non-Human	Anaerobe	Non-Pathogen	NA	NA
+Peptoniphilus_lacrimalis_315_B	596330	Human, Urogenital (Vaginal)	Anaerobe	NA	NA	NA
+Peptostreptococcus_anaerobius_653_L	596329	Human, Skin	Anaerobe	NA	NA	NA
+Persephonella_marina_EX_H1	123214	Non-Human, Marine (Other)	Microaerophilic	NA	9.83416	104.284722
+Petrotoga_mobilis_SJ95	403833	Non-Human, Marine (Other)	Anaerobe	NA	NA	NA
+Phaeobacter_gallaeciensis_2_10	383629	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Phaeobacter_gallaeciensis_BS107	391619	Non-Human, Marine (Other)	Aerobe	NA	43.371491	-8.39597
+Phenylobacterium_zucineum_HLK1	450851	Human	Aerobe	NA	NA	NA
+Photobacterium_angustum_S14	314292	Non-Human, Marine (Other)	Anaerobe	NA	-34.01667	151.31667
+Photobacterium_damselae_subsp_damselae_CIP_102761	675817	Non-Human, Marine (Other)	NA	NA	NA	NA
+Photobacterium_profundum_3TCK	314280	Non-Human, Marine (Other)	Facultative	NA	32	-117
+Photobacterium_profundum_SS9	298386	Non-Human, Marine (Other)	Facultative	NA	NA	NA
+Photobacterium_sp_SKA34	121723	Non-Human, Marine (Other)	NA	NA	58.94083	11.07944
+Photorhabdus_asymbiotica	291112	Human	Facultative	Pathogen	NA	NA
+Photorhabdus_luminescens_laumondii_TTO1	243265	Non-Human	Facultative	Pathogen	NA	NA
+Picrophilus_torridus_DSM_9790	263820	Non-Human, Soil	Aerobe	NA	NA	NA
+Pirellula_staleyi_DSM_6068	530564	Non-Human	Aerobe	NA	42.759	-84.399
+Planctomyces_limnophilus_DSM_3776	521674	Non-Human, Marine (Other)	Aerobe	NA	54.182	10.445
+Planctomyces_maris_DSM_8797	344747	Non-Human, Marine (Other)	Aerobe	NA	48.4	-122.6
+Plesiocystis_pacifica_SIR_1	391625	Non-Human, Marine (Other)	Aerobe	NA	20	116
+Polaribacter_irgensii_23_P	313594	Non-Human, Marine (Other)	Aerobe	NA	-65.25	-64.26667
+Polaribacter_sp_MED152	313598	Non-Human, Marine (Other)	Aerobe	NA	41.66667	2.8
+Polaromonas_naphthalenivorans_CJ2	365044	Non-Human	Aerobe	Non-Pathogen	43.3007	-73.6349
+Polaromonas_sp_JS666	296591	Non-Human	Aerobe	NA	NA	NA
+Polynucleobacter_necessarius_STIR1	452638	Non-Human	Aerobe	NA	NA	NA
+Polynucleobacter_sp_QLW_P1DMWA_1	312153	Non-Human	Aerobe	NA	NA	NA
+Porphyromonas_gingivalis_ATCC_33277	431947	Human, Gut, Oral (Gingivae)	Anaerobe	Pathogen	NA	NA
+Porphyromonas_gingivalis_W83	242619	Human, Gut	Anaerobe	Pathogen	50.732705	7.096311
+Porphyromonas_uenonis_60_3	596327	Human, Urogenital (Vaginal)	NA	NA	NA	NA
+Prevotella_bergensis_DSM_17361	585502	Human, Skin	Anaerobe	NA	NA	NA
+Prevotella_bivia_JCVIHMP010	553171	Human, Urogenital (Vaginal)	Anaerobe	NA	NA	NA
+Prevotella_buccae_D17	575611	Human, Oral (Gingivae)	Anaerobe	NA	NA	NA
+Prevotella_buccalis_ATCC_35310	679190	Human, Oral (Other), Urogenital (Other)	Anaerobe	NA	NA	NA
+Prevotella_copri_CB7_DSM_18205	537011	Human, Gut	Anaerobe	NA	NA	NA
+Prevotella_melaninogenica_ATCC_25845	553174	Human, Oral (Other)	Anaerobe	NA	NA	NA
+Prevotella_melaninogenica_D18	575612	Human, Oral (Gingivae)	Anaerobe	NA	NA	NA
+Prevotella_oris_F0302	649760	Human, Oral (Other)	Anaerobe	NA	NA	NA
+Prevotella_ruminicola_23	264731	Human	Anaerobe	Pathogen	NA	NA
+Prevotella_sp_oral_taxon_299_str_F0039	575614	Human, Oral (Other)	Anaerobe	NA	NA	NA
+Prevotella_sp_oral_taxon_317_str_F0108	575615	Human, Oral (Other)	Anaerobe	NA	NA	NA
+Prevotella_sp_oral_taxon_472_str_F0295	619693	Human, Oral (Other)	Anaerobe	NA	NA	NA
+Prevotella_tannerae_ATCC_51259	626522	Human, Oral (Gingivae)	Anaerobe	NA	NA	NA
+Prevotella_timonensis_CRIS_5C_B1	679189	Human, Urogenital (Vaginal)	Anaerobe	NA	NA	NA
+Prevotella_veroralis_F0319	649761	Human, Oral (Gingivae)	Anaerobe	NA	NA	NA
+Prochlorococcus_marinus_AS9601	146891	Non-Human, Marine (Other)	NA	Non-Pathogen	-19	67
+Prochlorococcus_marinus_MIT_9211	93059	Non-Human, Marine (Other)	NA	Non-Pathogen	NA	-140
+Prochlorococcus_marinus_MIT_9215	93060	Non-Human, Marine (Other)	NA	NA	NA	NA
+Prochlorococcus_marinus_MIT_9301	167546	Non-Human, Marine (Other)	NA	NA	34.751389	-66.183611
+Prochlorococcus_marinus_MIT_9303	59922	Non-Human, Marine (Other)	NA	Non-Pathogen	34.75139	-66.18361
+Prochlorococcus_marinus_MIT_9312	74546	Non-Human, Marine (Other)	NA	NA	NA	NA
+Prochlorococcus_marinus_MIT_9313	74547	Non-Human, Marine (Other)	NA	NA	NA	NA
+Prochlorococcus_marinus_MIT_9515	167542	Non-Human, Marine (Other)	NA	Non-Pathogen	-5.11667	-107.01667
+Prochlorococcus_marinus_NATL1A	167555	Non-Human, Marine (Other)	NA	Non-Pathogen	37.06667	-40
+Prochlorococcus_marinus_NATL2A	59920	Non-Human, Marine (Other)	NA	NA	NA	NA
+Prochlorococcus_marinus_marinus_CCMP1375	167539	Non-Human, Marine (Other)	NA	NA	NA	NA
+Prochlorococcus_marinus_pastoris_CCMP1986	59919	Non-Human, Marine (Other)	NA	NA	NA	NA
+Prochlorococcus_marinus_str_MIT_9202	93058	Non-Human, Marine (Other)	NA	NA	-12	-145.41667
+Propionibacterium_acnes_J139	679194	Human, Skin	Anaerobe	NA	NA	NA
+Propionibacterium_acnes_J165	679195	Human, Skin	Anaerobe	NA	NA	NA
+Propionibacterium_acnes_KPA171202	267747	Human, Skin	Anaerobe	Pathogen	NA	NA
+Propionibacterium_acnes_SK137	553199	Human, Skin	Anaerobe	NA	NA	NA
+Propionibacterium_acnes_SK187	686659	Human, Skin	Anaerobe	NA	NA	NA
+Prosthecochloris_aestuarii_SK413_DSM_271	290512	Non-Human	NA	NA	NA	NA
+Proteus_mirabilis_ATCC_29906	525369	Human, Urogenital (Other)	Facultative	NA	NA	NA
+Proteus_mirabilis_HI4320	529507	Human, Urogenital (Other)	Facultative	Pathogen	NA	NA
+Proteus_penneri	471881	Human, Gut	Facultative	Pathogen	NA	NA
+Providencia_alcalifaciens_DSM_30120	520999	Human, Gut	Facultative	NA	NA	NA
+Providencia_rettgeri_DSM_1131	521000	Human, Gut	Facultative	NA	NA	NA
+Providencia_rustigianii_DSM_4541	500637	Human, Gut	Anaerobe	NA	NA	NA
+Providencia_stuartii_ATCC_25827	471874	Human, Gut	Anaerobe	Pathogen	NA	NA
+Pseudoalteromonas_atlantica_T6c	342610	Non-Human	Aerobe	NA	32.6852	-117.1445
+Pseudoalteromonas_haloplanktis_TAC125	326442	Non-Human, Marine (Other)	Aerobe	NA	-66.4	140.01
+Pseudoalteromonas_sp_TW_7	156578	Non-Human, Marine (Other)	Aerobe	NA	32.85	-117.25
+Pseudoalteromonas_tunicata_D2	87626	Non-Human, Marine (Other)	Facultative	NA	58.261661	11.4396
+Pseudomonas_aeruginosa_LESB58	557722	Human, Airways (Other), Soil	Aerobe	Pathogen	53.4127	-2.9777
+Pseudomonas_aeruginosa_PA7	381754	Human, Soil	Aerobe	Pathogen	NA	NA
+Pseudomonas_aeruginosa_PACS2	388272	Human, Soil	Aerobe	Pathogen	NA	NA
+Pseudomonas_aeruginosa_PAO1	208964	Human, Soil	Aerobe	Pathogen	NA	NA
+Pseudomonas_aeruginosa_PAb1	509633	Human	Aerobe	NA	NA	NA
+Pseudomonas_aeruginosa_UCBPP_PA14	208963	Human, Soil	Aerobe	Pathogen	NA	NA
+Pseudomonas_entomophila_L48	384676	Non-Human	Aerobe	Pathogen	NA	NA
+Pseudomonas_fluorescens_PfO_1	205922	Non-Human, Soil	Aerobe	Non-Pathogen	42.2424	-71.3697
+Pseudomonas_fluorescens_Pf_5	220664	Non-Human, Soil	Aerobe	Non-Pathogen	NA	NA
+Pseudomonas_fluorescens_SBW25	216595	Non-Human	NA	NA	NA	NA
+Pseudomonas_mendocina_ymp	399739	Human, Soil	Aerobe	Pathogen	NA	NA
+Pseudomonas_putida_F1	351746	Non-Human, Soil	Aerobe	Non-Pathogen	40.106649	-88.195627
+Pseudomonas_putida_GB_1	76869	Non-Human, Soil	Aerobe	Non-Pathogen	NA	NA
+Pseudomonas_putida_KT2440	160488	Non-Human, Soil	Aerobe	Non-Pathogen	NA	NA
+Pseudomonas_putida_W619	390235	Non-Human, Soil	Aerobe	Non-Pathogen	NA	NA
+Pseudomonas_sp_UK4	452680	Non-Human	Aerobe	NA	NA	NA
+Pseudomonas_stutzeri_A1501	379731	Non-Human, Soil	Aerobe	Non-Pathogen	NA	NA
+Pseudomonas_syringae_pv_aesculi_str_2250	666475	Non-Human	Aerobe	Pathogen	NA	NA
+Pseudomonas_syringae_pv_aesculi_str_NCPPB3681	665027	Non-Human	Aerobe	Pathogen	NA	NA
+Pseudomonas_syringae_pv_oryzae_str_1_6	563797	Non-Human, Soil	Aerobe	Pathogen	NA	NA
+Pseudomonas_syringae_pv_phaseolicola_1448A	264730	Non-Human	Aerobe	Pathogen	NA	NA
+Pseudomonas_syringae_pv_syringae_B728a	205918	Non-Human	Aerobe	Pathogen	NA	NA
+Pseudomonas_syringae_pv_tabaci_ATCC_11528	573066	Non-Human	Aerobe	Pathogen	NA	NA
+Pseudomonas_syringae_pv_tomato_DC3000	223283	Non-Human, Soil	Aerobe	Pathogen	49.5	-2.5
+Pseudomonas_syringae_pv_tomato_T1	546231	Non-Human, Soil	Aerobe	NA	NA	NA
+Pseudovibrio_sp_JE062	439495	Non-Human, Marine (Other)	Facultative	NA	24.95306	-80.46583
+Psychrobacter_arcticus_273_4	259536	Non-Human, Soil	Aerobe	Pathogen	65.821602	153.327561
+Psychrobacter_cryohalolentis_K5	335284	Non-Human	Aerobe	Pathogen	NA	NA
+Psychrobacter_sp_PRwf_1	349106	Non-Human, Marine (Other), Soil	Aerobe	Pathogen	NA	NA
+Psychroflexus_torquis_ATCC_700755	313595	Non-Human, Marine (Other)	Aerobe	NA	-69	75
+Psychromonas_ingrahamii_37	357804	Non-Human, Marine (Other)	Anaerobe	Non-Pathogen	71.294	-156.25
+Pyramidobacter_piscolens_W5455	352165	Human, Oral (Other)	Obligate anaerobe	NA	NA	NA
+Pyrobaculum_aerophilum_IM2	178306	Non-Human, Marine (Other)	Facultative	NA	40.735	13.948
+Pyrobaculum_arsenaticum_DSM_13514	340102	Non-Human, Hydrothermal	Anaerobe	Non-Pathogen	40.829	14.13
+Pyrobaculum_calidifontis_JCM_11548	410359	Non-Human, Hydrothermal	Facultative	Non-Pathogen	14.2359	121.166
+Pyrobaculum_islandicum_DSM_4184	384616	Non-Human	Anaerobe	Non-Pathogen	NA	NA
+Pyrococcus_abyssi_GE5	272844	Non-Human, Marine (Other)	Obligate anaerobe	NA	NA	NA
+Pyrococcus_furiosus_DSM_3638	186497	Non-Human, Marine (Other)	Obligate anaerobe	Pathogen	NA	NA
+Pyrococcus_horikoshii_OT3	70601	Non-Human, Marine (Other)	Obligate anaerobe	NA	NA	NA
+Ralstonia_eutropha_H16	381666	Non-Human, Soil	Aerobe	NA	NA	NA
+Ralstonia_eutropha_JMP134	264198	Non-Human, Soil	Aerobe	NA	NA	NA
+Ralstonia_pickettii_12D	428406	Human, Soil	Aerobe	Pathogen	NA	NA
+Ralstonia_pickettii_12J	402626	Human, Soil	Aerobe	Pathogen	NA	NA
+Ralstonia_solanacearum_GMI1000	267608	Non-Human, Soil	Aerobe	Pathogen	NA	NA
+Ralstonia_solanacearum_UW551	342110	Non-Human, Soil	Aerobe	Pathogen	NA	NA
+Raphidiopsis_brookii_D9	533247	Non-Human	NA	NA	NA	NA
+Reinekea_sp_MED297	314283	Non-Human, Marine (Other)	NA	NA	NA	NA
+Renibacterium_salmoninarum_ATCC_33209	288705	Non-Human	Facultative	Pathogen	NA	NA
+Rhizobium_etli_8C_3	538025	Non-Human	Aerobe	NA	NA	NA
+Rhizobium_etli_Brasil_5	526949	Non-Human	Aerobe	NA	NA	NA
+Rhizobium_etli_CFN_42	347834	Non-Human	Aerobe	NA	21.019266	-101.261455
+Rhizobium_etli_CIAT_652	491916	Non-Human	Aerobe	NA	NA	NA
+Rhizobium_etli_CIAT_894	526945	Non-Human	Aerobe	NA	NA	NA
+Rhizobium_etli_IE4771	526946	Non-Human	Aerobe	NA	NA	NA
+Rhizobium_etli_Kim_5	526950	Non-Human	Aerobe	NA	NA	NA
+Rhizobium_leguminosarum_bv_trifolii_WSM1325	395491	Non-Human, Soil	Aerobe	Non-Pathogen	37.147034	24.518901
+Rhizobium_leguminosarum_bv_trifolii_WSM2304	395492	Non-Human, Soil	Aerobe	Non-Pathogen	-32.533333	-57
+Rhizobium_leguminosarum_bv_viciae_3841	216596	Non-Human	Aerobe	Non-Pathogen	NA	NA
+Rhizobium_sp_NGR234_ANU265	394	Non-Human	Aerobe	NA	NA	NA
+Rhodobacter_capsulatus_SB1003	272942	Non-Human	Facultative	NA	NA	NA
+Rhodobacter_sp_SW2	371731	Non-Human, Soil	Anaerobe	NA	NA	NA
+Rhodobacter_sphaeroides_2_4_1	272943	Non-Human	Facultative	Non-Pathogen	NA	NA
+Rhodobacter_sphaeroides_ATCC_17025	349102	Non-Human	Facultative	Non-Pathogen	NA	NA
+Rhodobacter_sphaeroides_ATCC_17029	349101	Non-Human	Facultative	Non-Pathogen	NA	NA
+Rhodobacter_sphaeroides_KD131	557760	Non-Human	Facultative	NA	37.253833	126.560783
+Rhodobacteraceae_bacterium_KLH11	467661	Non-Human, Marine (Other)	NA	NA	25.119109	-80.417838
+Rhodobacterales_bacterium_HTCC2083	314270	Non-Human, Marine (Other)	NA	NA	44.652137	-124.070921
+Rhodobacterales_bacterium_HTCC2150	388401	Non-Human, Marine (Other)	NA	NA	44.650749	-124.064441
+Rhodobacterales_bacterium_HTCC2654	314271	Non-Human, Marine (Other)	NA	NA	NA	NA
+Rhodobacterales_bacterium_Y4I	439496	Non-Human, Marine (Other)	NA	NA	30.742931	-81.554188
+Rhodococcus_equi_ATCC_33707	525370	Human, Skin	Aerobe	NA	NA	NA
+Rhodococcus_erythropolis_PR4	234621	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Rhodococcus_erythropolis_SK121	596309	Human, Skin	Aerobe	NA	NA	NA
+Rhodococcus_opacus_B4	632772	Non-Human	Aerobe	NA	NA	NA
+Rhodococcus_sp_RHA1	101510	Non-Human, Soil	Aerobe	NA	NA	NA
+Rhodoferax_ferrireducens_T118	338969	Non-Human	Anaerobe	NA	37.8481	-75.5094
+Rhodomicrobium_vannielii_ATCC_17100	648757	Non-Human	NA	NA	NA	NA
+Rhodopirellula_baltica_SH_1	243090	Non-Human, Marine (Heterotroph)	Aerobe	NA	54.451262	10.261204
+Rhodopseudomonas_palustris_BisA53	316055	Non-Human, Soil	Facultative	Non-Pathogen	NA	NA
+Rhodopseudomonas_palustris_BisB18	316056	Non-Human, Soil	Facultative	NA	NA	NA
+Rhodopseudomonas_palustris_BisB5	316057	Non-Human, Soil	Facultative	NA	NA	NA
+Rhodopseudomonas_palustris_CGA009	258594	Non-Human, Soil	Facultative	NA	NA	NA
+Rhodopseudomonas_palustris_DX_1	652103	Non-Human, Soil	Facultative	NA	NA	NA
+Rhodopseudomonas_palustris_HaA2	316058	Non-Human, Soil	Facultative	NA	NA	NA
+Rhodopseudomonas_palustris_TIE_1	395960	Non-Human, Soil	Facultative	NA	41.526357	-70.668322
+Rhodospirillum_centenum_SW	414684	Non-Human	Facultative	NA	NA	NA
+Rhodospirillum_rubrum_ATCC_11170	269796	Non-Human	Facultative	Non-Pathogen	NA	NA
+Rhodothermus_marinus_DSM_4252	518766	Non-Human, Hydrothermal, Marine (Heterotroph)	Aerobe	NA	63.88	-22.5
+Rickettsia_africae_ESF_5	347255	Human	Aerobe	Pathogen	NA	NA
+Rickettsia_akari_Hartford	293614	Human	Aerobe	Pathogen	NA	NA
+Rickettsia_bellii_OSU_85_389	391896	Non-Human	Aerobe	Pathogen	NA	NA
+Rickettsia_bellii_RML369_C	336407	Non-Human	Aerobe	Pathogen	36.0759	-94.1577
+Rickettsia_canadensis_McKiel	293613	Non-Human	Aerobe	Pathogen	NA	NA
+Rickettsia_conorii_Malish_7	272944	Human	Aerobe	Pathogen	NA	NA
+Rickettsia_endosymbiont_of_Ixodes_scapularis	444612	Non-Human	NA	Pathogen	NA	NA
+Rickettsia_felis_URRWXCal2	315456	Non-Human	Aerobe	Pathogen	NA	NA
+Rickettsia_massiliae_MTU5	416276	Non-Human	Aerobe	Non-Pathogen	43.881678	2.796343
+Rickettsia_peacockii_str_Rustic	562019	Human	Aerobe	Pathogen	NA	NA
+Rickettsia_prowazekii_Madrid_E	272947	Human	Aerobe	Pathogen	40.416741	-3.70325
+Rickettsia_prowazekii_Rp22	449216	Human	Aerobe	Pathogen	NA	NA
+Rickettsia_rickettsii_Iowa	452659	Human	Aerobe	Pathogen	NA	NA
+Rickettsia_rickettsii_Sheila_Smith	392021	Human	Aerobe	Pathogen	NA	NA
+Rickettsia_sibirica_246	272951	Human	Aerobe	Pathogen	NA	NA
+Rickettsia_typhi_Wilmington	257363	Human	Aerobe	Pathogen	NA	NA
+Rickettsiella_grylli	59196	Non-Human, Soil	Facultative	Pathogen	NA	NA
+Robiginitalea_biformata_HTCC2501	313596	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Roseiflexus_castenholzii_DSM_13941	383372	Non-Human, Hydrothermal, Marine (Other)	Facultative	NA	NA	NA
+Roseiflexus_sp_RS_1	357808	Non-Human, Hydrothermal, Marine (Other)	Facultative	NA	NA	NA
+Roseobacter_denitrificans_OCh_114	375451	Non-Human	Aerobe	Non-Pathogen	35.447507	139.642345
+Roseobacter_litoralis_Och_149	391595	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Roseobacter_sp_AzwK_3b	351016	Non-Human, Marine (Other)	Aerobe	NA	36.84262	-121.74701
+Roseobacter_sp_CCS2	391593	Non-Human, Marine (Other)	Aerobe	NA	38.308333	-123.3
+Roseobacter_sp_GAI101	391589	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Roseobacter_sp_MED193	314262	Non-Human, Marine (Other)	Aerobe	NA	41.66667	2.8
+Roseobacter_sp_SK209_2_6	388739	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Roseovarius_nubinhibens_ISM	89187	Non-Human, Marine (Heterotroph)	Aerobe	NA	22.066667	-74.066667
+Roseovarius_sp_217	314264	Non-Human, Marine (Heterotroph)	Aerobe	NA	50.25	-4.21667
+Roseovarius_sp_HTCC2601	314265	Non-Human, Marine (Heterotroph)	Aerobe	NA	NA	NA
+Roseovarius_sp_TM1035	391613	Non-Human, Marine (Heterotroph)	Aerobe	NA	NA	NA
+Rothia_dentocariosa_ATCC_17931	762948	Human, Oral (Other)	NA	NA	NA	NA
+Rothia_mucilaginosa_ATCC_25296	553201	Human, Airways (Other)	NA	NA	NA	NA
+Rothia_mucilaginosa_DY_18	680646	Human, Airways (Other)	NA	NA	NA	NA
+Rubrobacter_xylanophilus_DSM_9941	266117	Non-Human, Soil	Aerobe	Pathogen	51.3534	-1.6156
+Ruegeria_pomeroyi_DSS_3	246200	Non-Human	Aerobe	NA	NA	NA
+Ruegeria_sp_R11	439497	Non-Human, Marine (Other)	NA	Pathogen	-33.99389	151.26667
+Ruegeria_sp_TM1040	292414	Non-Human, Marine (Other)	Aerobe	Non-Pathogen	NA	NA
+Ruminococcus_albus_8	246199	Non-Human, Farm	Anaerobe	NA	NA	NA
+Ruminococcus_flavefaciens_FD_1	641112	Non-Human, Farm	Anaerobe	NA	NA	NA
+Ruminococcus_gnavus_ATCC_29149	411470	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Ruminococcus_lactaris_ATCC_29176	471875	Human, Gut	Anaerobe	NA	NA	NA
+Ruminococcus_obeum_ATCC_29174	411459	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Ruminococcus_sp_5_1_39BFAA	457412	Human, Gut	Anaerobe	NA	NA	NA
+Ruminococcus_torques_ATCC_27756	411460	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Saccharomonospora_viridis_DSM_43017	471857	Human	Aerobe	Pathogen	NA	NA
+Saccharophagus_degradans_2_40	203122	Non-Human	Aerobe	NA	37.584154	-76.178374
+Sagittula_stellata_E_37	388399	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Salinibacter_ruber_DSM_13855	309807	Non-Human	Aerobe	NA	39.776	3.0203
+Salinispora_arenicola_CNS_205	391037	Non-Human, Marine (Other)	Aerobe	NA	26.6	-77.8833
+Salinispora_tropica_CNB_440	369723	Non-Human, Marine (Other)	Aerobe	Non-Pathogen	NA	NA
+Salmonella_enterica_Agona_SL483	454166	Human, Soil, Food	Facultative	Pathogen	NA	NA
+Salmonella_enterica_Paratyphi_C_RKS4594	476213	Human	Facultative	Pathogen	NA	NA
+Salmonella_enterica_arizonae_sv_62_z4_z23	41514	Human	Facultative	Pathogen	NA	NA
+Salmonella_enterica_enterica_sv_Choleraesuis_SC_B67	321314	Human, Soil, Food	Facultative	Pathogen	NA	NA
+Salmonella_enterica_enterica_sv_Enteritidis_P125109	550537	Human	Facultative	Pathogen	NA	NA
+Salmonella_enterica_enterica_sv_Gallinarum_287_91	550538	Human	Facultative	Pathogen	NA	NA
+Salmonella_enterica_enterica_sv_Hadar_RI_05P066	465516	Human, Soil, Food	Facultative	Pathogen	NA	NA
+Salmonella_enterica_enterica_sv_Javiana_GA_MM04042433	454167	Human, Soil, Food	Facultative	Pathogen	NA	NA
+Salmonella_enterica_enterica_sv_Paratyphi_A_ATCC_9150	295319	Human, Soil, Food	Facultative	Pathogen	NA	NA
+Salmonella_enterica_enterica_sv_Paratyphi_B_SPB7	272994	Human	Facultative	Pathogen	5.2689	100.4849
+Salmonella_enterica_enterica_sv_Typhi_404ty	497977	Human	Facultative	Pathogen	NA	NA
+Salmonella_enterica_enterica_sv_Typhi_AG3	496065	Human	Facultative	Pathogen	NA	NA
+Salmonella_enterica_enterica_sv_Typhi_CT18	220341	Non-Human, Soil, Food	Facultative	Pathogen	NA	NA
+Salmonella_enterica_enterica_sv_Typhi_E00_7866	497976	Human	Facultative	Pathogen	NA	NA
+Salmonella_enterica_enterica_sv_Typhi_E01_6750	497975	Human	Facultative	Pathogen	NA	NA
+Salmonella_enterica_enterica_sv_Typhi_E02_1180	497974	Human	Facultative	Pathogen	NA	NA
+Salmonella_enterica_enterica_sv_Typhi_E98_0664	497973	Human	Facultative	Pathogen	NA	NA
+Salmonella_enterica_enterica_sv_Typhi_E98_2068	496068	Human	Facultative	Pathogen	NA	NA
+Salmonella_enterica_enterica_sv_Typhi_E98_3139	496064	Human	Facultative	Pathogen	NA	NA
+Salmonella_enterica_enterica_sv_Typhi_J185	496067	Human	Facultative	Pathogen	NA	NA
+Salmonella_enterica_enterica_sv_Typhi_M223	496066	Human	Facultative	Pathogen	NA	NA
+Salmonella_enterica_enterica_sv_Typhi_Ty2	209261	Human, Soil, Food	Facultative	Pathogen	NA	NA
+Salmonella_enterica_enterica_sv_Virchow_SL491	465517	Human, Soil, Food	Facultative	Pathogen	NA	NA
+Salmonella_enterica_subsp_enterica_serovar_Tennessee_str_CDC07_0191	573395	Human, Urogenital (Other)	Facultative	Pathogen	NA	NA
+Salmonella_enterica_subsp_enterica_serovar_Typhimurium	90371	Human, Soil, Food	Facultative	Pathogen	-15.793	34.993
+Salmonella_enterica_subsp_enterica_serovar_Typhimurium_str_14028S	588858	Human, Soil, Food	Facultative	Pathogen	NA	NA
+Salmonella_enterica_sv_Dublin_CT_02021853	439851	Human, Soil, Food	Facultative	Pathogen	NA	NA
+Salmonella_enterica_sv_Heidelberg_SL476_CVM30485	454169	Human, Soil, Food	Facultative	Pathogen	NA	NA
+Salmonella_enterica_sv_Newport_SL254	423368	Human, Soil, Food	Facultative	Pathogen	NA	NA
+Salmonella_enterica_sv_Paratyphi_A_AKU_12601	554290	Human	Facultative	Pathogen	24.893379	67.028061
+Salmonella_enterica_sv_Schwarzengrund_CVM19633	439843	Human, Soil, Food	Facultative	Pathogen	NA	NA
+Salmonella_typhimurium_LT2	99287	Human, Soil, Food	Facultative	Pathogen	NA	NA
+Sanguibacter_keddieii_DSM_10542	446469	Non-Human, Farm	Facultative	NA	NA	NA
+Scardovia_inopinata_F0304	641146	Human, Oral (Other)	NA	NA	NA	NA
+Sebaldella_termitidis_ATCC_33386	526218	Non-Human	Anaerobe	NA	NA	NA
+Segniliparus_rotundus_DSM_44985	640132	Human, Airways (Other)	Aerobe	NA	NA	NA
+Selenomonas_flueggei_ATCC_43531	638302	Human, Oral (Other)	Anaerobe	NA	NA	NA
+Selenomonas_noxia_ATCC_43541	585503	Human, Oral (Other)	Anaerobe	NA	NA	NA
+Selenomonas_sputigena_ATCC_35185	546271	Human, Oral (Gingivae)	Anaerobe	NA	NA	NA
+Serratia_odorifera_4Rx13	682634	Human, Airways (Other), Skin	Facultative	NA	NA	NA
+Serratia_odorifera_DSM_4582	667129	Human, Airways (Other), Skin	Facultative	NA	44.837368	-0.576144
+Shewanella_amazonensis_SB2B	326297	Non-Human	Facultative	NA	NA	NA
+Shewanella_baltica_OS155	325240	Non-Human, Marine (Heterotroph)	Facultative	NA	NA	NA
+Shewanella_baltica_OS185	402882	Non-Human, Marine (Heterotroph)	Facultative	Non-Pathogen	NA	NA
+Shewanella_baltica_OS195	399599	Non-Human, Marine (Heterotroph)	Facultative	NA	NA	NA
+Shewanella_baltica_OS223	407976	Non-Human, Marine (Heterotroph)	Facultative	NA	NA	NA
+Shewanella_benthica_KT99	314608	Non-Human, Marine (Heterotroph)	Facultative	NA	-20	-173
+Shewanella_denitrificans_OS217	318161	Non-Human, Marine (Heterotroph)	Facultative	NA	57.3798	20.0115
+Shewanella_frigidimarina_NCIMB_400	318167	Non-Human, Marine (Heterotroph)	Facultative	NA	57.158679	-2.071953
+Shewanella_halifaxensis_HAW_EB4	458817	Non-Human, Marine (Heterotroph)	Facultative	NA	44.088769	-62.738342
+Shewanella_loihica_PV_4	323850	Non-Human, Marine (Heterotroph)	Anaerobe	NA	21.39752	-157.805895
+Shewanella_oneidensis_MR_1	211586	Non-Human	Facultative	Pathogen	43.204557	-75.923098
+Shewanella_pealeana_ATCC_700345	398579	Non-Human	Facultative	NA	41.526411	-70.680585
+Shewanella_piezotolerans_WP3	225849	Non-Human, Marine (Heterotroph)	Facultative	NA	8.003056	-142.502222
+Shewanella_putrefaciens_200	399804	Human, Soil	Anaerobe	Pathogen	NA	NA
+Shewanella_putrefaciens_CN_32	319224	Non-Human, Soil	Anaerobe	Pathogen	35.080371	-106.627085
+Shewanella_sediminis_HAW_EB3	425104	Non-Human, Marine (Heterotroph)	Facultative	NA	44.646244	-63.573566
+Shewanella_sp_ANA_3	94122	Non-Human, Soil	Anaerobe	NA	41.525871	-70.670327
+Shewanella_sp_MR_4	60480	Non-Human, Marine (Heterotroph)	Anaerobe	NA	NA	NA
+Shewanella_sp_MR_7	60481	Non-Human, Marine (Heterotroph)	Anaerobe	NA	NA	NA
+Shewanella_sp_W3_18_1	351745	Non-Human, Marine (Heterotroph)	Facultative	Pathogen	NA	NA
+Shewanella_violacea_DSS12	637905	Non-Human	Facultative	NA	NA	NA
+Shewanella_woodyi_ATCC_51908	392500	Non-Human, Marine (Heterotroph)	Facultative	NA	NA	NA
+Shigella_boydii_CDC_3083_94	344609	Human	Facultative	Pathogen	NA	NA
+Shigella_boydii_Sb227	300268	Human	Facultative	Pathogen	NA	NA
+Shigella_dysenteriae_1012	358708	Human	Facultative	Pathogen	NA	NA
+Shigella_dysenteriae_Sd197	300267	Human	Facultative	Pathogen	NA	NA
+Shigella_flexneri_2002017	591020	Human	Facultative	Pathogen	NA	NA
+Shigella_flexneri_2a_2457T	198215	Human	Facultative	Pathogen	NA	NA
+Shigella_flexneri_2a_301	198214	Human	Facultative	Pathogen	39.908173	116.397947
+Shigella_flexneri_5_8401	373384	Human	Facultative	Pathogen	NA	NA
+Shigella_sonnei_Ss046	300269	Human	Facultative	Pathogen	NA	NA
+Shigella_sp_D9	556266	Human, Gut	Facultative	NA	NA	NA
+Shuttleworthia_satelles_DSM_14600	626523	Human, Oral (Other)	NA	NA	NA	NA
+Sideroxydans_lithotrophicus_ES_1	580332	Non-Human	Aerobe	NA	NA	NA
+Silicibacter_lacuscaerulensis_ITI_1157	644107	Non-Human, Marine (Other)	Aerobe	NA	63.879	-22.434
+Silicibacter_sp_TrichCH4B	644076	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Simonsiella_muelleri_ATCC_29453	641147	Human, Oral (Other)	NA	NA	NA	NA
+Sinorhizobium_medicae_WSM419	366394	Non-Human, Soil	Aerobe	Non-Pathogen	40.888925	9.101915
+Sinorhizobium_meliloti_1021	266834	Non-Human, Soil	Aerobe	Pathogen	NA	NA
+Slackia_exigua_ATCC_700122	649764	Human, Oral (Other)	Anaerobe	NA	NA	NA
+Slackia_heliotrinireducens_DSM_20476	471855	Non-Human, Farm	Obligate anaerobe	NA	NA	NA
+Sodalis_glossinidius_morsitans	343509	Non-Human	Microaerophilic	Non-Pathogen	NA	NA
+Solibacter_usitatus_Ellin6076	234267	Non-Human, Soil	Aerobe	NA	-36.5588	145.415039
+Sorangium_cellulosum_So_ce_56	448385	Non-Human, Soil	Aerobe	NA	NA	NA
+Sphaerobacter_thermophilus_DSM_20745	479434	Non-Human	Obligate aerobe	NA	48.139	11.58
+Sphingobacterium_spiritivorum_ATCC_33300	525372	Human, Urogenital (Vaginal)	NA	NA	NA	NA
+Sphingobacterium_spiritivorum_ATCC_33861	525373	Human, Urogenital (Vaginal)	NA	NA	NA	NA
+Sphingobium_japonicum_UT26S	452662	Non-Human	NA	NA	NA	NA
+Sphingomonas_sp_SKA58	314266	Non-Human, Marine (Heterotroph)	Aerobe	NA	58.94083	11.07944
+Sphingomonas_wittichii_RW1	392499	Non-Human	Aerobe	NA	53.5528	9.9806
+Sphingopyxis_alaskensis_RB2256	317655	Non-Human, Marine (Heterotroph)	Aerobe	NA	58.42198	-149.574839
+Spirosoma_linguale_DSM_74	504472	Non-Human, Soil	Aerobe	NA	NA	NA
+Stackebrandtia_nassauensis_DSM_44728	446470	Non-Human, Soil	Aerobe	NA	25.066127	-77.339025
+Staphylococcus_aureus_04_02981	703339	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_930918_3	452948	Non-Human	Facultative	Non-Pathogen	NA	NA
+Staphylococcus_aureus_A10102	553601	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_A5937	553565	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_A5948	553567	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_A6224	553568	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_A6300	553571	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_A8115	553573	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_A8117	553574	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_A8796	553577	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_A8819	553580	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_A9299	553581	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_A9635	553583	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_A9719	553588	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_A9754	553590	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_A9763	553592	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_A9765	553594	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_A9781	553596	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_D30	455227	Human, Airways (Other)	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_MN8	548470	Human, Urogenital (Vaginal)	Facultative	NA	NA	NA
+Staphylococcus_aureus_RF122	273036	Non-Human, Farm	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_aureus_COL	93062	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_aureus_JH1	359787	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_aureus_JH9	359786	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_aureus_JKD6008	546342	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_aureus_JKD6009	546343	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_aureus_MRSA252	282458	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_aureus_MRSA_USA300_TCH1516	451516	Human, Skin	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_aureus_MSSA476	282459	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_aureus_MW2	196620	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_aureus_Mu3	418127	Human, Airways (Other)	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_aureus_Mu50	158878	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_aureus_N315	158879	Human, Airways (Nasopharynx)	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_aureus_NCTC_8325	93061	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_aureus_Newman	426430	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_aureus_TCH60	548473	Human, Skin	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_aureus_USA300	367830	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_aureus_USA300_TCH959	450394	Human, Skin	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_132	644279	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_55_2053	585143	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_58_424	585144	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_65_1322	585145	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_68_397	585146	Human, Airways (Other)	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_A017934_97	585147	Human, Airways (Other)	Facultative	NA	NA	NA
+Staphylococcus_aureus_subsp_aureus_ATCC_51811	762962	Human, Airways (Other)	Facultative	NA	NA	NA
+Staphylococcus_aureus_subsp_aureus_Btn1260	585148	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_C101	585149	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_C160	585150	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_C427	585151	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_D139	585152	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_E1410	585153	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_ED98	681288	Human, Airways (Other)	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_EMRSA16	585154	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_H19	585155	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_M1015	585156	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_M809	585157	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_M876	585158	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_M899	585159	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_MR1	680649	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_Mu50_omega	585891	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_ST398	523796	Non-Human, Farm	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_TCH130	548474	Human, Skin	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_TCH70	548475	Human, Skin	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_TW20	663951	Human, Airways (Other)	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_WBG10049	585160	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_WW2703_97	585161	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_aureus_subsp_aureus_str_CF_Marseille	505321	Human, Airways (Other)	Facultative	Pathogen	NA	NA
+Staphylococcus_capitis_SK14	553212	Human, Skin	Facultative	NA	NA	NA
+Staphylococcus_carnosus_carnosus_TM300	396513	Non-Human	Facultative	Non-Pathogen	50.024682	11.762694
+Staphylococcus_epidermidis_ATCC_12228	176280	Human	Facultative	Non-Pathogen	NA	NA
+Staphylococcus_epidermidis_BCM_HMP0060	525374	Human, Skin	Facultative	NA	NA	NA
+Staphylococcus_epidermidis_M23864_W1	525378	Human, Skin	Facultative	NA	NA	NA
+Staphylococcus_epidermidis_M23864_W2_grey	525375	Human, Skin	Facultative	NA	NA	NA
+Staphylococcus_epidermidis_RP62A	176279	Human	Facultative	Pathogen	NA	NA
+Staphylococcus_epidermidis_SK135	596317	Human, Skin	Facultative	Pathogen	NA	NA
+Staphylococcus_epidermidis_W23144	525376	Human, Skin	Facultative	NA	NA	NA
+Staphylococcus_haemolyticus_JCSC1435	279808	Human	Facultative	Pathogen	35.702222	139.7625
+Staphylococcus_hominis_SK119	629742	Human, Skin	Facultative	NA	NA	NA
+Staphylococcus_lugdunensis_HKU09_01	698737	Human, Skin	Facultative	Pathogen	NA	NA
+Staphylococcus_saprophyticus_saprophyticus_ATCC_15305	342451	Human, Urogenital (Other)	Aerobe	Pathogen	NA	NA
+Staphylococcus_warneri_L37603	596319	Human, Skin	Facultative	NA	NA	NA
+Staphylothermus_hellenicus_DSM_12710	591019	Non-Human	Anaerobe	NA	36.674	24.517
+Staphylothermus_marinus_F1	399550	Non-Human, Marine (Heterotroph)	Anaerobe	Non-Pathogen	38.3913	14.968
+Stenotrophomonas_maltophilia_K279a	522373	Human, Soil	Aerobe	Pathogen	51.458946	-2.598424
+Stenotrophomonas_maltophilia_R551_3	391008	Human, Soil	Aerobe	Pathogen	NA	NA
+Stigmatella_aurantiaca_DW4_3_1	378806	Non-Human, Soil	Aerobe	NA	NA	NA
+Streptobacillus_moniliformis_DSM_12112	519441	Human	Facultative	Pathogen	NA	NA
+Streptococcus_agalactiae_18RS21	342613	Human	Facultative	Pathogen	NA	NA
+Streptococcus_agalactiae_2603V_R	208435	Human	Facultative	Pathogen	NA	NA
+Streptococcus_agalactiae_515	342614	Human	Facultative	Pathogen	NA	NA
+Streptococcus_agalactiae_A909	205921	Human	Facultative	Pathogen	NA	NA
+Streptococcus_agalactiae_CJB111	342617	Human	Facultative	Pathogen	NA	NA
+Streptococcus_agalactiae_COH1	342616	Human	Facultative	Pathogen	NA	NA
+Streptococcus_agalactiae_H36B	342615	Human	Facultative	Pathogen	NA	NA
+Streptococcus_agalactiae_NEM316	211110	Human	Facultative	Pathogen	NA	NA
+Streptococcus_dysgalactiae_subsp_equisimilis_GGS_124	486410	Human	Facultative	Pathogen	NA	NA
+Streptococcus_equi_equi_4047	553482	Non-Human, Farm	Facultative	Pathogen	50.875875	-1.632772
+Streptococcus_equi_zooepidemicus_H70	40041	Non-Human, Farm	Facultative	Pathogen	52.245212	0.403362
+Streptococcus_equi_zooepidemicus_MGCS10565	552526	Human, Airways (Other)	Facultative	Pathogen	NA	NA
+Streptococcus_gallolyticus_UCN34	637909	Human	Anaerobe	NA	NA	NA
+Streptococcus_gordonii_Challis_CH1	467705	Human	Facultative	Pathogen	NA	NA
+Streptococcus_infantarius_infantarius_ATCC_BAA_102	471872	Human, Gut	Facultative	NA	NA	NA
+Streptococcus_mitis_B6	365659	Human	Aerobe	Pathogen	51.482	7.211
+Streptococcus_mutans_NN2025	511691	Human, Oral (Other)	Facultative	Pathogen	NA	NA
+Streptococcus_mutans_UA159	210007	Human, Oral (Other)	Facultative	Pathogen	NA	NA
+Streptococcus_oralis	1303	Human, Oral (Other)	Facultative	NA	NA	NA
+Streptococcus_parasanguinis_ATCC_15912	760570	Human, Oral (Other)	Aerobe	NA	NA	NA
+Streptococcus_pneumoniae_70585	488221	Human, Airways (Nasopharynx)	Facultative	Pathogen	NA	NA
+Streptococcus_pneumoniae_ATCC_700669	561276	Human	Facultative	Pathogen	NA	NA
+Streptococcus_pneumoniae_CCRI_1974	570507	Human, Airways (Nasopharynx)	Facultative	Pathogen	NA	NA
+Streptococcus_pneumoniae_CCRI_1974M2	574965	Human, Airways (Nasopharynx)	Facultative	Pathogen	NA	NA
+Streptococcus_pneumoniae_CDC0288_04	453364	Human	Facultative	Pathogen	NA	NA
+Streptococcus_pneumoniae_CDC1087_00	453361	Human	Facultative	Pathogen	NA	NA
+Streptococcus_pneumoniae_CDC1873_00	453362	Human	Facultative	Pathogen	NA	NA
+Streptococcus_pneumoniae_CDC3059_06	453365	Human	Facultative	Pathogen	NA	NA
+Streptococcus_pneumoniae_CGSP14	516950	Human	Facultative	Pathogen	NA	NA
+Streptococcus_pneumoniae_D39	373153	Human	Facultative	Pathogen	NA	NA
+Streptococcus_pneumoniae_G54_MLST_ST63	512566	Human, Airways (Nasopharynx)	Facultative	Pathogen	44.407062	8.933989
+Streptococcus_pneumoniae_Hungary19A_6	487214	Human	Facultative	Pathogen	NA	NA
+Streptococcus_pneumoniae_JJA	488222	Human, Airways (Nasopharynx)	Facultative	Pathogen	NA	NA
+Streptococcus_pneumoniae_MLV_016	453366	Human	Facultative	Pathogen	NA	NA
+Streptococcus_pneumoniae_P1031	488223	Human, Airways (Nasopharynx)	Facultative	Pathogen	NA	NA
+Streptococcus_pneumoniae_R6	171101	Human	Facultative	Pathogen	NA	NA
+Streptococcus_pneumoniae_SP11_BS70	406559	Human, Airways (Nasopharynx)	Facultative	Pathogen	NA	NA
+Streptococcus_pneumoniae_SP14_BS69	406560	Human, Airways (Nasopharynx)	Facultative	Pathogen	NA	NA
+Streptococcus_pneumoniae_SP18_BS74	406561	Human, Airways (Nasopharynx)	Facultative	Pathogen	NA	NA
+Streptococcus_pneumoniae_SP195	453363	Human	Facultative	Pathogen	43.604363	1.442951
+Streptococcus_pneumoniae_SP19_BS75	406562	Human, Airways (Nasopharynx)	Facultative	Pathogen	NA	NA
+Streptococcus_pneumoniae_SP23_BS72	406563	Human, Airways (Nasopharynx)	Facultative	Pathogen	NA	NA
+Streptococcus_pneumoniae_SP3_BS71	406556	Human, Airways (Nasopharynx)	Facultative	Pathogen	NA	NA
+Streptococcus_pneumoniae_SP6_BS73	406557	Human, Airways (Nasopharynx)	Facultative	Pathogen	NA	NA
+Streptococcus_pneumoniae_SP9_BS68	406558	Human, Airways (Nasopharynx)	Facultative	Pathogen	NA	NA
+Streptococcus_pneumoniae_TCH8431_19A	525381	Human, Airways (Other)	Facultative	NA	NA	NA
+Streptococcus_pneumoniae_TIGR4	170187	Human	Facultative	Pathogen	60.19256	11.992046
+Streptococcus_pneumoniae_TIGR4_454	170187	Human	Facultative	Pathogen	60.19256	11.992046
+Streptococcus_pneumoniae_Taiwan19F_14	487213	Human	Facultative	Pathogen	NA	NA
+Streptococcus_pyogenes_M1_GAS	160490	Human	Facultative	Pathogen	NA	NA
+Streptococcus_pyogenes_M49_591	294934	Human, Skin	Facultative	Pathogen	NA	NA
+Streptococcus_pyogenes_MGAS10270	370552	Human	Facultative	Pathogen	NA	NA
+Streptococcus_pyogenes_MGAS10394	286636	Human	Facultative	Pathogen	NA	NA
+Streptococcus_pyogenes_MGAS10750	370554	Human	Facultative	Pathogen	NA	NA
+Streptococcus_pyogenes_MGAS2096	370553	Human	Facultative	Pathogen	NA	NA
+Streptococcus_pyogenes_MGAS315	198466	Human	Facultative	Pathogen	NA	NA
+Streptococcus_pyogenes_MGAS5005	293653	Human, Airways (Nasopharynx)	Facultative	Pathogen	43.7722	-79.3661
+Streptococcus_pyogenes_MGAS6180	319701	Human, Airways (Nasopharynx)	Facultative	Pathogen	30.4515	-97.7362
+Streptococcus_pyogenes_MGAS8232	186103	Human	Facultative	Pathogen	NA	NA
+Streptococcus_pyogenes_MGAS9429	370551	Human	Facultative	Pathogen	NA	NA
+Streptococcus_pyogenes_Manfredo	160491	Human	Facultative	Pathogen	41.879535	-87.624333
+Streptococcus_pyogenes_NZ131	471876	Human	Facultative	Pathogen	NA	NA
+Streptococcus_pyogenes_SSI_1	193567	Human	Facultative	Pathogen	NA	NA
+Streptococcus_salivarius_SK126	596322	Human, Skin	Facultative	Non-Pathogen	NA	NA
+Streptococcus_sanguinis_SK36	388919	Human, Oral (Other)	Facultative	Pathogen	NA	NA
+Streptococcus_sp_2_1_36FAA	469609	Human, Gut	Facultative	NA	NA	NA
+Streptococcus_sp_M143	563037	Human, Airways (Other)	Facultative	NA	NA	NA
+Streptococcus_suis_05ZYH33	391295	Human	Facultative	Pathogen	NA	NA
+Streptococcus_suis_89_1591	286604	Human	Facultative	Pathogen	NA	NA
+Streptococcus_suis_98HAH33	391296	Human	Facultative	Pathogen	NA	NA
+Streptococcus_suis_BM407	568814	Human	Facultative	Pathogen	10.75918	106.662498
+Streptococcus_suis_GZ1	423211	Human	Facultative	Pathogen	NA	NA
+Streptococcus_suis_P1_7	218494	Non-Human, Farm	Facultative	Pathogen	NA	NA
+Streptococcus_suis_SC84	568813	Human	Facultative	Pathogen	NA	NA
+Streptococcus_thermophilus_CNRZ1066	299768	Non-Human	Facultative	Non-Pathogen	NA	NA
+Streptococcus_thermophilus_LMD_9	322159	Non-Human	Facultative	Non-Pathogen	NA	NA
+Streptococcus_thermophilus_LMG_18311	264199	Non-Human	Facultative	Non-Pathogen	NA	NA
+Streptococcus_uberis_0140J	218495	Non-Human, Farm	Facultative	Pathogen	NA	NA
+Streptomyces_avermitilis_MA_4680	227882	Non-Human, Soil	Aerobe	NA	34.97712	138.383085
+Streptomyces_bingchenggensis_BCW_1	749414	Non-Human	Aerobe	NA	45.803	126.535
+Streptomyces_clavuligerus_ATCC_27064	443255	Non-Human, Soil	Aerobe	NA	NA	NA
+Streptomyces_coelicolor_A3_2	100226	Non-Human, Soil	Aerobe	NA	NA	NA
+Streptomyces_flavogriseus_ATCC_33331	591167	Non-Human, Soil	Aerobe	NA	NA	NA
+Streptomyces_griseus_griseus_NBRC_13350	455632	Non-Human, Soil	Aerobe	NA	NA	NA
+Streptomyces_pristinaespiralis_ATCC_25486	457429	Non-Human, Soil	Aerobe	NA	NA	NA
+Streptomyces_roseosporus_NRRL_11379	457430	Non-Human, Soil	Aerobe	NA	NA	NA
+Streptomyces_scabiei_87_22	680198	Non-Human, Soil	Aerobe	Pathogen	NA	NA
+Streptomyces_sp_ACTE	647653	Non-Human, Soil	Aerobe	NA	NA	NA
+Streptomyces_sp_ACT_1	649189	Non-Human	Aerobe	NA	NA	NA
+Streptosporangium_roseum_DSM_43021	479432	Non-Human, Soil	Aerobe	NA	35.91	-79.055
+Subdoligranulum_variabile_DSM_15176	411471	Human, Gut	Anaerobe	Non-Pathogen	NA	NA
+Sulfitobacter_sp_EE_36	52598	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Sulfitobacter_sp_NAS_14_1	314267	Non-Human, Marine (Other)	Aerobe	NA	NA	NA
+Sulfolobus_acidocaldarius_DSM_639	330779	Non-Human	Obligate aerobe	NA	44.6633	-110.4927
+Sulfolobus_islandicus_L_D_8_5	425944	Non-Human	Aerobe	NA	40.515313	-121.433315
+Sulfolobus_islandicus_L_S_2_15	429572	Non-Human, Hydrothermal	Aerobe	NA	40.5126	-121.4347
+Sulfolobus_islandicus_M_14_25	427317	Non-Human, Hydrothermal	Aerobe	NA	52.45785	158.196201
+Sulfolobus_islandicus_M_16_27	427318	Non-Human, Hydrothermal	Aerobe	NA	52.45785	158.196201
+Sulfolobus_islandicus_M_16_4	426118	Non-Human	Aerobe	NA	52.45785	158.196201
+Sulfolobus_islandicus_Y_G_57_14	439386	Non-Human, Hydrothermal	Facultative	NA	44.699641	-110.745721
+Sulfolobus_islandicus_Y_N_15_51	419942	Non-Human, Hydrothermal	Facultative	NA	44.6184	-110.1025
+Sulfolobus_solfataricus_98_2	555311	Non-Human	Obligate aerobe	NA	NA	NA
+Sulfolobus_solfataricus_P2	273057	Non-Human	Obligate aerobe	NA	NA	NA
+Sulfolobus_tokodaii_7	273063	Non-Human, Hydrothermal	Aerobe	NA	32.96666	131.03333
+Sulfurihydrogenibium_azorense_Az_Fu1	204536	Non-Human, Soil	Facultative	NA	37.765221	-25.30756
+Sulfurihydrogenibium_sp_YO3AOP1	436114	Non-Human, Soil	Facultative	NA	44.636707	-110.438919
+Sulfurihydrogenibium_yellowstonense_SS_5	432331	Non-Human, Hydrothermal	Microaerophilic	NA	44.376262	-110.690383
+Sulfurospirillum_deleyianum_DSM_6946	525898	Non-Human	Microaerophilic	NA	52.17	10.55
+Sulfurovum_sp_NBC37_1	387093	Non-Human, Marine (Other)	Anaerobe	Non-Pathogen	27.783333	126.883333
+Symbiobacterium_thermophilum_IAM_14863	292459	Non-Human, Soil	Anaerobe	NA	34.385203	132.455293
+Synechococcus_elongatus_PCC_6301	269084	Non-Human	Facultative	NA	NA	NA
+Synechococcus_elongatus_PCC_7942	1140	Non-Human	Facultative	NA	NA	NA
+Synechococcus_sp_BL107	313625	Non-Human, Marine (Other)	Facultative	NA	41.666667	2.8
+Synechococcus_sp_CC9311	64471	Non-Human, Marine (Other)	NA	Non-Pathogen	31.9001	-124.1668
+Synechococcus_sp_CC9605	110662	Non-Human, Marine (Other)	NA	NA	NA	NA
+Synechococcus_sp_CC9902	316279	Non-Human, Marine (Other)	NA	NA	NA	NA
+Synechococcus_sp_JA_2_3Ba_2_13	321332	Non-Human, Hydrothermal	Facultative	NA	44.376262	-110.690383
+Synechococcus_sp_JA_3_3Ab	321327	Non-Human, Hydrothermal	Facultative	NA	44.533823	-110.797433
+Synechococcus_sp_PCC_7002	32049	Non-Human, Marine (Other)	Facultative	NA	17.972949	-67.047164
+Synechococcus_sp_PCC_7335	91464	Non-Human, Marine (Other)	Facultative	NA	31.31667	-113.53333
+Synechococcus_sp_RCC307	316278	Non-Human, Marine (Other)	Facultative	NA	39.166667	6.166667
+Synechococcus_sp_RS9916	221359	Non-Human, Marine (Other)	Facultative	NA	29.46667	34.91667
+Synechococcus_sp_RS9917	221360	Non-Human, Marine (Other)	Facultative	NA	29.46667	34.91667
+Synechococcus_sp_WH_5701	69042	Non-Human, Marine (Other)	Facultative	NA	41.058085	-72.8656045
+Synechococcus_sp_WH_7803	32051	Non-Human, Marine (Other)	NA	NA	33.7423	-67.4913
+Synechococcus_sp_WH_7805	59931	Non-Human, Marine (Other)	Facultative	NA	33.75	-67.5
+Synechococcus_sp_WH_8102	84588	Non-Human, Marine (Other)	NA	NA	22.495	-65.6
+Synechococcus_sp_WH_8109	166314	Non-Human, Marine (Other)	Facultative	NA	39.643333	-70.462
+Synechocystis_sp_PCC_6803	1148	Non-Human	Facultative	NA	NA	NA
+Syntrophobacter_fumaroxidans_MPOB	335543	Non-Human	Anaerobe	Non-Pathogen	NA	NA
+Syntrophomonas_wolfei_wolfei_Goettingen	335541	Non-Human	Anaerobe	NA	51.532	9.928
+Syntrophothermus_lipocalidus_DSM_12680	643648	Non-Human	Obligate anaerobe	NA	NA	NA
+Syntrophus_aciditrophicus_SB	56780	Non-Human	Anaerobe	NA	35.191213	-97.441347
+Teredinibacter_turnerae_T7901	377629	Non-Human	NA	NA	34.726186	-76.647763
+Thalassobium_sp_R2A62	633131	Non-Human, Marine (Other)	NA	NA	44.65	-124.167
+Thauera_sp_MZ1T	85643	Non-Human	Facultative	NA	NA	NA
+Thermanaerovibrio_acidaminovorans_DSM_6589	525903	Non-Human	Obligate anaerobe	NA	51.589	4.774
+Thermoanaerobacter_brockii_subsp_finnii_Ako_1	509193	Non-Human	Anaerobe	NA	-2.042025	29.407518
+Thermoanaerobacter_ethanolicus_CCSD1	589861	Non-Human	Anaerobe	NA	NA	NA
+Thermoanaerobacter_italicus_Ab9	580331	Non-Human	Anaerobe	NA	45.360542	11.789381
+Thermoanaerobacter_mathranii_subsp_mathranii_str_A3	583358	Non-Human, Hydrothermal	Anaerobe	NA	NA	NA
+Thermoanaerobacter_pseudethanolicus_ATCC_33223	340099	Non-Human, Hydrothermal	Anaerobe	NA	44.376262	-110.690383
+Thermoanaerobacter_sp_X513	573062	Non-Human	Anaerobe	NA	39.75	-107.62
+Thermoanaerobacter_sp_X514	399726	Non-Human	Anaerobe	NA	39.348317	-107.859192
+Thermoanaerobacter_sp_X561	588857	Non-Human	Anaerobe	NA	NA	NA
+Thermoanaerobacter_tengcongensis_MB4	273068	Non-Human, Hydrothermal	Anaerobe	NA	NA	NA
+Thermoanaerobacterium_thermosaccharolyticum_DSM_571	580327	Non-Human	Obligate anaerobe	NA	NA	NA
+Thermobaculum_terrenum_ATCC_BAA_798	525904	Non-Human, Soil	Obligate aerobe	NA	44.393704	-110.567703
+Thermobifida_fusca_YX	269800	Human	Aerobe	Pathogen	NA	NA
+Thermobispora_bispora_DSM_43833	469371	Non-Human	Aerobe	NA	52.52	14.42
+Thermococcus_barophilus_MP	391623	Non-Human, Marine (Heterotroph)	NA	NA	23.224118	-44.564984
+Thermococcus_gammatolerans_EJ3	593117	Non-Human, Hydrothermal	Anaerobe	Pathogen	NA	NA
+Thermococcus_kodakaraensis_KOD1	69014	Non-Human	Anaerobe	NA	31.596554	130.557116
+Thermococcus_onnurineus_NA1	523850	Non-Human	Anaerobe	NA	NA	NA
+Thermococcus_sibiricus_MM_739	604354	Non-Human, Hydrothermal	Anaerobe	NA	NA	NA
+Thermococcus_sp_AM4	246969	Non-Human, Marine (Other)	Anaerobe	NA	12.13333	-103.93333
+Thermocrinis_albus_DSM_14484	638303	Non-Human, Hydrothermal	Microaerophilic	NA	64	-21.2
+Thermodesulfovibrio_yellowstonii_DSM_11347	289376	Non-Human	NA	NA	44.453591	-110.358796
+Thermofilum_pendens_Hrk_5	368408	Non-Human	Anaerobe	Non-Pathogen	NA	NA
+Thermomicrobium_roseum_DSM_5159	309801	Non-Human	Aerobe	NA	44.376262	-110.690383
+Thermomonospora_curvata_DSM_43183	471852	Non-Human	Aerobe	NA	NA	NA
+Thermoplasma_acidophilum_DSM_1728	273075	Non-Human	Facultative	NA	NA	NA
+Thermoplasma_volcanium_GSS1	273116	Non-Human, Marine (Other)	Facultative	NA	38.4879	14.9456
+Thermoproteus_neutrophilus_V24Sta	444157	Non-Human, Hydrothermal	Anaerobe	NA	NA	NA
+Thermosinus_carboxydivorans_Nor1	401526	Non-Human, Hydrothermal	Anaerobe	NA	NA	NA
+Thermosipho_africanus_TCF52B	484019	Non-Human	Anaerobe	NA	NA	NA
+Thermosipho_melanesiensis_BI429	391009	Non-Human, Marine (Other)	Anaerobe	NA	-22.058056	-176.0775
+Thermosphaera_aggregans_DSM_11486	633148	Non-Human, Hydrothermal	Anaerobe	NA	44.806	-110.448
+Thermosynechococcus_elongatus_BP_1	197221	Non-Human, Hydrothermal	NA	NA	33.318279	131.45264
+Thermotoga_lettingae_TMO	416591	Non-Human	Anaerobe	NA	51.9646	5.6623
+Thermotoga_maritima_MSB8	243274	Non-Human, Marine (Heterotroph)	Anaerobe	NA	NA	NA
+Thermotoga_naphthophila_RKU_10	590168	Non-Human	Anaerobe	NA	37.916192	139.036413
+Thermotoga_neapolitana_DSM_4359	309803	Non-Human	Anaerobe	NA	40.840097	14.251636
+Thermotoga_sp_RQ2	126740	Non-Human	Anaerobe	NA	NA	NA
+Thermus_aquaticus_Y51MC23	498848	Non-Human, Hydrothermal	Obligate aerobe	NA	NA	NA
+Thermus_thermophilus_HB27	262724	Non-Human	Aerobe	NA	NA	NA
+Thermus_thermophilus_HB8	300852	Non-Human, Hydrothermal	Aerobe	NA	35.0942	138.37738
+Thioalkalivibrio_sp_HL_EbGR7	396588	Non-Human	Facultative	NA	NA	NA
+Thioalkalivibrio_sp_K90mix	396595	Non-Human	Facultative	NA	NA	NA
+Thiobacillus_denitrificans_ATCC_25259	292415	Non-Human, Soil	Facultative	NA	NA	NA
+Thiomicrospira_crunogena_XCL_2	317025	Non-Human, Marine (Other)	Anaerobe	NA	NA	NA
+Thiomicrospira_denitrificans_ATCC_33889	326298	Non-Human, Marine (Other)	Anaerobe	NA	NA	NA
+Thiomonas_intermedia_K12	75379	Non-Human	Aerobe	NA	53.553407	9.992196
+Tolumonas_auensis_TA_4_DSM_9187	595494	Non-Human	Facultative	NA	NA	NA
+Treponema_denticola_ATCC_35405	243275	Human	Anaerobe	Pathogen	NA	NA
+Treponema_pallidum_pallidum_Nichols	243276	Human	Anaerobe	Pathogen	NA	NA
+Treponema_pallidum_pallidum_SS14	455434	Human	Anaerobe	Pathogen	33.7532	-84.3901
+Treponema_pallidum_subsp_pallidum_str_Chicago	666714	Human	Anaerobe	Pathogen	NA	NA
+Treponema_vincentii_ATCC_35580	596324	Human, Oral (Other)	NA	NA	NA	NA
+Trichodesmium_erythraeum_IMS101	203124	Non-Human, Marine (Other)	Aerobe	Non-Pathogen	35	-76
+Tropheryma_whipplei_TW08_27	218496	Human	Aerobe	Pathogen	NA	NA
+Tropheryma_whipplei_Twist	203267	Human	Aerobe	Pathogen	NA	NA
+Truepera_radiovictrix_DSM_17093	649638	Non-Human, Hydrothermal	Aerobe	Pathogen	37.946797	-25.490113
+Tsukamurella_paurometabola_DSM_20162	521096	Human, Soil	Aerobe	NA	NA	NA
+Turicibacter_sp_PC909	702450	Human, Gut	Anaerobe	NA	NA	NA
+Ulvibacter_sp_SCB49	50743	Non-Human, Marine (Other)	NA	NA	32.86694	-117.2575
+Ureaplasma_parvum_serovar_14_str_ATCC_33697	515609	Human, Urogenital (Other)	Facultative	Pathogen	NA	NA
+Ureaplasma_parvum_serovar_1_str_ATCC_27813	515608	Human	Facultative	Pathogen	NA	NA
+Ureaplasma_parvum_serovar_3_str_ATCC_27815	505682	Human	Facultative	Pathogen	NA	NA
+Ureaplasma_parvum_serovar_3_str_ATCC_700970	273119	Human, Urogenital (Other)	Facultative	Pathogen	33.5324	-86.803
+Ureaplasma_parvum_serovar_6_str_ATCC_27818	519851	Human, Urogenital (Other)	Facultative	Pathogen	NA	NA
+Ureaplasma_urealyticum_serovar_10_str_ATCC_33699	565575	Human, Urogenital (Other)	Facultative	Pathogen	NA	NA
+Ureaplasma_urealyticum_serovar_11_str_ATCC_33695	526347	Human, Urogenital (Other)	Facultative	Pathogen	NA	NA
+Ureaplasma_urealyticum_serovar_12_str_ATCC_33696	550747	Human, Urogenital (Other)	Facultative	Pathogen	NA	NA
+Ureaplasma_urealyticum_serovar_13_str_ATCC_33698	515611	Human, Urogenital (Other)	Facultative	Pathogen	NA	NA
+Ureaplasma_urealyticum_serovar_2_str_ATCC_27814	626096	Human, Urogenital (Other)	Facultative	Pathogen	NA	NA
+Ureaplasma_urealyticum_serovar_4_str_ATCC_27816	550748	Human, Urogenital (Other)	Facultative	Pathogen	NA	NA
+Ureaplasma_urealyticum_serovar_5_str_ATCC_27817	518603	Human, Urogenital (Other)	Facultative	Pathogen	NA	NA
+Ureaplasma_urealyticum_serovar_7_str_ATCC_27819	519849	Human, Urogenital (Other)	Facultative	Pathogen	NA	NA
+Ureaplasma_urealyticum_serovar_8_str_ATCC_27618	626095	Human, Urogenital (Other)	Facultative	Pathogen	NA	NA
+Ureaplasma_urealyticum_serovar_9_str_ATCC_33175	550773	Human, Urogenital (Other)	Facultative	Pathogen	49.263	123.138
+Variovorax_paradoxus_S110	543728	Non-Human, Soil	Aerobe	NA	NA	NA
+Veillonella_dispar_ATCC_17748	546273	Human, Oral (Other)	Anaerobe	NA	NA	NA
+Veillonella_parvula_ATCC_17745	686660	Human, Oral (Other)	Anaerobe	NA	NA	NA
+Veillonella_parvula_DSM_2008	479436	Human, Gut	Anaerobe	Pathogen	NA	NA
+Veillonella_sp_3_1_44	457416	Human, Gut	Anaerobe	NA	NA	NA
+Veillonella_sp_6_1_27	450749	Human, Gut	Anaerobe	NA	NA	NA
+Verminephrobacter_eiseniae_EF01_2	391735	Non-Human, Soil	NA	Non-Pathogen	47.606	-122.332
+Verrucomicrobiae_bacterium_DG1235	382464	Non-Human, Marine (Other)	Aerobe	NA	50.56667	-4.23333
+Verrucomicrobium_spinosum_DSM_4136	240016	Non-Human	Facultative	NA	35.45765	139.574203
+Vibrio_alginolyticus_12G01	314288	Human, Marine (Other)	Facultative	Pathogen	NA	NA
+Vibrio_alginolyticus_40B	674977	Non-Human, Marine (Heterotroph)	Facultative	NA	NA	NA
+Vibrio_campbellii_AND4	314289	Non-Human, Marine (Other)	Facultative	NA	7.79944	98.2075
+Vibrio_cholera_CIRS_101	661513	Human	Facultative	NA	23.709921	90.407143
+Vibrio_cholerae_12129_1	592313	Human	Facultative	NA	NA	NA
+Vibrio_cholerae_1587	412966	Human	Facultative	NA	NA	NA
+Vibrio_cholerae_2740_80	412614	Non-Human	Facultative	Non-Pathogen	NA	NA
+Vibrio_cholerae_623_39	417397	Human	Facultative	NA	NA	NA
+Vibrio_cholerae_AM_19226	404974	Human	Facultative	NA	NA	NA
+Vibrio_cholerae_B33	417400	Human	Facultative	NA	-19.827271	34.836109
+Vibrio_cholerae_BX_330286	593587	Human	Facultative	NA	NA	NA
+Vibrio_cholerae_CT_5369_93	675809	Human, Gut, Marine (Heterotroph)	Facultative	NA	NA	NA
+Vibrio_cholerae_INDRE_91_1	675808	Human, Gut, Marine (Heterotroph)	Facultative	NA	NA	NA
+Vibrio_cholerae_M66_2	579112	Human	Facultative	Pathogen	-5.14549	119.4016
+Vibrio_cholerae_MAK_757	412967	Human	Facultative	NA	NA	NA
+Vibrio_cholerae_MJ_1236	593588	Human	Facultative	Pathogen	23.34593	90.71093
+Vibrio_cholerae_MO10	345072	Human	Facultative	NA	NA	NA
+Vibrio_cholerae_MZO_2	417398	Human, Gut	Facultative	NA	NA	NA
+Vibrio_cholerae_MZO_3	412883	Human	Facultative	NA	NA	NA
+Vibrio_cholerae_NCTC_8457	417399	Human	Facultative	NA	NA	NA
+Vibrio_cholerae_O1_bv_eltor_N16961	243277	Human, Gut	Facultative	Pathogen	NA	NA
+Vibrio_cholerae_O395	345073	Human	Facultative	Pathogen	NA	NA
+Vibrio_cholerae_RC27	675807	Human, Gut, Marine (Heterotroph)	Facultative	NA	NA	NA
+Vibrio_cholerae_RC385	345074	Human, Marine (Heterotroph)	Facultative	NA	37.584154	-76.178374
+Vibrio_cholerae_RC9	593589	Human	Facultative	NA	NA	NA
+Vibrio_cholerae_TMA_21	593590	Human	Facultative	NA	NA	NA
+Vibrio_cholerae_TM_11079_80	593586	Human	Facultative	NA	NA	NA
+Vibrio_cholerae_V51	345075	Human, Gut	Facultative	NA	NA	NA
+Vibrio_cholerae_V52	345076	Human, Gut	Facultative	Pathogen	NA	NA
+Vibrio_cholerae_bv_albensis_VL426	593585	Human	Facultative	NA	NA	NA
+Vibrio_coralliilyticus_ATCC_BAA_450	675814	Non-Human, Marine (Heterotroph)	Facultative	NA	-6.164948	39.202602
+Vibrio_fischeri_ES114	312309	Non-Human	Facultative	Non-Pathogen	NA	NA
+Vibrio_fischeri_MJ11	388396	Non-Human	Facultative	NA	34	132
+Vibrio_furnissii_CIP_102972	675811	Human, Gut, Marine (Heterotroph)	Facultative	NA	NA	NA
+Vibrio_harveyi_1DA3	673519	Non-Human, Marine (Heterotroph)	Facultative	NA	NA	NA
+Vibrio_harveyi_ATCC_BAA_1116	338187	Non-Human, Marine (Heterotroph)	Facultative	Pathogen	NA	NA
+Vibrio_harveyi_HY01	410291	Non-Human, Marine (Heterotroph)	Facultative	NA	NA	NA
+Vibrio_metschnikovii_CIP_69_14	675813	Non-Human, Marine (Heterotroph)	Facultative	NA	NA	NA
+Vibrio_mimicus_MB_451	675806	Human, Gut, Marine (Heterotroph)	Facultative	NA	23.34593	90.71093
+Vibrio_mimicus_VM223	675820	Non-Human, Marine (Heterotroph)	Facultative	NA	-23.523322	-46.638565
+Vibrio_mimicus_VM573	671076	Non-Human, Marine (Heterotroph)	Facultative	NA	NA	NA
+Vibrio_orientalis_CIP_102891	675816	Non-Human, Marine (Heterotroph)	Facultative	NA	NA	NA
+Vibrio_parahaemolyticus_16	391586	Human, Marine (Heterotroph)	Facultative	NA	NA	NA
+Vibrio_parahaemolyticus_AN_5034	563773	Human	Facultative	NA	NA	NA
+Vibrio_parahaemolyticus_AQ3810	419109	Human	Facultative	NA	NA	NA
+Vibrio_parahaemolyticus_AQ4037	563772	Human	Facultative	NA	NA	NA
+Vibrio_parahaemolyticus_K5030	627611	Human	Facultative	NA	NA	NA
+Vibrio_parahaemolyticus_Peru_466	563771	Human	Facultative	NA	NA	NA
+Vibrio_parahaemolyticus_RIMD_2210633	223926	Human	Facultative	Pathogen	34.693738	135.502165
+Vibrio_shilonii_AK1	391591	Non-Human, Marine (Heterotroph)	Facultative	Pathogen	32.49139	34.88611
+Vibrio_sp_Ex25	150340	Non-Human, Marine (Heterotroph)	Facultative	NA	NA	NA
+Vibrio_sp_MED222	314290	Non-Human, Marine (Heterotroph)	Facultative	NA	41.66667	2.8
+Vibrio_sp_RC341	675810	Human, Gut, Marine (Heterotroph)	Facultative	NA	38.699015	-76.415863
+Vibrio_sp_RC586	675815	Non-Human, Marine (Heterotroph)	Facultative	NA	38.684009	-76.40213
+Vibrio_splendidus_LGP32	575788	Non-Human	Facultative	Pathogen	NA	NA
+Vibrio_vulnificus_CMCP6	216895	Human	Facultative	Pathogen	NA	NA
+Vibrio_vulnificus_YJ016	196600	Human	Facultative	Pathogen	NA	NA
+Vibrionales_bacterium_SWAT_3	391574	Non-Human, Marine (Other)	NA	NA	32.85	-117.25
+Victivallis_vadensis_ATCC_BAA_548	340101	Human, Gut	Anaerobe	NA	NA	NA
+Waddlia_chondrophila_WSU_86_1044	716544	Non-Human, Farm	NA	NA	NA	NA
+Weissella_paramesenteroides_ATCC_33313	585506	Human, Gut	Aerobe	NA	NA	NA
+Wigglesworthia_glossinidia_endosymbiont_of_Glossina_brevipalpis	36870	Non-Human	NA	NA	NA	NA
+Wolbachia_endosymbiont_TRS_of_Brugia_malayi	292805	Non-Human	Aerobe	NA	NA	NA
+Wolbachia_endosymbiont_of_Culex_quinquefasciatus_JHB	569881	Non-Human	Aerobe	NA	NA	NA
+Wolbachia_endosymbiont_of_Drosophila_ananassae	307502	Non-Human	Aerobe	NA	NA	NA
+Wolbachia_endosymbiont_of_Drosophila_melanogaster	163164	Non-Human	Aerobe	NA	NA	NA
+Wolbachia_endosymbiont_of_Drosophila_simulans	77038	Non-Human	Aerobe	NA	NA	NA
+Wolbachia_endosymbiont_of_Drosophila_willistoni_TSC_14030_0811_24	384035	Non-Human	Aerobe	NA	NA	NA
+Wolbachia_pipientis_wPip	955	Non-Human	Aerobe	NA	NA	NA
+Wolbachia_sp_wRi	66084	Non-Human	Aerobe	NA	NA	NA
+Wolinella_succinogenes_DSM_1740	273121	Non-Human, Farm	Anaerobe	Non-Pathogen	NA	NA
+Xanthobacter_autotrophicus_Py2	78245	Non-Human, Soil	Facultative	NA	NA	NA
+Xanthomonas_albilineans	29447	Non-Human	NA	NA	NA	NA
+Xanthomonas_axonopodis_pv_citri_306	190486	Non-Human	Aerobe	Pathogen	NA	NA
+Xanthomonas_campestris_pv_campestris	340	Non-Human	Aerobe	Pathogen	NA	NA
+Xanthomonas_campestris_pv_campestris_8004	314565	Non-Human	Aerobe	Pathogen	50.928014	-0.461707
+Xanthomonas_campestris_pv_campestris_ATCC_33913	190485	Non-Human	Aerobe	Pathogen	NA	NA
+Xanthomonas_campestris_pv_musacearum_NCPPB4381	559737	Non-Human	Aerobe	Pathogen	NA	NA
+Xanthomonas_campestris_pv_vasculorum_NCPPB702	559736	Non-Human	Aerobe	Pathogen	NA	NA
+Xanthomonas_campestris_pv_vesicatoria_85_10	316273	Non-Human	Aerobe	Pathogen	NA	NA
+Xanthomonas_fuscans_subsp_aurantifolii_str_ICPB_10535	427082	Non-Human	Aerobe	Pathogen	NA	NA
+Xanthomonas_fuscans_subsp_aurantifolii_str_ICPB_11122	427081	Non-Human	Aerobe	Pathogen	NA	NA
+Xanthomonas_oryzae_pv_oryzae_KACC10331	291331	Non-Human	Aerobe	Pathogen	NA	NA
+Xanthomonas_oryzae_pv_oryzae_MAFF_311018	342109	Non-Human	Aerobe	Pathogen	NA	NA
+Xanthomonas_oryzae_pv_oryzae_PXO99A	360094	Non-Human	Aerobe	Pathogen	NA	NA
+Xanthomonas_oryzae_pv_oryzicola_BLS256	383407	Non-Human	Aerobe	Pathogen	NA	NA
+Xenorhabdus_bovienii_SS_2004	406818	Non-Human, Soil	Facultative	Pathogen	NA	NA
+Xylanimonas_cellulosilytica_DSM_15894	446471	Non-Human, Soil	Aerobe	NA	40.964972	-5.663047
+Xylella_fastidiosa_9a5c	160492	Non-Human	Aerobe	Pathogen	NA	-43.703135
+Xylella_fastidiosa_Ann_1	155920	Non-Human	Aerobe	Pathogen	NA	NA
+Xylella_fastidiosa_Dixon	155919	Non-Human	Aerobe	Pathogen	NA	NA
+Xylella_fastidiosa_M12	405440	Non-Human	Aerobe	Pathogen	NA	NA
+Xylella_fastidiosa_M23	405441	Non-Human	Aerobe	Pathogen	NA	NA
+Xylella_fastidiosa_Temecula1	183190	Non-Human	Aerobe	Pathogen	NA	NA
+Yersinia_bercovieri_ATCC_43970	349968	Human, Gut	Facultative	Pathogen	NA	NA
+Yersinia_enterocolitica_enterocolitica_8081	393305	Human	Aerobe	Pathogen	NA	NA
+Yersinia_frederiksenii_ATCC_33641	349966	Human	Facultative	Pathogen	NA	NA
+Yersinia_kristensenii_ATCC_33638	527012	Human, Urogenital (Other)	Facultative	Pathogen	NA	NA
+Yersinia_mollaretii_ATCC_43969	349967	Human, Soil, Food	Facultative	Pathogen	NA	NA
+Yersinia_pestis_Angola	349746	Human	Facultative	Pathogen	NA	NA
+Yersinia_pestis_Antiqua	360102	Human	Facultative	Pathogen	NA	NA
+Yersinia_pestis_CA88_4125	412420	Human	Facultative	Pathogen	35.985007	-121.245346
+Yersinia_pestis_CO92	214092	Human, Airways (Other)	Facultative	Pathogen	NA	NA
+Yersinia_pestis_D106004	637382	Non-Human	Facultative	Pathogen	NA	NA
+Yersinia_pestis_D182038	637385	Non-Human	Facultative	Pathogen	NA	NA
+Yersinia_pestis_KIM	187410	Human	Facultative	Pathogen	NA	NA
+Yersinia_pestis_KIM_D27	687916	Human	Facultative	Pathogen	NA	NA
+Yersinia_pestis_Nepal516	377628	Human	Facultative	Pathogen	NA	NA
+Yersinia_pestis_Nepal516A	377628	Human	Facultative	Pathogen	NA	NA
+Yersinia_pestis_Pestoides_A	545431	Human	Facultative	Pathogen	NA	NA
+Yersinia_pestis_Pestoides_F	386656	Human	Facultative	Pathogen	NA	NA
+Yersinia_pestis_Z176003	637386	Non-Human	Facultative	Pathogen	NA	NA
+Yersinia_pestis_biovar_Orientalis_str_India_195	547047	Human	Facultative	Pathogen	NA	NA
+Yersinia_pestis_biovar_Orientalis_str_PEXU2	547046	Human	Facultative	Pathogen	NA	NA
+Yersinia_pestis_bv_Antiqua_B42003004	404215	Human	Facultative	Pathogen	NA	NA
+Yersinia_pestis_bv_Antiqua_E1979001	360099	Human	Facultative	Pathogen	NA	NA
+Yersinia_pestis_bv_Mediaevalis_K1973002	404216	Human	Facultative	Pathogen	NA	NA
+Yersinia_pestis_bv_Microtus_91001	229193	Human	Facultative	Pathogen	NA	NA
+Yersinia_pestis_bv_Orientalis_IP275	373665	Human	Facultative	Pathogen	NA	NA
+Yersinia_pestis_bv_Orientalis_MG05_1020	404217	Human	Facultative	Pathogen	NA	NA
+Yersinia_pseudotuberculosis_IP_31758	349747	Human, Gut	Facultative	Pathogen	45.052564	135
+Yersinia_pseudotuberculosis_IP_32953	273123	Non-Human, Soil	Facultative	Pathogen	NA	NA
+Yersinia_pseudotuberculosis_PB1	502801	Human	Facultative	Pathogen	NA	NA
+Yersinia_pseudotuberculosis_YPIII	502800	Human	Facultative	Pathogen	NA	NA
+Yersinia_rohdei_ATCC_43380	527004	Non-Human	Facultative	Non-Pathogen	NA	NA
+Yersinia_ruckeri_ATCC_29473	527005	Non-Human	Facultative	Pathogen	NA	NA
+Zunongwangia_profunda_SM_A87	655815	Non-Human	Obligate aerobe	NA	NA	NA
+Zymomonas_mobilis_mobilis_ZM4	264203	Non-Human	Facultative	NA	NA	NA
+Zymomonas_mobilis_subsp_mobilis_ATCC_10988	555217	Non-Human	Facultative	NA	NA	NA
+Zymomonas_mobilis_subsp_mobilis_NCIMB_11163	622759	Non-Human	Facultative	NA	NA	NA
+alpha_proteobacterium_HIMB114	684719	Non-Human, Marine (Other)	NA	NA	21.460467	-157.787657
+bacterium_Ellin514	320771	Non-Human, Soil	Aerobe	NA	NA	NA
+bacterium_S5	653733	Non-Human	Anaerobe	NA	NA	NA
+beta_proteobacterium_KB13	314607	Non-Human, Marine (Other)	NA	NA	21.460467	-157.787657
+candidate_division_TM7_genomosp_GTL1	19913	Non-Human	NA	NA	NA	NA
+cyanobacterium_UCYN_A	713887	Non-Human	NA	NA	23.005	-157.989
+delta_proteobacterium_MLMS_1	262489	Non-Human	Anaerobe	NA	37.986853	-119.045711
+gamma_proteobacterium_HTCC5015	391615	Non-Human, Marine (Other)	NA	NA	NA	NA
+gamma_proteobacterium_NOR51_B	565045	Non-Human, Marine (Other)	NA	NA	54.9725	8.3398
+gamma_proteobacterium_NOR5_3	566466	Non-Human, Marine (Other)	NA	NA	54.9725	8.3398
+marine_gamma_proteobacterium_HTCC2080	247639	Non-Human, Marine (Other)	NA	NA	44.650749	-124.064441
+marine_gamma_proteobacterium_HTCC2143	247633	Non-Human, Marine (Other)	NA	NA	44.652348	-124.063185
+marine_gamma_proteobacterium_HTCC2148	247634	Non-Human, Marine (Other)	NA	NA	44.65167	-124.41167
+marine_gamma_proteobacterium_HTCC2207	247635	Non-Human, Marine (Heterotroph)	Aerobe	NA	44.652348	-124.063185
